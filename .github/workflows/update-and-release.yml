@@ -1,0 +1,134 @@
+name: Update and Release
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-and-release
+  cancel-in-progress: false
+
+jobs:
+  update-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - name: Install Pakku
+        run: |
+          curl -fsSL -o pakku.jar \
+            https://github.com/juraj-hrivnak/Pakku/releases/latest/download/pakku.jar
+
+      - name: Resolve latest pack version
+        id: pack
+        run: |
+          LATEST=$(tr -d '[:space:]' < versions/latest)
+          if [ -z "$LATEST" ] || [ ! -d "versions/$LATEST" ]; then
+            echo "Invalid or missing pack version: '$LATEST'"
+            exit 1
+          fi
+          if [ ! -f "versions/$LATEST/pakku.json" ]; then
+            echo "No pakku.json in versions/$LATEST"
+            exit 1
+          fi
+          echo "latest=$LATEST" >> "$GITHUB_OUTPUT"
+          echo "dir=versions/$LATEST" >> "$GITHUB_OUTPUT"
+
+      - name: Update mods
+        working-directory: ${{ steps.pack.outputs.dir }}
+        run: java -jar "${{ github.workspace }}/pakku.jar" update -a
+
+      - name: Fetch updated files
+        working-directory: ${{ steps.pack.outputs.dir }}
+        run: java -jar "${{ github.workspace }}/pakku.jar" fetch
+
+      - name: Detect changes
+        id: changes
+        run: |
+          git add -A "${{ steps.pack.outputs.dir }}"
+          git reset -- "${{ steps.pack.outputs.dir }}/build" || true
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+          git restore --staged . || true
+
+      - name: Decide whether to release
+        id: release
+        run: |
+          if [ "${{ steps.changes.outputs.changed }}" = "true" ]; then
+            echo "do_release=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "do_release=false" >> "$GITHUB_OUTPUT"
+            echo "No mod updates; skipping export and release."
+          fi
+
+      - name: Bump pack version
+        if: steps.release.outputs.do_release == 'true'
+        id: tag
+        working-directory: ${{ steps.pack.outputs.dir }}
+        run: |
+          DATE=$(date -u +%Y.%m.%d)
+          BASE="${{ steps.pack.outputs.latest }}-${DATE}"
+          TAG="$BASE"
+          if git rev-parse "refs/tags/$TAG" >/dev/null 2>&1; then
+            TAG="${BASE}-r${{ github.run_number }}"
+          fi
+          python3 -c "
+          import json
+          path = 'pakku.json'
+          with open(path, encoding='utf-8') as f:
+              data = json.load(f)
+          data['version'] = '''$TAG'''
+          with open(path, 'w', encoding='utf-8', newline='\n') as f:
+              json.dump(data, f, indent=2)
+              f.write('\n')
+          "
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+          echo "Pack version set to $TAG"
+
+      - name: Export mrpack
+        if: steps.release.outputs.do_release == 'true'
+        working-directory: ${{ steps.pack.outputs.dir }}
+        run: java -jar "${{ github.workspace }}/pakku.jar" export --no-server
+
+      - name: Commit lockfile and pack changes
+        if: steps.release.outputs.do_release == 'true'
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A "${{ steps.pack.outputs.dir }}"
+          git reset -- "${{ steps.pack.outputs.dir }}/build" || true
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "chore: update ${{ steps.pack.outputs.latest }} mods (${{ steps.tag.outputs.tag }})"
+            git push
+          fi
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Publish GitHub release
+        if: steps.release.outputs.do_release == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tag.outputs.tag }}
+          name: EcorteSkyblockModPack ${{ steps.tag.outputs.tag }}
+          target_commitish: ${{ steps.commit.outputs.sha }}
+          files: ${{ steps.pack.outputs.dir }}/build/modrinth/*.mrpack
+          generate_release_notes: true
+          fail_on_unmatched_files: true
