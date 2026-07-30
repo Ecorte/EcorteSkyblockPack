@@ -1,0 +1,67 @@
+name: Update Mods
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-mods
+  cancel-in-progress: false
+
+jobs:
+  update-mods:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - name: Install Pakku
+        run: |
+          curl -fsSL -o pakku.jar \
+            https://github.com/juraj-hrivnak/Pakku/releases/latest/download/pakku.jar
+
+      - name: Resolve latest pack version
+        id: pack
+        run: |
+          LATEST=$(tr -d '[:space:]' < versions/latest)
+          if [ -z "$LATEST" ] || [ ! -d "versions/$LATEST" ]; then
+            echo "Invalid or missing pack version: '$LATEST'"
+            exit 1
+          fi
+          if [ ! -f "versions/$LATEST/pakku.json" ]; then
+            echo "No pakku.json in versions/$LATEST"
+            exit 1
+          fi
+          echo "latest=$LATEST" >> "$GITHUB_OUTPUT"
+          echo "dir=versions/$LATEST" >> "$GITHUB_OUTPUT"
+
+      - name: Update mods
+        working-directory: ${{ steps.pack.outputs.dir }}
+        run: java -jar "${{ github.workspace }}/pakku.jar" update -a
+
+      - name: Fetch updated files
+        working-directory: ${{ steps.pack.outputs.dir }}
+        run: java -jar "${{ github.workspace }}/pakku.jar" fetch
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A "${{ steps.pack.outputs.dir }}"
+          git reset -- "${{ steps.pack.outputs.dir }}/build" || true
+          if git diff --cached --quiet; then
+            echo "No mod updates."
+            exit 0
+          fi
+          git commit -m "chore: update ${{ steps.pack.outputs.latest }} mods"
+          git push

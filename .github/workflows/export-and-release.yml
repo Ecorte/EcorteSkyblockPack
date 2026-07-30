@@ -1,0 +1,89 @@
+name: Export and Release
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: export-and-release
+  cancel-in-progress: true
+
+jobs:
+  export-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - name: Install Pakku
+        run: |
+          curl -fsSL -o pakku.jar \
+            https://github.com/juraj-hrivnak/Pakku/releases/latest/download/pakku.jar
+
+      - name: Resolve latest pack version
+        id: pack
+        run: |
+          LATEST=$(tr -d '[:space:]' < versions/latest)
+          if [ -z "$LATEST" ] || [ ! -d "versions/$LATEST" ]; then
+            echo "Invalid or missing pack version: '$LATEST'"
+            exit 1
+          fi
+          if [ ! -f "versions/$LATEST/pakku.json" ]; then
+            echo "No pakku.json in versions/$LATEST"
+            exit 1
+          fi
+          echo "latest=$LATEST" >> "$GITHUB_OUTPUT"
+          echo "dir=versions/$LATEST" >> "$GITHUB_OUTPUT"
+
+      - name: Set release version
+        id: tag
+        working-directory: ${{ steps.pack.outputs.dir }}
+        run: |
+          DATE=$(date -u +%Y.%m.%d)
+          SHORT_SHA="${GITHUB_SHA::7}"
+          BASE="${{ steps.pack.outputs.latest }}-${DATE}"
+          TAG="${BASE}-${SHORT_SHA}"
+          if git rev-parse "refs/tags/$TAG" >/dev/null 2>&1; then
+            TAG="${BASE}-r${{ github.run_number }}-${SHORT_SHA}"
+          fi
+          python3 -c "
+          import json
+          path = 'pakku.json'
+          with open(path, encoding='utf-8') as f:
+              data = json.load(f)
+          data['version'] = '''$TAG'''
+          with open(path, 'w', encoding='utf-8', newline='\n') as f:
+              json.dump(data, f, indent=2)
+              f.write('\n')
+          "
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+          echo "Release version set to $TAG"
+
+      - name: Fetch pack files
+        working-directory: ${{ steps.pack.outputs.dir }}
+        run: java -jar "${{ github.workspace }}/pakku.jar" fetch
+
+      - name: Export mrpack
+        working-directory: ${{ steps.pack.outputs.dir }}
+        run: java -jar "${{ github.workspace }}/pakku.jar" export --no-server
+
+      - name: Publish GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tag.outputs.tag }}
+          name: EcorteSkyblockModPack ${{ steps.tag.outputs.tag }}
+          files: ${{ steps.pack.outputs.dir }}/build/modrinth/*.mrpack
+          generate_release_notes: true
+          fail_on_unmatched_files: true
