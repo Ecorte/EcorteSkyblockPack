@@ -679,7 +679,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "colorsaturation-1.1.0+26.1.jar",
+                    "file_name": "colorsaturation-1.1.1+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -689,19 +689,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fLNnSWgM/versions/gXQ6fSR8/colorsaturation-1.1.0+26.1.jar",
-                    "id": "gXQ6fSR8",
+                    "url": "https://cdn.modrinth.com/data/fLNnSWgM/versions/9hUilYb8/colorsaturation-1.1.1+26.1.jar",
+                    "id": "9hUilYb8",
                     "parent_id": "fLNnSWgM",
                     "hashes": {
-                        "sha512": "af278c58a2e4b26df4fda275a9de6d2674cc6ae85c2e65969b5ca31249cbcfd021a1cce1bad238cb884d86e6da881ac9abd54c8b4542fcc7d93e9b1889d00b60",
-                        "sha1": "e838c01c464b3aaa84d4de30252370ce0569178b"
+                        "sha512": "97a6e95ec83feac1104076c83029ebea0efa3cfb962a694849e02df52cccb98672e786793d4aef7b44bf1eda345b58e5ef321af21f44be89543acf5c602e18fd",
+                        "sha1": "0377ffd1c4ad733726488366a239846a9e39186e"
                     },
                     "required_dependencies": [
                         "AibBIVmj",
                         "Ha28R6CL"
                     ],
-                    "size": 29016,
-                    "date_published": "2026-07-16T20:23:16.752544Z"
+                    "size": 24228,
+                    "date_published": "2026-07-31T19:07:57.507355Z"
                 }
             ]
         },
@@ -1820,7 +1820,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "iconographic-1.0.0-beta.3-26.1+29e7c8a8.jar",
+                    "file_name": "iconographic-1.0.0-beta.4-26.1+9632b6e8.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1830,19 +1830,19 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/jrPpQCNN/versions/RTLbEMU8/iconographic-1.0.0-beta.3-26.1+29e7c8a8.jar",
-                    "id": "RTLbEMU8",
+                    "url": "https://cdn.modrinth.com/data/jrPpQCNN/versions/a4rN1hAh/iconographic-1.0.0-beta.4-26.1+9632b6e8.jar",
+                    "id": "a4rN1hAh",
                     "parent_id": "jrPpQCNN",
                     "hashes": {
-                        "sha512": "ce804c12bd0762b04e51e85c1736903d7e701e1b99797af823bb4c9e6b2520b85e878f9f72e0ed6e241acdad35ff30a0aab93127123314dca21536b82c74af45",
-                        "sha1": "85e79ca88a69ff7117a0509decfce5fc4f98ddf0"
+                        "sha512": "dc422769111ae73156e7cf3a403b8bd040bd3115391829b7752f8cae8fc1e7fb4237e2b4146b468ce97a4a2288a5e4b1d7b98778ae8a7791be9bf3e5eccc3641",
+                        "sha1": "af5ff5d0fdfd04fc59db28e56b0ad5730149bb88"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "Ha28R6CL"
                     ],
-                    "size": 7547098,
-                    "date_published": "2026-07-31T10:20:14.993983Z"
+                    "size": 7552410,
+                    "date_published": "2026-07-31T19:39:39.230441Z"
                 }
             ]
         },
