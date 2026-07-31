@@ -1820,7 +1820,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "iconographic-1.0.0-beta.2-26.1+afce0b75.jar",
+                    "file_name": "iconographic-1.0.0-beta.3-26.1+29e7c8a8.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1830,19 +1830,19 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/jrPpQCNN/versions/4iJu6er1/iconographic-1.0.0-beta.2-26.1+afce0b75.jar",
-                    "id": "4iJu6er1",
+                    "url": "https://cdn.modrinth.com/data/jrPpQCNN/versions/RTLbEMU8/iconographic-1.0.0-beta.3-26.1+29e7c8a8.jar",
+                    "id": "RTLbEMU8",
                     "parent_id": "jrPpQCNN",
                     "hashes": {
-                        "sha512": "26e752857327e0529365ecb5f7248f059ec903f359a1b00d9c9d94682096fbcb9a03d12dcdef010baf65cb9437cc64dfa5da9f9534c875a92ec0b325bf0bc1ea",
-                        "sha1": "2e6d7e6f1a1abd0e692bab3eefdafccef4d916b3"
+                        "sha512": "ce804c12bd0762b04e51e85c1736903d7e701e1b99797af823bb4c9e6b2520b85e878f9f72e0ed6e241acdad35ff30a0aab93127123314dca21536b82c74af45",
+                        "sha1": "85e79ca88a69ff7117a0509decfce5fc4f98ddf0"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "Ha28R6CL"
                     ],
-                    "size": 7463541,
-                    "date_published": "2026-07-17T10:21:13.058595Z"
+                    "size": 7547098,
+                    "date_published": "2026-07-31T10:20:14.993983Z"
                 }
             ]
         },
