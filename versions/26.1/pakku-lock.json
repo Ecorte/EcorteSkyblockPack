@@ -423,7 +423,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Catharsis-1.0.0-beta.20-26.1.jar",
+                    "file_name": "Catharsis-1.0.0-beta.21-26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -433,19 +433,19 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/fc4wBpRx/versions/kmbSTFww/Catharsis-1.0.0-beta.20-26.1.jar",
-                    "id": "kmbSTFww",
+                    "url": "https://cdn.modrinth.com/data/fc4wBpRx/versions/NfEUeWdz/Catharsis-1.0.0-beta.21-26.1.jar",
+                    "id": "NfEUeWdz",
                     "parent_id": "fc4wBpRx",
                     "hashes": {
-                        "sha512": "40608731d20ecc4506c43104d748dd24a76a1398ae0f808828017993fed178cff4f5b52462e6b18a965682d0c120d09a5d2cc396f8724432a9d0b7814d4c42ac",
-                        "sha1": "9099d0ed4f6980ee831c36c942f69cb8ced30451"
+                        "sha512": "97930b3b00eaf4a6df874b248d6d2090ffedf8fc359682af6cfd5afe6cad2da75b73ad0675883712ae638e2963a14056d78580be21d1b714c5999c75728b40fc",
+                        "sha1": "993503f7f78fe9577f4aa4db9c35fd022f127a2f"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 6005571,
-                    "date_published": "2026-07-04T13:51:56.921981Z"
+                    "size": 6118084,
+                    "date_published": "2026-08-01T09:23:14.093556Z"
                 }
             ]
         },
