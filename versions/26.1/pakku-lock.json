@@ -2517,7 +2517,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "longview-1.2.2.jar",
+                    "file_name": "longview-1.3.2.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -2528,16 +2528,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4lDrPSXX/versions/39hMrVrb/longview-1.2.2.jar",
-                    "id": "39hMrVrb",
+                    "url": "https://cdn.modrinth.com/data/4lDrPSXX/versions/dLKrFC8z/longview-1.3.2.jar",
+                    "id": "dLKrFC8z",
                     "parent_id": "4lDrPSXX",
                     "hashes": {
-                        "sha512": "a667baa5bb6ad9d495de9db5b262797f3575f93ee8dc91ba17313bbf460a792ec525c5cfd4ed06b727357565263e1228b920d84e7b02c7274d3906e7d4befdaa",
-                        "sha1": "f1870b6d6982af173ae7166b811f6dec6019b56a"
+                        "sha512": "94830068867ec3620e54c22e575a1462e6dec74075e6c2342226dfd7152cb9213810d0a5fb208a08a3fe1f6095cd167a7eb10e13861f90c099ed7367bd681e30",
+                        "sha1": "9fc7d26dc9621aa04e8c82209550f6af83eebd7b"
                     },
                     "required_dependencies": [],
-                    "size": 36806,
-                    "date_published": "2026-06-27T02:49:05.523187Z"
+                    "size": 45544,
+                    "date_published": "2026-08-02T03:05:17.397334Z"
                 }
             ]
         },
