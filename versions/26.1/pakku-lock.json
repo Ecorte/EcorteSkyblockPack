@@ -3397,7 +3397,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polysprint-1.1.6+26.1.jar",
+                    "file_name": "polysprint-1.2.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3407,19 +3407,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/5oBUeKKM/polysprint-1.1.6+26.1.jar",
-                    "id": "5oBUeKKM",
+                    "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/je8dNlhn/polysprint-1.2.0+26.1.jar",
+                    "id": "je8dNlhn",
                     "parent_id": "i9xRThb3",
                     "hashes": {
-                        "sha512": "fd6d037d4a8a5c9a2b2de69472bebd1a453370bbb0745ca69c2697e9c9967363f6d174163cc88d9716046c2f03c139b541c1b913e0806e8381fbf5be16bc94b8",
-                        "sha1": "1efadd6bb366d941f3e9fd1cc6c73486e66754e6"
+                        "sha512": "75ed8988c6c2b1fe86d52c4e93f3e2e6497fb77c5726f9c94b215f7888df7b8f128baadc965414e7d57522b995bdac4bcafc4de67db9e89400c8ec2bfbfc6d88",
+                        "sha1": "a8b518765dd1d50b46a770a967089542d04b2d67"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "AibBIVmj"
                     ],
-                    "size": 52837,
-                    "date_published": "2026-08-03T07:46:59.167481Z"
+                    "size": 52557,
+                    "date_published": "2026-08-04T22:17:53.263453Z"
                 }
             ]
         },
@@ -4415,7 +4415,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "stella-1.0.6+26.1-b3.jar",
+                    "file_name": "stella-1.0.6+26.1-b4.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4425,16 +4425,16 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/ZSWJelST/versions/cvYS4RL9/stella-1.0.6+26.1-b3.jar",
-                    "id": "cvYS4RL9",
+                    "url": "https://cdn.modrinth.com/data/ZSWJelST/versions/Ax39gj7z/stella-1.0.6+26.1-b4.jar",
+                    "id": "Ax39gj7z",
                     "parent_id": "ZSWJelST",
                     "hashes": {
-                        "sha512": "f8961d82456a8cf70e28619c8233665d60d4ba42c7425a1c99149950917a798d46c3bc8dd4bfce96b0ef2e274a96b32cad18b6cb9557e4ae731495c3ce51b3b1",
-                        "sha1": "4bea9c9d83b51c26bf83c3078bd79dc1981ca646"
+                        "sha512": "5065e3115bcaf6e7c80d05838b8dde8e2d26eac5b1cf0b3180322ebe1695de65f291dd7438c1801ea9aab2e3ae78c611229a7d7083d66177709059df41ec9967",
+                        "sha1": "ca278c7f0333ee79e7e0014d2eb9b9c115e567e2"
                     },
                     "required_dependencies": [],
-                    "size": 5628447,
-                    "date_published": "2026-07-15T17:24:33.547759Z"
+                    "size": 5679185,
+                    "date_published": "2026-08-04T23:25:22.043068Z"
                 }
             ]
         },
