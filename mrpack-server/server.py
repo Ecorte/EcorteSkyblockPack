@@ -55,7 +55,7 @@ def _download(url: str, dest: Path) -> None:
     tmp.replace(dest)
 
 
-def refresh(force: bool = False) -> None:
+def refresh(force: bool = False) -> bool:
     with _lock:
         try:
             release = _github_json(f"https://api.github.com/repos/{REPO}/releases/latest")
@@ -77,7 +77,7 @@ def refresh(force: bool = False) -> None:
             if path.exists() and not force and _state.get("tag") == tag and _state.get("path") == str(path):
                 _state["error"] = None
                 _state["updated_at"] = time.time()
-                return
+                return True
 
             if not path.exists() or force:
                 print(f"Downloading {name} ({tag})...", flush=True)
@@ -99,14 +99,27 @@ def refresh(force: bool = False) -> None:
                     "error": None,
                 }
             )
+            return True
         except Exception as exc:
             _state["error"] = str(exc)
             print(f"Refresh failed: {exc}", flush=True)
+            return False
+
+
+def refresh_with_retries(attempts: int = 8, delay_seconds: float = 2.0) -> bool:
+    for attempt in range(1, attempts + 1):
+        if refresh():
+            return True
+        if attempt < attempts:
+            wait = delay_seconds * attempt
+            print(f"Retrying in {wait:.0f}s ({attempt}/{attempts})...", flush=True)
+            time.sleep(wait)
+    return False
 
 
 def _refresh_loop() -> None:
     while True:
-        time.sleep(REFRESH_SECONDS)
+        time.sleep(15 if not _state.get("path") else REFRESH_SECONDS)
         refresh()
 
 
@@ -181,7 +194,7 @@ class Handler(BaseHTTPRequestHandler):
 def main() -> None:
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     print(f"Fetching latest mrpack for {REPO}...", flush=True)
-    refresh()
+    refresh_with_retries()
     threading.Thread(target=_refresh_loop, name="refresh", daemon=True).start()
     server = ThreadingHTTPServer((HOST, PORT), Handler)
     print(f"Serving latest mrpack on http://{HOST}:{PORT}/latest.mrpack", flush=True)
