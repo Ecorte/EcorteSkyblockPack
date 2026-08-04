@@ -1495,6 +1495,50 @@
             ]
         },
         {
+            "pakku_id": "OdvVGtwBcbplhbpD",
+            "pakku_links": [
+                "UlQ07pl4JvLNpZoQ",
+                "SD1UEyaVaN4LoByC"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "firmament"
+            },
+            "name": {
+                "modrinth": "Firmament for Hypixel SkyBlock"
+            },
+            "id": {
+                "modrinth": "IJNUBZ2a"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Firmament-44.3.0+mc26.1.2.jar",
+                    "mc_versions": [
+                        "26.1.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/IJNUBZ2a/versions/J4SP0hOE/Firmament-44.3.0+mc26.1.2.jar",
+                    "id": "J4SP0hOE",
+                    "parent_id": "IJNUBZ2a",
+                    "hashes": {
+                        "sha512": "245aceedc3c7cac1145ac15b87946442cc25f0563420766eb76d8e6dbd45f07dde8c728fd958faf9c28dc935a2a399176f021f1dbeffe44e230fb1c5a9b75c98",
+                        "sha1": "281d2f5b331a4335b4b051e1f98d2693a10633be"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "Ha28R6CL"
+                    ],
+                    "size": 5690396,
+                    "date_published": "2026-07-27T16:19:51.315007Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "g1fRpIhxfKyvGw8t",
             "pakku_links": [
                 "UlQ07pl4JvLNpZoQ",
