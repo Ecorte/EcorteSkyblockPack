@@ -1471,7 +1471,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Feesh-1.12.0+26.1-fabric.jar",
+                    "file_name": "Feesh-1.12.1+26.1-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1481,16 +1481,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/5plKU9dW/Feesh-1.12.0+26.1-fabric.jar",
-                    "id": "5plKU9dW",
+                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/UFGqgXSh/Feesh-1.12.1+26.1-fabric.jar",
+                    "id": "UFGqgXSh",
                     "parent_id": "QCpogurE",
                     "hashes": {
-                        "sha512": "3550897d417e292f678671f49e7484f204f0698aae6e118d1f8ea284dccacd97dad7c46b15acc20af4b313e6d261d2b81401761e2034d1caa211c2357b02b236",
-                        "sha1": "858561e20febe0a700ad26f06b108551e75be5c9"
+                        "sha512": "a939147a460d30be2b91c75d93e3841c168dd6370c9fc3b054475ced3f0f26b8d17b1b1f119600e2f8e9f134ac4ff1ea9403ad12dfeb65ceeb58b5796953c6a1",
+                        "sha1": "48af3b59c41c67d3446748fdd5c408c2a09e09ad"
                     },
                     "required_dependencies": [],
-                    "size": 2635598,
-                    "date_published": "2026-08-03T15:28:35.937856Z"
+                    "size": 2635512,
+                    "date_published": "2026-08-04T09:11:15.987249Z"
                 }
             ]
         },
@@ -3115,7 +3115,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.1.0.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.1.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3125,19 +3125,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/VjBKmdFW/OneConfig-26.1-fabric-1.1.0.jar",
-                    "id": "VjBKmdFW",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/c676B4cB/OneConfig-26.1-fabric-1.1.1.jar",
+                    "id": "c676B4cB",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "c2d314318a2ae1d7111f8eabbebc38cc7440bbb32b017969db0fac7f0de51cb7a09ae060c16e89a13e2f77d983149839d85c2b67408772d3ab579ee92c9faa89",
-                        "sha1": "67c31c268938e6874bb127dc49bfa40a5b20db10"
+                        "sha512": "0c1380df0e2d38d64209df14fe33c61afe00725d97ad387d0e28b7b596924af9dd551c4d9f32a342946faa5ca81b14a97fc9e73dadc3a9402f76f7702ae11810",
+                        "sha1": "5337d3939405225a92730780af37db9814517582"
                     },
                     "required_dependencies": [
                         "eHe8QhtD",
                         "Ha28R6CL"
                     ],
-                    "size": 13446807,
-                    "date_published": "2026-08-03T20:08:10.915600Z"
+                    "size": 13477376,
+                    "date_published": "2026-08-04T08:04:51.394705Z"
                 }
             ]
         },
@@ -3208,7 +3208,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "overflowparticles-1.1.3+26.1.jar",
+                    "file_name": "overflowparticles-1.1.4+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3218,19 +3218,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/61g97TVF/versions/s9rHZBZJ/overflowparticles-1.1.3+26.1.jar",
-                    "id": "s9rHZBZJ",
+                    "url": "https://cdn.modrinth.com/data/61g97TVF/versions/LAPKnIXx/overflowparticles-1.1.4+26.1.jar",
+                    "id": "LAPKnIXx",
                     "parent_id": "61g97TVF",
                     "hashes": {
-                        "sha512": "e391eccdff919677f3e9735434e5ce65ec32fcd762d26c20318cb03f901752c3674da725156d300a71bcb7af9acd555dc9877a663b7f4e278c10e43fff7f0212",
-                        "sha1": "eb840d9536d92f9340247a6f2199d3d6c32b2a26"
+                        "sha512": "be94374cd43c77230c6e0cc3dfe65bdb62ad05472d9bc0c06cdc33c6158b74ce30ebd203c5cc6e8b3c9a64674c67f5c77d60c12d5260b617c1f30bf89e4577d8",
+                        "sha1": "3f8090459b8dc2635289a336382e3cc8f67bf99b"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "AibBIVmj"
+                        "AibBIVmj",
+                        "Ha28R6CL"
                     ],
-                    "size": 84285,
-                    "date_published": "2026-07-25T04:19:57.951751Z"
+                    "size": 84394,
+                    "date_published": "2026-08-04T08:19:15.216376Z"
                 }
             ]
         },
