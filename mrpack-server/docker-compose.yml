@@ -1,8 +1,7 @@
 services:
   mrpack-server:
     build: .
-    ports:
-      - "${PORT:-8080}:8080"
+    network_mode: host
     env_file:
       - path: .env
         required: false
@@ -12,10 +11,7 @@ services:
       REFRESH_SECONDS: ${REFRESH_SECONDS:-300}
       CACHE_DIR: /data/cache
       HOST: 0.0.0.0
-      PORT: 8080
-    dns:
-      - 1.1.1.1
-      - 8.8.8.8
+      PORT: ${PORT:-8080}
     volumes:
       - mrpack-cache:/data/cache
     restart: unless-stopped
