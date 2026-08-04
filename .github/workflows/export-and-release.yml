@@ -73,9 +73,11 @@ jobs:
           echo "tag=$TAG" >> "$GITHUB_OUTPUT"
           echo "Release version set to $TAG"
 
-      - name: Clean local mods before export
+      - name: Fetch mods for embedded overrides
         working-directory: ${{ steps.pack.outputs.dir }}
-        run: rm -rf mods build
+        run: |
+          rm -rf mods build
+          java -jar "${{ github.workspace }}/pakku.jar" fetch
 
       - name: Export mrpack
         working-directory: ${{ steps.pack.outputs.dir }}
