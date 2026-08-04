@@ -13,7 +13,7 @@ from pathlib import Path
 
 REPO = os.environ.get("GITHUB_REPO", "Ecorte/EcorteSkyblockPack")
 HOST = os.environ.get("HOST", "0.0.0.0")
-PORT = int(os.environ.get("PORT", "8080"))
+PORT = int(os.environ.get("PORT", "8787"))
 CACHE_DIR = Path(os.environ.get("CACHE_DIR", Path(__file__).resolve().parent / "cache"))
 REFRESH_SECONDS = int(os.environ.get("REFRESH_SECONDS", "300"))
 USER_AGENT = os.environ.get("USER_AGENT", "EcorteSkyblockPack-mrpack-server")
@@ -196,7 +196,11 @@ def main() -> None:
     print(f"Fetching latest mrpack for {REPO}...", flush=True)
     refresh_with_retries()
     threading.Thread(target=_refresh_loop, name="refresh", daemon=True).start()
-    server = ThreadingHTTPServer((HOST, PORT), Handler)
+    ThreadingHTTPServer.allow_reuse_address = True
+    try:
+        server = ThreadingHTTPServer((HOST, PORT), Handler)
+    except OSError as exc:
+        raise SystemExit(f"Failed to bind {HOST}:{PORT}: {exc}") from exc
     print(f"Serving latest mrpack on http://{HOST}:{PORT}/latest.mrpack", flush=True)
     server.serve_forever()
 

@@ -11,7 +11,7 @@ services:
       REFRESH_SECONDS: ${REFRESH_SECONDS:-300}
       CACHE_DIR: /data/cache
       HOST: 0.0.0.0
-      PORT: ${PORT:-8080}
+      PORT: ${PORT:-8787}
     volumes:
       - mrpack-cache:/data/cache
     restart: unless-stopped
