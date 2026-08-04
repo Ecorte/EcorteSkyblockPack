@@ -1,0 +1,18 @@
+services:
+  mrpack-server:
+    build: .
+    ports:
+      - "${PORT:-8080}:8080"
+    environment:
+      GITHUB_REPO: ${GITHUB_REPO:-Ecorte/EcorteSkyblockPack}
+      GITHUB_TOKEN: ${GITHUB_TOKEN:-}
+      REFRESH_SECONDS: ${REFRESH_SECONDS:-300}
+      CACHE_DIR: /data/cache
+      HOST: 0.0.0.0
+      PORT: 8080
+    volumes:
+      - mrpack-cache:/data/cache
+    restart: unless-stopped
+
+volumes:
+  mrpack-cache:

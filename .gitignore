@@ -3,6 +3,10 @@ pakku.jar
 **/build/
 **/*.mrpack
 
+# mrpack download server cache
+mrpack-server/cache/
+mrpack-server/.env
+
 # Ephemeral Pakku dirs (keep overrides / client-overrides / server-overrides)
 **/.pakku/staging/
 **/.pakku/shelf/
