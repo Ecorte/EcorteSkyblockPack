@@ -3,6 +3,9 @@ services:
     build: .
     ports:
       - "${PORT:-8080}:8080"
+    env_file:
+      - path: .env
+        required: false
     environment:
       GITHUB_REPO: ${GITHUB_REPO:-Ecorte/EcorteSkyblockPack}
       GITHUB_TOKEN: ${GITHUB_TOKEN:-}
