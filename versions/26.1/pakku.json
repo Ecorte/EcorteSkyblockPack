@@ -1,7 +1,5 @@
 {
   "name": "EcorteSkyblockModPack",
   "version": "26.1-2026.07.29-r10",
-  "overrides": [
-    "mods"
-  ]
+  "overrides": []
 }

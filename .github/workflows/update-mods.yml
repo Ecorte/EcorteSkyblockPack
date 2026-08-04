@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: update-mods
@@ -15,6 +16,8 @@ concurrency:
 jobs:
   update-mods:
     runs-on: ubuntu-latest
+    outputs:
+      pushed: ${{ steps.commit.outputs.pushed }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -49,11 +52,8 @@ jobs:
         working-directory: ${{ steps.pack.outputs.dir }}
         run: java -jar "${{ github.workspace }}/pakku.jar" update -a
 
-      - name: Fetch updated files
-        working-directory: ${{ steps.pack.outputs.dir }}
-        run: java -jar "${{ github.workspace }}/pakku.jar" fetch
-
       - name: Commit and push if changed
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -61,7 +61,17 @@ jobs:
           git reset -- "${{ steps.pack.outputs.dir }}/build" || true
           if git diff --cached --quiet; then
             echo "No mod updates."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m "chore: update ${{ steps.pack.outputs.latest }} mods"
           git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+  export-and-release:
+    needs: update-mods
+    if: needs.update-mods.outputs.pushed == 'true'
+    uses: ./.github/workflows/export-and-release.yml
+    secrets: inherit
+    permissions:
+      contents: write

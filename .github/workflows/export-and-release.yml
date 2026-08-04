@@ -4,6 +4,7 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  workflow_call:
 
 permissions:
   contents: write
@@ -19,6 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: Set up Java
@@ -52,7 +54,7 @@ jobs:
         working-directory: ${{ steps.pack.outputs.dir }}
         run: |
           DATE=$(date -u +%Y.%m.%d)
-          SHORT_SHA="${GITHUB_SHA::7}"
+          SHORT_SHA=$(git rev-parse --short HEAD)
           BASE="${{ steps.pack.outputs.latest }}-${DATE}"
           TAG="${BASE}-${SHORT_SHA}"
           if git rev-parse "refs/tags/$TAG" >/dev/null 2>&1; then
@@ -71,9 +73,9 @@ jobs:
           echo "tag=$TAG" >> "$GITHUB_OUTPUT"
           echo "Release version set to $TAG"
 
-      - name: Fetch pack files
+      - name: Clean local mods before export
         working-directory: ${{ steps.pack.outputs.dir }}
-        run: java -jar "${{ github.workspace }}/pakku.jar" fetch
+        run: rm -rf mods build
 
       - name: Export mrpack
         working-directory: ${{ steps.pack.outputs.dir }}
