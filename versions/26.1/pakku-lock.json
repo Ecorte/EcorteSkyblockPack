@@ -3534,7 +3534,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polytone-26.1.2-6.2.5-fabric.jar",
+                    "file_name": "polytone-26.1.2-6.2.6-fabric.jar",
                     "mc_versions": [
                         "26.1.2"
                     ],
@@ -3542,16 +3542,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/tjXYr1aW/polytone-26.1.2-6.2.5-fabric.jar",
-                    "id": "tjXYr1aW",
+                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/rHnbV29m/polytone-26.1.2-6.2.6-fabric.jar",
+                    "id": "rHnbV29m",
                     "parent_id": "3qAYkBMB",
                     "hashes": {
-                        "sha512": "24dff8fea305e575b419715e3b223e8bccfee0f681eec077eea24c195e07198f71a4a7506086da58325b9e400f7d18c0f18b846fd6a128b1a6887a6d7be62966",
-                        "sha1": "2d1410b5e00f64f10c62139420c9853049b21f61"
+                        "sha512": "99d447d2835cf070880157dcfdbe369d13a8fdf3a2117eeff7ce72b4f8c003ef038ec201fed654e67ee514b2d317600ac6f4876d714d1d523ab5acf926000312",
+                        "sha1": "cf945895bcc342749ab98feed1c9eda6bffe0f37"
                     },
                     "required_dependencies": [],
-                    "size": 2508337,
-                    "date_published": "2026-08-05T17:30:16.579758Z"
+                    "size": 2508338,
+                    "date_published": "2026-08-06T06:42:27.155085Z"
                 }
             ]
         },
