@@ -1471,7 +1471,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Feesh-1.12.1+26.1-fabric.jar",
+                    "file_name": "Feesh-1.12.2+26.1-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1481,19 +1481,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/UFGqgXSh/Feesh-1.12.1+26.1-fabric.jar",
-                    "id": "UFGqgXSh",
+                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/SyWSrh5y/Feesh-1.12.2+26.1-fabric.jar",
+                    "id": "SyWSrh5y",
                     "parent_id": "QCpogurE",
                     "hashes": {
-                        "sha512": "a939147a460d30be2b91c75d93e3841c168dd6370c9fc3b054475ced3f0f26b8d17b1b1f119600e2f8e9f134ac4ff1ea9403ad12dfeb65ceeb58b5796953c6a1",
-                        "sha1": "48af3b59c41c67d3446748fdd5c408c2a09e09ad"
+                        "sha512": "7e9626ae57865be55f5343bdeba30b6b41d6d549eed0f2b4db83519136234ef8bc59e8dcb82dca22e7510a4e3ba54457b7e23e383b613a4c5155eb0551de6c53",
+                        "sha1": "ab4555fd2a0cd05a3ceb51aa2bd5ebcf316ebfb4"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "Ha28R6CL"
                     ],
-                    "size": 2635512,
-                    "date_published": "2026-08-04T09:11:15.987249Z"
+                    "size": 2635481,
+                    "date_published": "2026-08-06T10:56:59.765419Z"
                 }
             ]
         },
