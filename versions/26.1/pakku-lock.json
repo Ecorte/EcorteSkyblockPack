@@ -3118,7 +3118,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.1.4.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.1.5.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3128,19 +3128,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/Dgy0wlf9/OneConfig-26.1-fabric-1.1.4.jar",
-                    "id": "Dgy0wlf9",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/SCExC1KY/OneConfig-26.1-fabric-1.1.5.jar",
+                    "id": "SCExC1KY",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "7d168c9e3585232120b60e37aa69d6b54b5a34cf18f45504ca1d266d3424829a4a9f3efdd03c7f1c812fab0b47bd871b82ffe350a10f66b11d5aefe207a1150a",
-                        "sha1": "9c1e13706c0a25bf7361a62a1f533dbcec8cde1f"
+                        "sha512": "b1812e1b739ae359c2cb4ab3bd7f937c06ca31098035105d65459c871db4c439aa38461dd5cd17376564086a37a7723caf4e65f2030e9bfedd52245e691302e6",
+                        "sha1": "30cd7f6e64ce9a659ed4fb6aa1281295ce75e047"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "eHe8QhtD"
+                        "eHe8QhtD",
+                        "Ha28R6CL"
                     ],
-                    "size": 13625038,
-                    "date_published": "2026-08-06T20:05:37.403610Z"
+                    "size": 13696609,
+                    "date_published": "2026-08-07T00:09:24.313227Z"
                 }
             ]
         },
@@ -4247,7 +4247,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "sodium-fabric-0.9.2-alpha.3+mc26.1.2.jar",
+                    "file_name": "sodium-fabric-0.9.2-alpha.4+mc26.1.2.jar",
                     "mc_versions": [
                         "26.1.2"
                     ],
@@ -4255,16 +4255,16 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/7XdPQMOk/sodium-fabric-0.9.2-alpha.3+mc26.1.2.jar",
-                    "id": "7XdPQMOk",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/5FMvNu0I/sodium-fabric-0.9.2-alpha.4+mc26.1.2.jar",
+                    "id": "5FMvNu0I",
                     "parent_id": "AANobbMI",
                     "hashes": {
-                        "sha512": "3e03691df54f922df2999df1cfd25fbc661d396c46c6ce970e5106936195108e4eca8f43658a80c93742b61dc0666cbc05d8fa9c0ec564915634af1aef049043",
-                        "sha1": "92bfaf504b8fecfb4f7f0054802bd79c34356c64"
+                        "sha512": "f0b3a7adf52ccbc71a04a0a373966e338f5c45996d7db992cfdf51dee6e1917fab5922972f58f85baa0faea06e6b9fa89c221119f996ab8b723c91c83396f5b5",
+                        "sha1": "85e6b194a891f90c6b84c34adaac19a793cc8d2f"
                     },
                     "required_dependencies": [],
-                    "size": 1935568,
-                    "date_published": "2026-08-01T00:31:50.628805Z"
+                    "size": 1936354,
+                    "date_published": "2026-08-07T00:47:20.660309Z"
                 }
             ]
         },
