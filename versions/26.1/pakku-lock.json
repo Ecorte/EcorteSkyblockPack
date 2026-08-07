@@ -3878,7 +3878,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SkyBlockPv-1.8.8-26.1.jar",
+                    "file_name": "SkyBlockPv-1.8.9-26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3888,19 +3888,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/8yqXwFLl/versions/DR5Vyetm/SkyBlockPv-1.8.8-26.1.jar",
-                    "id": "DR5Vyetm",
+                    "url": "https://cdn.modrinth.com/data/8yqXwFLl/versions/iVpdy3W0/SkyBlockPv-1.8.9-26.1.jar",
+                    "id": "iVpdy3W0",
                     "parent_id": "8yqXwFLl",
                     "hashes": {
-                        "sha512": "930edacfd5d8c182fe0d1615745517b0ae309cb98a9eb5b0e507e458958543da1b6b62ddd77b42f920d64d04e63668f25f9725464f06726157d18f4838290755",
-                        "sha1": "9459c5192fb1c16615a0b053c5bb0a86e9ec5e9d"
+                        "sha512": "2f5cd56a86537d63dafec0bee1f59910a23881f2778f13f51773ac2ca5d7ec4b9d7b61effb5f67a0ceaa07c9429e24c3ab101f7ed4ac53dd46a2178c1a3f58c2",
+                        "sha1": "25d6d4a048bdea75d3fbb7f07ae710d717daa2d7"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "P7dR8mSH"
                     ],
-                    "size": 11077680,
-                    "date_published": "2026-07-20T18:35:46.851548Z"
+                    "size": 11112115,
+                    "date_published": "2026-08-07T20:29:44.530608Z"
                 }
             ]
         },
