@@ -1000,7 +1000,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "damagetint-3.5.1+26.1.jar",
+                    "file_name": "damagetint-3.5.2+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1010,19 +1010,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/6zatK8W5/versions/JvQJvy1P/damagetint-3.5.1+26.1.jar",
-                    "id": "JvQJvy1P",
+                    "url": "https://cdn.modrinth.com/data/6zatK8W5/versions/TdtpUhfl/damagetint-3.5.2+26.1.jar",
+                    "id": "TdtpUhfl",
                     "parent_id": "6zatK8W5",
                     "hashes": {
-                        "sha512": "b96544c250124a9299f7f972fc534849afcc9fc0269549e80921919b98822918af8d32dee2e04f56aaf76c1a5beca06b9a45b95b696a7b32e027e3194d5b5248",
-                        "sha1": "891ff46ffb6e562643ebb5dd6c012dbb8ead09a7"
+                        "sha512": "01735d6c0123818b0908dd9261255128ab6af6b53ebb6071de595e8625fb30c00073837e48f315c049ef3cfdcce4bc06754689928fa0a5a1cb82b036d1eef2c7",
+                        "sha1": "798e219c9110edcd6a29a333f1abe02dca09c1ab"
                     },
                     "required_dependencies": [
                         "AibBIVmj",
                         "Ha28R6CL"
                     ],
-                    "size": 11719,
-                    "date_published": "2026-08-07T22:47:26.704708Z"
+                    "size": 11885,
+                    "date_published": "2026-08-08T00:40:55.196070Z"
                 }
             ]
         },
