@@ -3908,6 +3908,52 @@
             ]
         },
         {
+            "pakku_id": "ABMtPb69S3QqcdvU",
+            "pakku_links": [
+                "1R8IEDLC4Ngys6Bi"
+            ],
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "dark-mode-skyblock"
+            },
+            "name": {
+                "modrinth": "SkyBlock Dark mode"
+            },
+            "id": {
+                "modrinth": "UldQM8wd"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Dark Skyblock v2.0c.cats.zip",
+                    "mc_versions": [
+                        "1.21.11",
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2",
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/UldQM8wd/versions/QyZfTN7h/Dark Skyblock v2.0c.cats.zip",
+                    "id": "QyZfTN7h",
+                    "parent_id": "UldQM8wd",
+                    "hashes": {
+                        "sha512": "1dded566f5e344ee766f8786d73016a38ee6316409038a327f08e0bc5be497fbf41b3e293ca5e29be267e0e08c33f02417a03b52aabfd6495114a5fd720009cb",
+                        "sha1": "5a302775f63e632729e85347e5a3ce2df1212c64"
+                    },
+                    "required_dependencies": [
+                        "fc4wBpRx"
+                    ],
+                    "size": 122655,
+                    "date_published": "2026-06-13T21:43:29.230667Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "i5KvHyWCAe2GlXt9",
             "pakku_links": [
                 "SD1UEyaVaN4LoByC",
@@ -4136,6 +4182,47 @@
                     ],
                     "size": 10376313,
                     "date_published": "2026-07-20T18:44:51.811279Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "RDznIXpeyoNnBmBt",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "skyblock-dark-ui"
+            },
+            "name": {
+                "modrinth": "Skyblock Dark UI"
+            },
+            "id": {
+                "modrinth": "Ed25eRJG"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Skyblock Dark UI 1.17 for 1.21.11+.zip",
+                    "mc_versions": [
+                        "1.21.11",
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2",
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Ed25eRJG/versions/3itLYYuc/Skyblock Dark UI 1.17 for 1.21.11+.zip",
+                    "id": "3itLYYuc",
+                    "parent_id": "Ed25eRJG",
+                    "hashes": {
+                        "sha512": "08564926a09e3914242751e6a2edbf723f2b3025bec11423702de0dac55d1e0a011fb52e7fb0b61bddec2807007c020c4fed20f229c3efda127028341c9c5b18",
+                        "sha1": "5a5061364bfdc4a995c8acade94c997e5080b305"
+                    },
+                    "required_dependencies": [],
+                    "size": 369767,
+                    "date_published": "2026-08-02T18:49:45.819929Z"
                 }
             ]
         },
@@ -4448,6 +4535,51 @@
                     ],
                     "size": 67690,
                     "date_published": "2026-04-01T02:14:35.950967Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "nWaJBsgVhrYvvaWZ",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "sophies-enchants"
+            },
+            "name": {
+                "modrinth": "Sophie's Hypixel Skyblock Enchants"
+            },
+            "id": {
+                "modrinth": "XBG9JHVh"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Sophie's Enchants V2.0.2.zip",
+                    "mc_versions": [
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11",
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2",
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XBG9JHVh/versions/dxLoMROG/Sophie's Enchants V2.0.2.zip",
+                    "id": "dxLoMROG",
+                    "parent_id": "XBG9JHVh",
+                    "hashes": {
+                        "sha512": "8250920a9abc3593c3530be1cfa28d062f17ade106c8e0bd2439e0088ff871b764e62571a94acd2c9723483303ad6ce3a8f4a1d4f303937d6b4c98c969376e6a",
+                        "sha1": "aed650fc1aec1e07b21030c3721db7509f2cbe9e"
+                    },
+                    "required_dependencies": [],
+                    "size": 565901,
+                    "date_published": "2026-07-19T20:07:59.831849Z"
                 }
             ]
         },
@@ -4930,6 +5062,48 @@
             ]
         },
         {
+            "pakku_id": "7P4Gkrroy8gCzwlB",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "defrosted_pack"
+            },
+            "name": {
+                "modrinth": "defrosted"
+            },
+            "id": {
+                "modrinth": "NPzwNDRa"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "!     §3defrosted §8[§f16x§8] [v1.4.1].zip",
+                    "mc_versions": [
+                        "1.21.10",
+                        "1.21.11",
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2",
+                        "26.2"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NPzwNDRa/versions/qyBqNSLi/!     §3defrosted §8[§f16x§8] [v1.4.1].zip",
+                    "id": "qyBqNSLi",
+                    "parent_id": "NPzwNDRa",
+                    "hashes": {
+                        "sha512": "278be245a10704137c1bff5aed34dd1b917979939edab23f67f0153f356716d99885d7a5ff313368bc19c12b4c219847a22fc6815db55788cc9b46118840ea40",
+                        "sha1": "3d7d0f8c1dfbb1585d1e2d05b90e654919b2cde6"
+                    },
+                    "required_dependencies": [],
+                    "size": 19843875,
+                    "date_published": "2026-07-24T01:51:40.758109Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7ngREZsVTLlsG4zM",
             "pakku_links": [
                 "FXRHB3AAWhChmM39",
@@ -4974,6 +5148,57 @@
                     ],
                     "size": 3713218,
                     "date_published": "2026-07-26T21:31:02.028134Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jW63NZlUysafU5b2",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "looshy"
+            },
+            "name": {
+                "modrinth": "looshy"
+            },
+            "id": {
+                "modrinth": "pbipt9Sm"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "§dlooshy §7[§f26.1§7] [v0.12].zip",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11",
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/pbipt9Sm/versions/krI58ahy/§dlooshy §7[§f26.1§7] [v0.12].zip",
+                    "id": "krI58ahy",
+                    "parent_id": "pbipt9Sm",
+                    "hashes": {
+                        "sha512": "96842e3b52c69f7d9f94977895b4bc3e94ee5e324588e3ae45d2e224aed09aab2a9f0353f101fb41b10f5007608239ae7aa0802494798038f78a966a00b1b377",
+                        "sha1": "00f92b1841e7c84a1e352b7a6582da06a7b0caa3"
+                    },
+                    "required_dependencies": [],
+                    "size": 5320158,
+                    "date_published": "2026-04-18T05:53:04.212776Z"
                 }
             ]
         },
