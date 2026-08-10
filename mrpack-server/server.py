@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import hashlib
+import hmac
 import json
 import os
 import shutil
@@ -17,6 +19,8 @@ PORT = int(os.environ.get("PORT", "8787"))
 CACHE_DIR = Path(os.environ.get("CACHE_DIR", Path(__file__).resolve().parent / "cache"))
 REFRESH_SECONDS = int(os.environ.get("REFRESH_SECONDS", "300"))
 USER_AGENT = os.environ.get("USER_AGENT", "EcorteSkyblockPack-mrpack-server")
+WEBHOOK_SECRET = os.environ.get("WEBHOOK_SECRET", "")
+WEBHOOK_PATH = os.environ.get("WEBHOOK_PATH", "/webhook")
 
 _lock = threading.Lock()
 _state: dict = {
@@ -123,6 +127,25 @@ def _refresh_loop() -> None:
         refresh()
 
 
+def _verify_github_signature(body: bytes, signature_header: str | None) -> bool:
+    if not WEBHOOK_SECRET:
+        return False
+    if not signature_header or not signature_header.startswith("sha256="):
+        return False
+    expected = hmac.new(WEBHOOK_SECRET.encode("utf-8"), body, hashlib.sha256).hexdigest()
+    return hmac.compare_digest(f"sha256={expected}", signature_header)
+
+
+def _schedule_refresh(reason: str) -> None:
+    print(f"Scheduling refresh ({reason})...", flush=True)
+    threading.Thread(
+        target=refresh_with_retries,
+        kwargs={"attempts": 8, "delay_seconds": 2.0},
+        name="webhook-refresh",
+        daemon=True,
+    ).start()
+
+
 class Handler(BaseHTTPRequestHandler):
     protocol_version = "HTTP/1.1"
 
@@ -139,6 +162,12 @@ class Handler(BaseHTTPRequestHandler):
                 self.send_header(key, value)
         self.end_headers()
         self.wfile.write(body)
+
+    def _read_body(self) -> bytes:
+        length = int(self.headers.get("Content-Length", "0") or "0")
+        if length <= 0:
+            return b""
+        return self.rfile.read(length)
 
     def do_GET(self) -> None:
         path = self.path.split("?", 1)[0].rstrip("/") or "/"
@@ -190,6 +219,55 @@ class Handler(BaseHTTPRequestHandler):
 
         self._send(404, b"Not found\n", "text/plain; charset=utf-8")
 
+    def do_POST(self) -> None:
+        path = self.path.split("?", 1)[0].rstrip("/") or "/"
+        webhook_path = WEBHOOK_PATH.rstrip("/") or "/webhook"
+        if path != webhook_path:
+            self._send(404, b"Not found\n", "text/plain; charset=utf-8")
+            return
+
+        if not WEBHOOK_SECRET:
+            self._send(503, b"Webhook secret is not configured\n", "text/plain; charset=utf-8")
+            return
+
+        body = self._read_body()
+        signature = self.headers.get("X-Hub-Signature-256")
+        if not _verify_github_signature(body, signature):
+            self._send(401, b"Invalid signature\n", "text/plain; charset=utf-8")
+            return
+
+        event = self.headers.get("X-GitHub-Event", "")
+        if event == "ping":
+            self._send(200, b'{"ok":true,"event":"ping"}\n', "application/json")
+            return
+
+        if event != "release":
+            self._send(200, b'{"ok":true,"ignored":true}\n', "application/json")
+            return
+
+        try:
+            payload = json.loads(body.decode("utf-8") or "{}")
+        except json.JSONDecodeError:
+            self._send(400, b"Invalid JSON\n", "text/plain; charset=utf-8")
+            return
+
+        action = payload.get("action")
+        tag = (payload.get("release") or {}).get("tag_name")
+        if action not in ("published", "edited", "created"):
+            self._send(
+                200,
+                json.dumps({"ok": True, "ignored": True, "action": action}).encode() + b"\n",
+                "application/json",
+            )
+            return
+
+        _schedule_refresh(f"github release {action} {tag or ''}".strip())
+        self._send(
+            202,
+            json.dumps({"ok": True, "accepted": True, "action": action, "tag": tag}).encode() + b"\n",
+            "application/json",
+        )
+
 
 def main() -> None:
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
@@ -202,6 +280,10 @@ def main() -> None:
     except OSError as exc:
         raise SystemExit(f"Failed to bind {HOST}:{PORT}: {exc}") from exc
     print(f"Serving latest mrpack on http://{HOST}:{PORT}/latest.mrpack", flush=True)
+    if WEBHOOK_SECRET:
+        print(f"GitHub webhook listening on POST http://{HOST}:{PORT}{WEBHOOK_PATH}", flush=True)
+    else:
+        print("GitHub webhook disabled (set WEBHOOK_SECRET to enable)", flush=True)
     server.serve_forever()
 
 
