@@ -50,7 +50,13 @@ jobs:
 
       - name: Update mods
         working-directory: ${{ steps.pack.outputs.dir }}
-        run: java -jar "${{ github.workspace }}/pakku.jar" update -a
+        run: |
+          set -o pipefail
+          java -jar "${{ github.workspace }}/pakku.jar" update -a 2>&1 | tee /tmp/pakku-update.log
+          if grep -Eiq 'http request|unauthenticated|rate.?limit|too many requests|error:|exception' /tmp/pakku-update.log; then
+            echo "Pakku reported API/request errors; refusing to treat as up to date."
+            exit 1
+          fi
 
       - name: Commit and push if changed
         id: commit
