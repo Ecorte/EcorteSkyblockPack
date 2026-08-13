@@ -148,7 +148,7 @@
                 "modrinth": "behindyou"
             },
             "name": {
-                "modrinth": "BehindYouV3"
+                "modrinth": "BehindYou (SnapLook)"
             },
             "id": {
                 "modrinth": "sAFPANmp"
@@ -174,8 +174,8 @@
                         "sha1": "e0562b3280f826091ad4aea1cee5b60d9cfa357e"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "AibBIVmj"
                     ],
                     "size": 34024,
                     "date_published": "2026-07-26T15:28:09.868871Z"
