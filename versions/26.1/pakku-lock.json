@@ -956,7 +956,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "CustomScoreboard-1.12.12-26.1.jar",
+                    "file_name": "CustomScoreboard-1.12.13-26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -966,19 +966,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fpb5uaJt/versions/Inz2blwJ/CustomScoreboard-1.12.12-26.1.jar",
-                    "id": "Inz2blwJ",
+                    "url": "https://cdn.modrinth.com/data/fpb5uaJt/versions/zRx9ABtm/CustomScoreboard-1.12.13-26.1.jar",
+                    "id": "zRx9ABtm",
                     "parent_id": "fpb5uaJt",
                     "hashes": {
-                        "sha512": "a97a2fd1b3f410eae15e07a607dbbdb91976a1b8828405e8ce1bbc9a3e200aea95006fb31e32ab763824bdee9925ff814d57b17f9271f575ff4b8e53df97de4d",
-                        "sha1": "782a13cd7148bcab600822b33497287bc2d422cc"
+                        "sha512": "babc0ac70782541ed526e9ea0a0928b3d1c15cde47233ff092b9e19bc37892b90f04a8e409528d4e4e37b27180648193d9ef15b4e7cd2bd6283a61277035dae3",
+                        "sha1": "20c974c8a66b66f24f0b8aa242548f80baeafe75"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "Ha28R6CL"
                     ],
-                    "size": 7623053,
-                    "date_published": "2026-08-11T21:22:48.970441Z"
+                    "size": 7646198,
+                    "date_published": "2026-08-13T20:58:48.335766Z"
                 }
             ]
         },
