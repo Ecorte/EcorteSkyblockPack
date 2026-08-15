@@ -2041,7 +2041,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "lambdynamiclights-4.11.0+26.1.2.jar",
+                    "file_name": "lambdynamiclights-4.11.1+26.1.2.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -2053,18 +2053,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/NYmekdmx/lambdynamiclights-4.11.0+26.1.2.jar",
-                    "id": "NYmekdmx",
+                    "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/pnv86kjJ/lambdynamiclights-4.11.1+26.1.2.jar",
+                    "id": "pnv86kjJ",
                     "parent_id": "yBW8D80W",
                     "hashes": {
-                        "sha512": "c0022fedcb377dffa6f0540aa2e3924c4c39f86188271d94c3ccce79e512fa326f8ec69054d9ed7dbd433dc5eece887fbd15c87a0eafc78dba2466d01c361930",
-                        "sha1": "d9d1835638690e3da47f821a6e8d6f7d559bab68"
+                        "sha512": "757fbfc53b9f58353f0160c00b692562088ae611c3c6417599769deca28387496b8778a86d6d5f6825cb426ab5a124c756e4a6c6614d711ab29141fa0a90fde7",
+                        "sha1": "8eeaaf2bf8b96e30b7dd514b499253402d6cc67a"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1340945,
-                    "date_published": "2026-06-16T09:19:22.824883Z"
+                    "size": 1339804,
+                    "date_published": "2026-08-15T21:00:19.476813Z"
                 }
             ]
         },
