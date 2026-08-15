@@ -3209,7 +3209,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Odin-0.3.0.jar",
+                    "file_name": "Odin-0.3.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3219,19 +3219,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/jJJLywXp/versions/E6IEzXhD/Odin-0.3.0.jar",
-                    "id": "E6IEzXhD",
+                    "url": "https://cdn.modrinth.com/data/jJJLywXp/versions/cC7YBIsC/Odin-0.3.1.jar",
+                    "id": "cC7YBIsC",
                     "parent_id": "jJJLywXp",
                     "hashes": {
-                        "sha512": "0483d366c23cd6ac9ad57d022ea8f6bedcf8ec75981c881cf78a1f08f4d707e8363caa8ff5441fdd58b8df7cefe22ff6af5b43a43debe6c67759886fc66e460e",
-                        "sha1": "6c3cad48bf66fba118937887bdbe833e5b871761"
+                        "sha512": "95a7b2930e83b9231e8df78c8dcd1c1baca5bf14a4863c9ea24aa6d39d6527e8d9acc0b5537941ccd888ec1f4c8e15eeb29ac9bd2658ce974fcd23156bab3259",
+                        "sha1": "8185a3352df8ea10727a2d14444f75e490db93b4"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 4870268,
-                    "date_published": "2026-08-02T17:05:38.637251Z"
+                    "size": 4873468,
+                    "date_published": "2026-08-15T15:47:33.118046Z"
                 }
             ]
         },
