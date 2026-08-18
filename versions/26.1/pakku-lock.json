@@ -869,28 +869,30 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "CrashPatch-2.1.5+26.1.2.jar",
+                    "file_name": "CrashPatch-2.1.6+26.1.2.jar",
                     "mc_versions": [
+                        "26.1",
+                        "26.1.1",
                         "26.1.2"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/Abdmn8Ft/CrashPatch-2.1.5+26.1.2.jar",
-                    "id": "Abdmn8Ft",
+                    "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/EoF8Jy0h/CrashPatch-2.1.6+26.1.2.jar",
+                    "id": "EoF8Jy0h",
                     "parent_id": "nZ3E8WQz",
                     "hashes": {
-                        "sha512": "7538bda246d058ddc5d78b88a376bb68c9281be01a3de619541c89f6bef2e344ef4ad564123ef282f451526a337a2b00d33eac91833179870729ffc702d28da3",
-                        "sha1": "c26af923a104075b7c9502679f53aef55ef1dc2c"
+                        "sha512": "eba98de8ce8f920b330c6fae3d426c5168ec39fb913a84ab893d9d587d6b3dd7adc707d9424937d9d608d8d75579684db5ba67bbb398413ec469681a44b906cb",
+                        "sha1": "24e4de54c84269f11d294466dbd6aa4197d9fd63"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
+                        "yM94ont6",
                         "AibBIVmj",
-                        "yM94ont6"
+                        "Ha28R6CL"
                     ],
-                    "size": 155877,
-                    "date_published": "2026-07-30T03:05:22.468352Z"
+                    "size": 221026,
+                    "date_published": "2026-08-18T19:59:20.497871Z"
                 }
             ]
         },
@@ -956,7 +958,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "CustomScoreboard-1.12.13-26.1.jar",
+                    "file_name": "CustomScoreboard-1.12.14-26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -966,19 +968,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fpb5uaJt/versions/zRx9ABtm/CustomScoreboard-1.12.13-26.1.jar",
-                    "id": "zRx9ABtm",
+                    "url": "https://cdn.modrinth.com/data/fpb5uaJt/versions/DlCsngMR/CustomScoreboard-1.12.14-26.1.jar",
+                    "id": "DlCsngMR",
                     "parent_id": "fpb5uaJt",
                     "hashes": {
-                        "sha512": "babc0ac70782541ed526e9ea0a0928b3d1c15cde47233ff092b9e19bc37892b90f04a8e409528d4e4e37b27180648193d9ef15b4e7cd2bd6283a61277035dae3",
-                        "sha1": "20c974c8a66b66f24f0b8aa242548f80baeafe75"
+                        "sha512": "30c12a0b5d0cb552d6e68c6f5620955e95add4df7c111c04f3578a27ea8e62887ed2d01634e083700715332f9596e0fd0e3e0640bf01887735ca23f4c333bb89",
+                        "sha1": "1d8233bcf865fbca2c4a3dcc3df4974b35a205cb"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "Ha28R6CL"
                     ],
-                    "size": 7646198,
-                    "date_published": "2026-08-13T20:58:48.335766Z"
+                    "size": 8758836,
+                    "date_published": "2026-08-18T19:55:16.332741Z"
                 }
             ]
         },
