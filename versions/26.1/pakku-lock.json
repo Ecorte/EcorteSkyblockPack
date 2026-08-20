@@ -2695,7 +2695,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "malilib-fabric-26.1.2-0.28.9.jar",
+                    "file_name": "malilib-fabric-26.1.2-0.28.10.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -2705,16 +2705,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/xGyGn0t9/malilib-fabric-26.1.2-0.28.9.jar",
-                    "id": "xGyGn0t9",
+                    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/won0w3AD/malilib-fabric-26.1.2-0.28.10.jar",
+                    "id": "won0w3AD",
                     "parent_id": "GcWjdA9I",
                     "hashes": {
-                        "sha512": "d5390421586b2a5dbc9d6ac9f004158c9da739400ce81460f7943c41ef9aed62a4b1c99bebd6f4788fc2b515325c04a5e93cae2969a24cf3a2010c8936a6b06d",
-                        "sha1": "7bb6ea5636847eafa3007ebb5a6464c9d367cbf4"
+                        "sha512": "a28dcb2e0be26339db205c2fb436bb354525ce6a15b3bb80707854025fe4f18b238b958e1dbafb897a405a3058a999030f2101cb3df580600a66022b3dc023e5",
+                        "sha1": "06b9f90bacd6c9a9b8a81804747ebacae7a6ca4e"
                     },
                     "required_dependencies": [],
-                    "size": 1964555,
-                    "date_published": "2026-07-06T00:00:53.483713Z"
+                    "size": 2030234,
+                    "date_published": "2026-08-20T00:44:52.569223Z"
                 }
             ]
         },
@@ -2737,7 +2737,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "minihud-fabric-26.1.2-0.39.8.jar",
+                    "file_name": "minihud-fabric-26.1.2-0.39.9.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -2747,18 +2747,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/UMxybHE8/versions/lK7DacSm/minihud-fabric-26.1.2-0.39.8.jar",
-                    "id": "lK7DacSm",
+                    "url": "https://cdn.modrinth.com/data/UMxybHE8/versions/hvRWHITE/minihud-fabric-26.1.2-0.39.9.jar",
+                    "id": "hvRWHITE",
                     "parent_id": "UMxybHE8",
                     "hashes": {
-                        "sha512": "2aa662e2a6eb28065857a1ac57c4c9d9ff006a28f6db320e12d665f37e2cd63aa46230fad3ab7c549cfe516313b32488f056d370db4c98499b351aa52aff5000",
-                        "sha1": "492c338772fe0b7ecbcff8dca8a9aad02ee599e9"
+                        "sha512": "a32f75b4bf027a5bc5e6ca185b4eee255e007af403f8dcadce19d104e5578e31e9f81eb99225e582b508788926e77ace3f146c1bd929c8f5a556d41d799aed2d",
+                        "sha1": "faaf1bde5f03605d1200bf5e18b8fc37950769a1"
                     },
                     "required_dependencies": [
                         "GcWjdA9I"
                     ],
-                    "size": 879191,
-                    "date_published": "2026-06-28T14:05:57.147030Z"
+                    "size": 914334,
+                    "date_published": "2026-08-20T01:03:44.710084Z"
                 }
             ]
         },
