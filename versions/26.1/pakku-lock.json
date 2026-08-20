@@ -3126,7 +3126,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "NopoMod-2.3.0.jar",
+                    "file_name": "NopoMod-2.4.0.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3136,20 +3136,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/jygLhCKB/versions/NDplewIA/NopoMod-2.3.0.jar",
-                    "id": "NDplewIA",
+                    "url": "https://cdn.modrinth.com/data/jygLhCKB/versions/GYyJ5JAl/NopoMod-2.4.0.jar",
+                    "id": "GYyJ5JAl",
                     "parent_id": "jygLhCKB",
                     "hashes": {
-                        "sha512": "7f9b9ad8eaccdf77514762b873b58e54c1ca0828116a9afd031632e259de54c0076734215797903324f2ff59b63e2b712390cf7bfde0a24c3f0463857be51d7d",
-                        "sha1": "374a8525cbe1ba0fe9ff6d82f0adc323bd448263"
+                        "sha512": "8ee411ee563937d7141436dca4fddae806e920016f3b0177641ad14d8bebb047b65115b376e96e169d90d83eadf15c134d7e736c5ad3f9af8a480e62e93baba5",
+                        "sha1": "fc03072af17ae7cfa0b7ccdc0433b8d11b067a93"
                     },
                     "required_dependencies": [
                         "1A2mKfBx",
-                        "Ha28R6CL",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "Ha28R6CL"
                     ],
-                    "size": 8831380,
-                    "date_published": "2026-07-27T09:21:14.050646Z"
+                    "size": 10063221,
+                    "date_published": "2026-08-20T14:02:58.224573Z"
                 }
             ]
         },
