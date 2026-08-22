@@ -5259,38 +5259,29 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "§dlooshy §7[§f26.1§7] [v0.12].zip",
+                    "file_name": "§dlooshy §7[§f26.1§7] [v0.13].zip",
                     "mc_versions": [
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5",
-                        "1.21.6",
-                        "1.21.7",
-                        "1.21.8",
-                        "1.21.9",
                         "1.21.10",
                         "1.21.11",
                         "26.1",
                         "26.1.1",
-                        "26.1.2"
+                        "26.1.2",
+                        "26.2"
                     ],
                     "loaders": [
                         "minecraft"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pbipt9Sm/versions/krI58ahy/§dlooshy §7[§f26.1§7] [v0.12].zip",
-                    "id": "krI58ahy",
+                    "url": "https://cdn.modrinth.com/data/pbipt9Sm/versions/xYu7z8VD/§dlooshy §7[§f26.1§7] [v0.13].zip",
+                    "id": "xYu7z8VD",
                     "parent_id": "pbipt9Sm",
                     "hashes": {
-                        "sha512": "96842e3b52c69f7d9f94977895b4bc3e94ee5e324588e3ae45d2e224aed09aab2a9f0353f101fb41b10f5007608239ae7aa0802494798038f78a966a00b1b377",
-                        "sha1": "00f92b1841e7c84a1e352b7a6582da06a7b0caa3"
+                        "sha512": "70a7bf9592c437002135fe3b495f9f2b9c990e85907d993fb8bac00fba5e2cb52a33b60d7d8f5a31e2ee015632e35b0f5c92efd8902e5724075ff371a32778d6",
+                        "sha1": "c01c356e5dc2fad7aba53ac47f15b0654a931138"
                     },
                     "required_dependencies": [],
-                    "size": 5320158,
-                    "date_published": "2026-04-18T05:53:04.212776Z"
+                    "size": 5910824,
+                    "date_published": "2026-08-22T06:38:08.289611Z"
                 }
             ]
         },
