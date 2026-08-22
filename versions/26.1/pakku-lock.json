@@ -869,7 +869,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "CrashPatch-2.1.6+26.1.2.jar",
+                    "file_name": "CrashPatch-2.1.7+26.1.2.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -879,20 +879,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/EoF8Jy0h/CrashPatch-2.1.6+26.1.2.jar",
-                    "id": "EoF8Jy0h",
+                    "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/4TLhif5B/CrashPatch-2.1.7+26.1.2.jar",
+                    "id": "4TLhif5B",
                     "parent_id": "nZ3E8WQz",
                     "hashes": {
-                        "sha512": "eba98de8ce8f920b330c6fae3d426c5168ec39fb913a84ab893d9d587d6b3dd7adc707d9424937d9d608d8d75579684db5ba67bbb398413ec469681a44b906cb",
-                        "sha1": "24e4de54c84269f11d294466dbd6aa4197d9fd63"
+                        "sha512": "1135c65dc0d2953b421b6ad01a160b220b6268084b8d1698541a4cd3a8aff08395494a683e0a98f96d6fdee66fd29e8a7259f421d4dc93e0c93998c38b9eee31",
+                        "sha1": "329c71dfda57d3bb84c401058019bbae04e08cdf"
                     },
                     "required_dependencies": [
                         "yM94ont6",
-                        "AibBIVmj",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "AibBIVmj"
                     ],
-                    "size": 221026,
-                    "date_published": "2026-08-18T19:59:20.497871Z"
+                    "size": 221363,
+                    "date_published": "2026-08-22T17:36:32.118762Z"
                 }
             ]
         },
