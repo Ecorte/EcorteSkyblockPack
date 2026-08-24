@@ -4428,7 +4428,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Skysoft-0.1.16-mc26.1.jar",
+                    "file_name": "Skysoft-0.1.17-mc26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4438,20 +4438,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/TTWihmjT/versions/BoEpdkgu/Skysoft-0.1.16-mc26.1.jar",
-                    "id": "BoEpdkgu",
+                    "url": "https://cdn.modrinth.com/data/TTWihmjT/versions/homl1zUw/Skysoft-0.1.17-mc26.1.jar",
+                    "id": "homl1zUw",
                     "parent_id": "TTWihmjT",
                     "hashes": {
-                        "sha512": "87fe4b6270ec6744a943fbecb78a5d6470a83c45df1dad64500cdeefdbda653cb28af415cb62588b0ba327471375a8980f716e6567166c3a7ae38d5d4dd77f41",
-                        "sha1": "711afa5b5669bbee92aa0f3ba25d26f9a7d8243a"
+                        "sha512": "eab114ca09e46f3a2bd20173d253aa62d897203e396a53f1039828b876e1f3abcf7bb6ad109f9bb7994da614fc2e97b856b0db1c57a34b079e1d3b1b06ecfa4c",
+                        "sha1": "59e9aeb3f2a2cd0d9bc2b73e36046e87f00f1aa9"
                     },
                     "required_dependencies": [
+                        "Ha28R6CL",
                         "1A2mKfBx",
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "P7dR8mSH"
                     ],
-                    "size": 9249810,
-                    "date_published": "2026-08-17T19:15:35.407128Z"
+                    "size": 9731942,
+                    "date_published": "2026-08-24T17:42:28.744099Z"
                 }
             ]
         },
@@ -4645,7 +4645,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Sophie's Enchants V2.0.2.zip",
+                    "file_name": "Sophie's Enchants V2.1.0.zip",
                     "mc_versions": [
                         "1.21.7",
                         "1.21.8",
@@ -4661,16 +4661,16 @@
                         "minecraft"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/XBG9JHVh/versions/dxLoMROG/Sophie's Enchants V2.0.2.zip",
-                    "id": "dxLoMROG",
+                    "url": "https://cdn.modrinth.com/data/XBG9JHVh/versions/o7zygRqE/Sophie's Enchants V2.1.0.zip",
+                    "id": "o7zygRqE",
                     "parent_id": "XBG9JHVh",
                     "hashes": {
-                        "sha512": "8250920a9abc3593c3530be1cfa28d062f17ade106c8e0bd2439e0088ff871b764e62571a94acd2c9723483303ad6ce3a8f4a1d4f303937d6b4c98c969376e6a",
-                        "sha1": "aed650fc1aec1e07b21030c3721db7509f2cbe9e"
+                        "sha512": "1a5c4246f23c5f23dd52b7833e98f6631b48c53017c847c64fccc9bd33285613fac9fb32d34fc52b684ab3d6aaa5a82e9ad5ac4516ac00c2171dabc883012a18",
+                        "sha1": "2704c767ab5a97306f9dd943e09abe4a74ab0837"
                     },
                     "required_dependencies": [],
-                    "size": 565901,
-                    "date_published": "2026-07-19T20:07:59.831849Z"
+                    "size": 584611,
+                    "date_published": "2026-08-24T17:58:36.857974Z"
                 }
             ]
         },
