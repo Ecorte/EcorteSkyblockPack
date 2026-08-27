@@ -504,7 +504,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "chattweaks-1.1.1+26.1.jar",
+                    "file_name": "chattweaks-1.1.3+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -514,19 +514,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/8LNT47ZH/versions/dVctL2fe/chattweaks-1.1.1+26.1.jar",
-                    "id": "dVctL2fe",
+                    "url": "https://cdn.modrinth.com/data/8LNT47ZH/versions/uEkTaIAd/chattweaks-1.1.3+26.1.jar",
+                    "id": "uEkTaIAd",
                     "parent_id": "8LNT47ZH",
                     "hashes": {
-                        "sha512": "d62e9c73883ae65dc09bfc5a7733bd00561f431f4a9736c95b8400dd148f9589cadc475b136bf9cb688d490d405700415f864eb26e24aa3d5f98e1db30b6ca91",
-                        "sha1": "fa83cf40befb4aa4589de7c4a0c2dd1ddd65a374"
+                        "sha512": "7e6b6ae35cad1730592a93fb5f39879476a6c5128088d66e43f857464d25df5d13010667a35d55a4afa51f03c91eae1c936c1b81abd4627829640c4f32b0d3aa",
+                        "sha1": "e35040b84698af6446013e06d30937cacb194d6a"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "AibBIVmj"
                     ],
-                    "size": 31198,
-                    "date_published": "2026-08-10T00:23:03.658002Z"
+                    "size": 77627,
+                    "date_published": "2026-08-27T17:21:36.599316Z"
                 }
             ]
         },
@@ -1873,18 +1873,18 @@
                         "minecraft"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eiWiefXD/versions/RUHBnkOA/SkyBlock Legacy.zip",
-                    "id": "RUHBnkOA",
+                    "url": "https://cdn.modrinth.com/data/eiWiefXD/versions/UfU7LVhm/SkyBlock Legacy.zip",
+                    "id": "UfU7LVhm",
                     "parent_id": "eiWiefXD",
                     "hashes": {
-                        "sha512": "9722fa5cf35bb55c13e9a54af4c43cf17ccd735df024fa423226538bbbd86e7c552a007ad256f00a48269066822bb364149d3872d201039b0e9adc650845a331",
-                        "sha1": "6cb862850ff1b6c65e1818d4b35042257822e5a9"
+                        "sha512": "e209e06c0257a4f7c6fbad6f08b996ed7b0d0bbba591e9c74ccc22bd37a8352f43524318b317acdf6745384f82f69e70c0ce7548bddf872e0d8039b8fa38d496",
+                        "sha1": "11d7529a13c9c539d5d82b61f87d4c6d8b6163fb"
                     },
                     "required_dependencies": [
                         "fc4wBpRx"
                     ],
-                    "size": 4789734,
-                    "date_published": "2026-08-04T08:10:58.113528Z"
+                    "size": 4954467,
+                    "date_published": "2026-08-27T18:56:13.344621Z"
                 }
             ]
         },
@@ -1958,7 +1958,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "iconographic-1.0.0-beta.4-26.1+9632b6e8.jar",
+                    "file_name": "iconographic-1.0.0-beta.5-26.1+d76258ce.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1968,19 +1968,19 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/jrPpQCNN/versions/a4rN1hAh/iconographic-1.0.0-beta.4-26.1+9632b6e8.jar",
-                    "id": "a4rN1hAh",
+                    "url": "https://cdn.modrinth.com/data/jrPpQCNN/versions/6cIGnKmu/iconographic-1.0.0-beta.5-26.1+d76258ce.jar",
+                    "id": "6cIGnKmu",
                     "parent_id": "jrPpQCNN",
                     "hashes": {
-                        "sha512": "dc422769111ae73156e7cf3a403b8bd040bd3115391829b7752f8cae8fc1e7fb4237e2b4146b468ce97a4a2288a5e4b1d7b98778ae8a7791be9bf3e5eccc3641",
-                        "sha1": "af5ff5d0fdfd04fc59db28e56b0ad5730149bb88"
+                        "sha512": "9db4474699d4b260bbc5f3b63293fd3643b8ada6c13cb19c960eb9ae333dca5dba83300d297c692ef1b3203dfaa4c30e21a6acf6a31dbedc7b6b45c034d1859d",
+                        "sha1": "01602b24fda7ffdd38b6728783819aa631737092"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "Ha28R6CL"
                     ],
-                    "size": 7552410,
-                    "date_published": "2026-07-31T19:39:39.230441Z"
+                    "size": 8727714,
+                    "date_published": "2026-08-27T18:09:00.504073Z"
                 }
             ]
         },
@@ -3720,7 +3720,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polytone-26.1.2-6.4.0-fabric.jar",
+                    "file_name": "polytone-26.1.2-6.4.1-fabric.jar",
                     "mc_versions": [
                         "26.1.2"
                     ],
@@ -3728,16 +3728,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/V3P3riaO/polytone-26.1.2-6.4.0-fabric.jar",
-                    "id": "V3P3riaO",
+                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/sp2lfJhh/polytone-26.1.2-6.4.1-fabric.jar",
+                    "id": "sp2lfJhh",
                     "parent_id": "3qAYkBMB",
                     "hashes": {
-                        "sha512": "c82025b9754fa51b878cb46fa13f4f6837809f02d67d4585fd50e3cd95e20d53a52a631146020fbe70693a98fbb29267c8c2a8467c0bc0f2ebc1f6790a5accca",
-                        "sha1": "dab66103bdbb3b702f67b81c9a875063262612e8"
+                        "sha512": "2f233482af54131496ca1cee4ef0e28760a648d0d49ec69b46cf9de01a472739b95a4dec9d2df51afd7fc4a07fcffb6ec57b62c5c92f089ccb8f7b348b24c932",
+                        "sha1": "a4fd023b8f3528576b553451193f9214837e3c7f"
                     },
                     "required_dependencies": [],
-                    "size": 2539093,
-                    "date_published": "2026-08-22T10:42:40.689371Z"
+                    "size": 2539859,
+                    "date_published": "2026-08-27T21:32:06.829260Z"
                 }
             ]
         },
@@ -4203,7 +4203,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SkyHanni-7.50.0-mc26.1.jar",
+                    "file_name": "SkyHanni-7.51.0-mc26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4213,20 +4213,20 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/jH8OYObh/SkyHanni-7.50.0-mc26.1.jar",
-                    "id": "jH8OYObh",
+                    "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/tQUWPVzg/SkyHanni-7.51.0-mc26.1.jar",
+                    "id": "tQUWPVzg",
                     "parent_id": "byNkmv5G",
                     "hashes": {
-                        "sha512": "52f37a90ac0d01dc0bd1266e0cbf19deda3b2a54d08bb3be9a1a0ea720ca248cb160beec7257b6110d447bf5d382b7520ffe00c6b077c846002ff167f0576207",
-                        "sha1": "ba7dd3c6df41382fc7c7024ba435903399107520"
+                        "sha512": "a8f767a7ba762921d35a91e0a324c9f8ac39340e0b4ca7cf023a24fdadcc1726e71fdc04a5619645a9c24ae7ee694194efabf6d88e35961a49c97e6c9d4d1b7d",
+                        "sha1": "69fd588c3f9196cc166c233c6df3fa02eacca8ea"
                     },
                     "required_dependencies": [
+                        "P7dR8mSH",
                         "Ha28R6CL",
-                        "1A2mKfBx",
-                        "P7dR8mSH"
+                        "1A2mKfBx"
                     ],
-                    "size": 29946058,
-                    "date_published": "2026-08-25T19:43:32.431270Z"
+                    "size": 29965967,
+                    "date_published": "2026-08-27T22:05:50.404551Z"
                 }
             ]
         },
