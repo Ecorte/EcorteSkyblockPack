@@ -4428,7 +4428,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Skysoft-0.1.22-mc26.1.jar",
+                    "file_name": "Skysoft-0.1.23-mc26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4438,20 +4438,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/TTWihmjT/versions/5tWizolq/Skysoft-0.1.22-mc26.1.jar",
-                    "id": "5tWizolq",
+                    "url": "https://cdn.modrinth.com/data/TTWihmjT/versions/EM8SG4ok/Skysoft-0.1.23-mc26.1.jar",
+                    "id": "EM8SG4ok",
                     "parent_id": "TTWihmjT",
                     "hashes": {
-                        "sha512": "aa65f14dbd064e30496693beed3926a0dca911c242407284c8cb29788a9a506f5fbe162fdb9988eb09014d2c3fbb0088bde8d7a8afc8b408f073e99749f48cda",
-                        "sha1": "7203c20f870e3094cb89eed41725af39ce368c76"
+                        "sha512": "f2a2b0f188c604bde8a205d9d7eb67c6dd7a3501f67e022ccc90176edeea24b689fab5e46b611fe90f3f77728f58ce2e9b5c94779c2817c930c75f2d09cd66b5",
+                        "sha1": "73d3ac023fd82d29d64c6914287374978530b88b"
                     },
                     "required_dependencies": [
+                        "P7dR8mSH",
                         "1A2mKfBx",
-                        "Ha28R6CL",
-                        "P7dR8mSH"
+                        "Ha28R6CL"
                     ],
-                    "size": 9927255,
-                    "date_published": "2026-08-27T01:24:59.424336Z"
+                    "size": 9869614,
+                    "date_published": "2026-08-28T17:20:14.954491Z"
                 }
             ]
         },
