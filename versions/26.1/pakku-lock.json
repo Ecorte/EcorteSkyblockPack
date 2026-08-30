@@ -504,7 +504,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "chattweaks-1.1.3+26.1.jar",
+                    "file_name": "chattweaks-1.1.4+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -514,19 +514,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/8LNT47ZH/versions/uEkTaIAd/chattweaks-1.1.3+26.1.jar",
-                    "id": "uEkTaIAd",
+                    "url": "https://cdn.modrinth.com/data/8LNT47ZH/versions/9Sc76bCD/chattweaks-1.1.4+26.1.jar",
+                    "id": "9Sc76bCD",
                     "parent_id": "8LNT47ZH",
                     "hashes": {
-                        "sha512": "7e6b6ae35cad1730592a93fb5f39879476a6c5128088d66e43f857464d25df5d13010667a35d55a4afa51f03c91eae1c936c1b81abd4627829640c4f32b0d3aa",
-                        "sha1": "e35040b84698af6446013e06d30937cacb194d6a"
+                        "sha512": "8e7f8611a12af2f639263d8b5dae812faea26eff055b56f40d8ccb252a2734786c01bc7a5c6e1b697bd25db1c3bd59ceac9e76316ebba5ab1c21bce6fbafe16d",
+                        "sha1": "15126f015b6c062f510854500d13b810a1487ab8"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "AibBIVmj"
                     ],
-                    "size": 77627,
-                    "date_published": "2026-08-27T17:21:36.599316Z"
+                    "size": 79947,
+                    "date_published": "2026-08-30T19:14:49.373661Z"
                 }
             ]
         },
@@ -4203,7 +4203,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SkyHanni-7.51.0-mc26.1.jar",
+                    "file_name": "SkyHanni-7.52.0-mc26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4213,20 +4213,20 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/tQUWPVzg/SkyHanni-7.51.0-mc26.1.jar",
-                    "id": "tQUWPVzg",
+                    "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/fxLATOFA/SkyHanni-7.52.0-mc26.1.jar",
+                    "id": "fxLATOFA",
                     "parent_id": "byNkmv5G",
                     "hashes": {
-                        "sha512": "a8f767a7ba762921d35a91e0a324c9f8ac39340e0b4ca7cf023a24fdadcc1726e71fdc04a5619645a9c24ae7ee694194efabf6d88e35961a49c97e6c9d4d1b7d",
-                        "sha1": "69fd588c3f9196cc166c233c6df3fa02eacca8ea"
+                        "sha512": "452cc9b4cc37beb7229a5903b9dbb1db69096949c0cc5fe452de884781153369d33248dacbe345cf8048f67074b11e2b03faa812bd465be899f3dc7a2da4b905",
+                        "sha1": "f0f0ed12307b7cc7e631ce57ac1576c8d4846ac9"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "Ha28R6CL",
                         "1A2mKfBx"
                     ],
-                    "size": 29965967,
-                    "date_published": "2026-08-27T22:05:50.404551Z"
+                    "size": 29986895,
+                    "date_published": "2026-08-30T18:57:27.643628Z"
                 }
             ]
         },
