@@ -4064,7 +4064,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "skyblock-item-list-0.0.20+26.1.2.jar",
+                    "file_name": "skyblock-item-list-0.0.21+26.1.2.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4074,19 +4074,19 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/OaKmV2nB/versions/rwkfgiHd/skyblock-item-list-0.0.20+26.1.2.jar",
-                    "id": "rwkfgiHd",
+                    "url": "https://cdn.modrinth.com/data/OaKmV2nB/versions/gTINDM42/skyblock-item-list-0.0.21+26.1.2.jar",
+                    "id": "gTINDM42",
                     "parent_id": "OaKmV2nB",
                     "hashes": {
-                        "sha512": "76ee2f49422e814cdf8c193203500a5b02dde5e7a52e3498af4ff96f2e212d05571a0591b59d36389e836c2efb3f2d9626cd0001f6c17ccb2236454b3af740ec",
-                        "sha1": "6efc1c1a246b3cbdb5d31b938855808b19e12609"
+                        "sha512": "cdaf6c9093f8fff66b9953847c44379a673a9f35733ef6fa8008a59c0db53daeb9bfe9c50c07eedf8bb7ee781401decc3320230923b41aa8b271fa6713f1af7e",
+                        "sha1": "5146b31c6870f577f1c322de51e5c2113cbe52ec"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "Ha28R6CL"
                     ],
-                    "size": 4439432,
-                    "date_published": "2026-08-08T21:05:54.845383Z"
+                    "size": 4457136,
+                    "date_published": "2026-08-30T18:12:31.743419Z"
                 }
             ]
         },
