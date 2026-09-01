@@ -5215,7 +5215,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "devonian-1.29.9.jar",
+                    "file_name": "devonian-1.30.9.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -5225,20 +5225,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/j4Tr5Ve2/versions/cdOpzjF6/devonian-1.29.9.jar",
-                    "id": "cdOpzjF6",
+                    "url": "https://cdn.modrinth.com/data/j4Tr5Ve2/versions/TqVs97IS/devonian-1.30.9.jar",
+                    "id": "TqVs97IS",
                     "parent_id": "j4Tr5Ve2",
                     "hashes": {
-                        "sha512": "b3f68bc645ddba82963ff857188032fdba9d181f513803e97b11f0f8cc4803632d579c7089234d7fd80e11e9ebd01bdb1eae6062fe3ba065aff3100143528db4",
-                        "sha1": "56fdf367f13cdbebdc11c4e814b3c68b54bbfc9e"
+                        "sha512": "0a10bf23253e663fd397c774f4eb0199d5d3f93380ce0067307220131673f3b01941708938923e74850aa726565a4c31adf33128434c9727ec80fed4ce4ad3b7",
+                        "sha1": "a58d5280e084575e3c1c280ae6c886ed7d3e62d7"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
+                        "1A2mKfBx",
                         "Ha28R6CL",
-                        "1A2mKfBx"
+                        "P7dR8mSH"
                     ],
-                    "size": 3720035,
-                    "date_published": "2026-08-11T21:48:47.470905Z"
+                    "size": 3743153,
+                    "date_published": "2026-09-01T23:12:13.544143Z"
                 }
             ]
         },
