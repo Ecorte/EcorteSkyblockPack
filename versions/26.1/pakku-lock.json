@@ -2912,7 +2912,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "NBTac-FABRIC-26.1-1.3.15.jar",
+                    "file_name": "NBTac-FABRIC-26.1.2-2.0.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -2922,18 +2922,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/UR0ocuEt/versions/Ff4WZy7J/NBTac-FABRIC-26.1-1.3.15.jar",
-                    "id": "Ff4WZy7J",
+                    "url": "https://cdn.modrinth.com/data/UR0ocuEt/versions/YWr4LkOI/NBTac-FABRIC-26.1.2-2.0.1.jar",
+                    "id": "YWr4LkOI",
                     "parent_id": "UR0ocuEt",
                     "hashes": {
-                        "sha512": "19a6557186434418082691aa9877cca779f99a6907f21d3d9932c7ccf312804e3c8c4eb6df5198ccab66a6843ceb67846ebee162a37131907a1b0af1dd8de7ab",
-                        "sha1": "1273dc746a2eae9ecd1997916bdaae06f0461292"
+                        "sha512": "4af0d5321b3a39e4165d486f99fedc77f9e4d33b06e2e4ab0ac2f98e28e22119d369d5ee89a0a8c4a97a717406067bfb5c61f7a2dfe7165d96b4e59cbc7254bb",
+                        "sha1": "6cfe4e015ce690f82ae9aefda125eeaa3316261c"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 274259,
-                    "date_published": "2026-03-28T13:47:10.510979Z"
+                    "size": 273960,
+                    "date_published": "2026-09-02T19:04:58.508261Z"
                 }
             ]
         },
