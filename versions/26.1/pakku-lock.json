@@ -3257,7 +3257,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.1.10.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.1.11.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3267,20 +3267,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/2Ox8S1Y5/OneConfig-26.1-fabric-1.1.10.jar",
-                    "id": "2Ox8S1Y5",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/AxOUWDiV/OneConfig-26.1-fabric-1.1.11.jar",
+                    "id": "AxOUWDiV",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "3e594c6f857d2326d1bf26e10dbddce5a8d83168d9a7fc7c6b3dad4661fa48089337c2d2c6789da29b5b6983ba62451ec1c3c8cb88cd3864977da838c71443d1",
-                        "sha1": "69226dd14990360790e161f7812100d6ed7e0836"
+                        "sha512": "0f22ddfea258113ecc352d29fa15d7951bf1a013128f7564ea8ee708ec4967eccea72af588fb968adde4b2a3fb34a8facad47dcce2ee08b02511b11a13849468",
+                        "sha1": "1cf873aca582ae01424bdd7b68803eac44c6787b"
                     },
                     "required_dependencies": [
+                        "Ha28R6CL",
                         "P7dR8mSH",
-                        "eHe8QhtD",
-                        "Ha28R6CL"
+                        "eHe8QhtD"
                     ],
-                    "size": 11536217,
-                    "date_published": "2026-08-22T16:29:20.034151Z"
+                    "size": 11487531,
+                    "date_published": "2026-09-02T04:03:04.814498Z"
                 }
             ]
         },
@@ -4380,7 +4380,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "skyblocker-6.9.2+26.1.2.jar",
+                    "file_name": "skyblocker-6.10.1+26.1.2.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4390,19 +4390,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/y6DuFGwJ/versions/29HQfrbr/skyblocker-6.9.2+26.1.2.jar",
-                    "id": "29HQfrbr",
+                    "url": "https://cdn.modrinth.com/data/y6DuFGwJ/versions/4kEeBRg2/skyblocker-6.10.1+26.1.2.jar",
+                    "id": "4kEeBRg2",
                     "parent_id": "y6DuFGwJ",
                     "hashes": {
-                        "sha512": "ae14091d233c3d8eedda42088c88dcff57622473a94a40de75b4f577ab5e71b2a02e97e8ea706edf343c1e5246928d0897e332c8837672b37c2074b9681455d9",
-                        "sha1": "c53c31781858345f9b72319bde88bdb460cb3903"
+                        "sha512": "41bc82032064e79273b488fecb064441ab72222d139bae5a04f100a59d7ef1c25138dea756cd437a56966e852de3c57a29e4cf0b8d133c476a484fb755f42b5f",
+                        "sha1": "5fa7b83d66cedad870f53f531e04d0f4101cd2df"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "Ha28R6CL"
                     ],
-                    "size": 19371577,
-                    "date_published": "2026-08-31T01:12:22.702787Z"
+                    "size": 19610027,
+                    "date_published": "2026-09-02T06:02:00.391314Z"
                 }
             ]
         },
