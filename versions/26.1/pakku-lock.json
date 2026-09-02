@@ -3257,7 +3257,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.1.11.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.1.12.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3267,20 +3267,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/AxOUWDiV/OneConfig-26.1-fabric-1.1.11.jar",
-                    "id": "AxOUWDiV",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/7iWDRA96/OneConfig-26.1-fabric-1.1.12.jar",
+                    "id": "7iWDRA96",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "0f22ddfea258113ecc352d29fa15d7951bf1a013128f7564ea8ee708ec4967eccea72af588fb968adde4b2a3fb34a8facad47dcce2ee08b02511b11a13849468",
-                        "sha1": "1cf873aca582ae01424bdd7b68803eac44c6787b"
+                        "sha512": "e6a6a09f23a7b9a69de8cf15da5afc15558b130f13b1411f840234ce19208465c819ff0b4200758ae1c74d05eb815854219404211e21709b03450df8e590f493",
+                        "sha1": "4e37ddd8390961815fc248a522f5b199cc2a7626"
                     },
                     "required_dependencies": [
+                        "eHe8QhtD",
                         "Ha28R6CL",
-                        "P7dR8mSH",
-                        "eHe8QhtD"
+                        "P7dR8mSH"
                     ],
-                    "size": 11487531,
-                    "date_published": "2026-09-02T04:03:04.814498Z"
+                    "size": 11488699,
+                    "date_published": "2026-09-02T11:27:01.249903Z"
                 }
             ]
         },
@@ -3350,7 +3350,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "obe+26.1.2-1.1.41.jar",
+                    "file_name": "obe+26.1.2-1.1.45.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3361,18 +3361,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/W67bVT6i/obe+26.1.2-1.1.41.jar",
-                    "id": "W67bVT6i",
+                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/g393LSmx/obe+26.1.2-1.1.45.jar",
+                    "id": "g393LSmx",
                     "parent_id": "AtOSAunf",
                     "hashes": {
-                        "sha512": "5b3a5cfc1e6b9fef6da5180dc2c1bda0aeeb4a18892a7e0f02bbe8d8a381658ca96483619b67c668af863c8b68ea215f63211c51a0da6161e88ddf2651676a2b",
-                        "sha1": "b8ba91836b02de4eb152a7eda877020b86bdfd59"
+                        "sha512": "75bf1b6f1579530eeb6660e2080cd0c1ff65a45103be9781e654e0a5d91451686a2ce09fa254bd0e2a572da41a11cb545e787967c655f56f5d895fa0c302d984",
+                        "sha1": "b8ce1b4553b29988e9e5920862c858e1ac4bdd61"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 189763,
-                    "date_published": "2026-08-18T15:00:15.036194Z"
+                    "size": 192166,
+                    "date_published": "2026-09-02T08:34:45.073147Z"
                 }
             ]
         },
@@ -4203,7 +4203,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SkyHanni-7.52.0-mc26.1.jar",
+                    "file_name": "SkyHanni-7.53.0-mc26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4213,20 +4213,20 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/fxLATOFA/SkyHanni-7.52.0-mc26.1.jar",
-                    "id": "fxLATOFA",
+                    "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/H16Otevd/SkyHanni-7.53.0-mc26.1.jar",
+                    "id": "H16Otevd",
                     "parent_id": "byNkmv5G",
                     "hashes": {
-                        "sha512": "452cc9b4cc37beb7229a5903b9dbb1db69096949c0cc5fe452de884781153369d33248dacbe345cf8048f67074b11e2b03faa812bd465be899f3dc7a2da4b905",
-                        "sha1": "f0f0ed12307b7cc7e631ce57ac1576c8d4846ac9"
+                        "sha512": "8ed57b0c565653d5283b73c1d6dd100011f37d015e824d2fcb2e65098ee74dd5f4b9d8afb1a8d429d81f880a126ec1d656ebb13686d6d9a3bc4afc3d90333ec9",
+                        "sha1": "5a3e944697d769da20eab22719c0370358efedc1"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
                         "Ha28R6CL",
-                        "1A2mKfBx"
+                        "1A2mKfBx",
+                        "P7dR8mSH"
                     ],
-                    "size": 29986895,
-                    "date_published": "2026-08-30T18:57:27.643628Z"
+                    "size": 30040710,
+                    "date_published": "2026-09-02T07:32:03.413091Z"
                 }
             ]
         },
@@ -4390,19 +4390,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/y6DuFGwJ/versions/4kEeBRg2/skyblocker-6.10.1+26.1.2.jar",
-                    "id": "4kEeBRg2",
+                    "url": "https://cdn.modrinth.com/data/y6DuFGwJ/versions/uK3BeGGt/skyblocker-6.10.1+26.1.2.jar",
+                    "id": "uK3BeGGt",
                     "parent_id": "y6DuFGwJ",
                     "hashes": {
                         "sha512": "41bc82032064e79273b488fecb064441ab72222d139bae5a04f100a59d7ef1c25138dea756cd437a56966e852de3c57a29e4cf0b8d133c476a484fb755f42b5f",
                         "sha1": "5fa7b83d66cedad870f53f531e04d0f4101cd2df"
                     },
-                    "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL"
-                    ],
+                    "required_dependencies": [],
                     "size": 19610027,
-                    "date_published": "2026-09-02T06:02:00.391314Z"
+                    "date_published": "2026-09-02T08:21:24.010136Z"
                 }
             ]
         },
