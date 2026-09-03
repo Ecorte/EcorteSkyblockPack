@@ -3342,7 +3342,7 @@
                 "modrinth": "obe"
             },
             "name": {
-                "modrinth": "Optimized Block Entities"
+                "modrinth": "Optimized Block Entities [OBE]"
             },
             "id": {
                 "modrinth": "AtOSAunf"
@@ -5086,7 +5086,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entity_model_features-3.3.4-26.1-fabric.jar",
+                    "file_name": "entity_model_features-3.3.5-26.1-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -5097,18 +5097,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/e3f6zF8j/entity_model_features-3.3.4-26.1-fabric.jar",
-                    "id": "e3f6zF8j",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/SrQK3uuO/entity_model_features-3.3.5-26.1-fabric.jar",
+                    "id": "SrQK3uuO",
                     "parent_id": "4I1XuqiY",
                     "hashes": {
-                        "sha512": "26bd5613adbec11796293a93a43caa279c2efea3c67073f9bde7fc328af5bcab69cfb2929d3be7937d627a2a426a14154646a39ea86d9a9953daa3004e250a36",
-                        "sha1": "8e8044ce11f09237b6cb1fa01d37ed4906b79cca"
+                        "sha512": "c1c73d5a1f8eea3879cedc7421c76c72eb38d0e7a464a4de70651451154407f5ed94e26955a5f3f3a38c107c2bfd692f7101e9de41c08453e5052a4b64697bee",
+                        "sha1": "5660495597f854477c0333ffe4c678961f9a7279"
                     },
                     "required_dependencies": [
                         "BVzZfTc1"
                     ],
-                    "size": 638496,
-                    "date_published": "2026-09-03T03:04:04.798032Z"
+                    "size": 638501,
+                    "date_published": "2026-09-03T11:31:39.028984Z"
                 }
             ]
         },
