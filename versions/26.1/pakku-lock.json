@@ -2695,7 +2695,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "malilib-fabric-26.1.2-0.28.11.jar",
+                    "file_name": "malilib-fabric-26.1.2-0.28.12.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -2705,16 +2705,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/4qVbVLIv/malilib-fabric-26.1.2-0.28.11.jar",
-                    "id": "4qVbVLIv",
+                    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/FItuNokS/malilib-fabric-26.1.2-0.28.12.jar",
+                    "id": "FItuNokS",
                     "parent_id": "GcWjdA9I",
                     "hashes": {
-                        "sha512": "9e1af3f719454b4aa71fb7d3ac56cb1874e9286e989dc3cf7004e6280c6fcfbb92cdae1854a9dd8d3cafc5e3ebbcadec3bb045ae5858b625abc540d509f51839",
-                        "sha1": "f2f27b44c2b2ae7c92865d89f84f8dd9dbebade9"
+                        "sha512": "e1ef04504991f395e30266f2cb006a17ec5657a00b6d84df4d327e486ac35944346e17bcb610d24c98b7ea828cac6f5c80968e09416d73847540dfee8436466a",
+                        "sha1": "63948feb57a7d3410e5404a23cb7bd1bac25ece2"
                     },
                     "required_dependencies": [],
-                    "size": 2038366,
-                    "date_published": "2026-08-29T19:58:53.455271Z"
+                    "size": 2042597,
+                    "date_published": "2026-09-04T18:28:50.576320Z"
                 }
             ]
         },
