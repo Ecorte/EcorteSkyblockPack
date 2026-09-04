@@ -2737,7 +2737,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "minihud-fabric-26.1.2-0.39.10.jar",
+                    "file_name": "minihud-fabric-26.1.2-0.39.11.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -2747,18 +2747,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/UMxybHE8/versions/PmfCI3yf/minihud-fabric-26.1.2-0.39.10.jar",
-                    "id": "PmfCI3yf",
+                    "url": "https://cdn.modrinth.com/data/UMxybHE8/versions/U1vpCrw9/minihud-fabric-26.1.2-0.39.11.jar",
+                    "id": "U1vpCrw9",
                     "parent_id": "UMxybHE8",
                     "hashes": {
-                        "sha512": "fdb10e3ddd7ea808449452bc389f0218301cf13f2797b80d4cb15e157e94e80986ab9e34dd560bb86c4697c05d3e2c391b9afb8eefd0b393dd50d7c753ae63ab",
-                        "sha1": "108be82e3d85a686f6ad012ac1fd6b29efd655d8"
+                        "sha512": "d69281fc9a0bed9dada42ca846fc0f2e599f2171dfd50b7f3d6752dac2af44f5d7b3d3f83057192cccc812b2f184dff4a2de03295264b82fd2923a73123895d9",
+                        "sha1": "d8b172a51c6cfad316d59c946dbd9e80f7c1faf0"
                     },
                     "required_dependencies": [
                         "GcWjdA9I"
                     ],
-                    "size": 930203,
-                    "date_published": "2026-08-29T20:04:25.112369Z"
+                    "size": 929766,
+                    "date_published": "2026-09-04T18:36:40.989504Z"
                 }
             ]
         },
