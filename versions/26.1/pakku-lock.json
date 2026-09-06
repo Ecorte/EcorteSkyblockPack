@@ -703,8 +703,8 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/4MxJbQOd/compose-bundle-1.0.4+compose.1.12.0.jar",
-                    "id": "4MxJbQOd",
+                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/8rpN5puy/compose-bundle-1.0.4+compose.1.12.0.jar",
+                    "id": "8rpN5puy",
                     "parent_id": "eHe8QhtD",
                     "hashes": {
                         "sha512": "13b26534cfc5ed4c67c2d891ba70b8e2a90f874374e8b3547aef031770c87b3caed68f2947846beb6a538336fa1799bb300a68c92b84f65f392debf4d36c1ee4",
@@ -714,7 +714,7 @@
                         "Ha28R6CL"
                     ],
                     "size": 77957708,
-                    "date_published": "2026-09-05T19:29:25.999008Z"
+                    "date_published": "2026-09-06T19:09:29.449470Z"
                 }
             ]
         },
@@ -3257,7 +3257,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.1.13.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.1.14.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3267,20 +3267,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/aVsonwJF/OneConfig-26.1-fabric-1.1.13.jar",
-                    "id": "aVsonwJF",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/RU7b2iAH/OneConfig-26.1-fabric-1.1.14.jar",
+                    "id": "RU7b2iAH",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "239abfc1933e37993d1a7a71431028ddaf4aaff349dbade5b2781f207f2319e5871d383d914ec0699da1ff504be59998d6fa33a563438876b158273255bac404",
-                        "sha1": "4fe4aa237a1dc514c05c7ab9546c2ebe9daeff1e"
+                        "sha512": "ea9c6b44bd82f898f1d46aefd5dc6e781b8364791b87d13da6e02ed30d28a25447ac6b1a368db986a4c0b41de6f2c8536573793929a661dadd08def167ce4611",
+                        "sha1": "3e9b749d83ca0309c91002db1868b9c617dba847"
                     },
                     "required_dependencies": [
                         "eHe8QhtD",
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "P7dR8mSH"
                     ],
-                    "size": 11697714,
-                    "date_published": "2026-09-05T19:30:42.926220Z"
+                    "size": 11633698,
+                    "date_published": "2026-09-06T19:10:18.988794Z"
                 }
             ]
         },
