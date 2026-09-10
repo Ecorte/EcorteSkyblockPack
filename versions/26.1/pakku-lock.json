@@ -3397,7 +3397,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "overflowparticles-1.1.5+26.1.jar",
+                    "file_name": "overflowparticles-1.1.6+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3407,19 +3407,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/61g97TVF/versions/rQDNzfGO/overflowparticles-1.1.5+26.1.jar",
-                    "id": "rQDNzfGO",
+                    "url": "https://cdn.modrinth.com/data/61g97TVF/versions/iiVbQN0M/overflowparticles-1.1.6+26.1.jar",
+                    "id": "iiVbQN0M",
                     "parent_id": "61g97TVF",
                     "hashes": {
-                        "sha512": "2c4ac6a31ac67df57f35a7f33881e44bd5824b84e452505e93e2f66304c5e93742cff0d5f6c05fd90569f1f4e7fc1ccb954d1ddc8145a04d79bb30d3a48af46b",
-                        "sha1": "7ba9f6d707b3ec3340360846ecb6ebac45377e70"
+                        "sha512": "6a51c93520af1bb3a684d582e084507de050e326ccb5813e26b81ba7e097a32c687e1a4c8688df427da5de9771d194cfdbe3d2d0f482468a4ef502e8a16b9d8a",
+                        "sha1": "178224e50fc279ca17a2ca3b99d44e029d505785"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "AibBIVmj"
                     ],
-                    "size": 85012,
-                    "date_published": "2026-08-04T12:56:36.820670Z"
+                    "size": 97939,
+                    "date_published": "2026-09-10T19:49:13.021734Z"
                 }
             ]
         },
