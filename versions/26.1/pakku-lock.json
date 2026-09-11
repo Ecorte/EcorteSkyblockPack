@@ -3351,7 +3351,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "obe+26.1.2-1.1.46.jar",
+                    "file_name": "obe+26.1.2-1.1.47-beta.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3361,19 +3361,19 @@
                         "fabric",
                         "quilt"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/R7tEpEhT/obe+26.1.2-1.1.46.jar",
-                    "id": "R7tEpEhT",
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/DLyUUWp6/obe+26.1.2-1.1.47-beta.1.jar",
+                    "id": "DLyUUWp6",
                     "parent_id": "AtOSAunf",
                     "hashes": {
-                        "sha512": "0334e214de28eabbee1ea784daa96be606f2e577fb340b8f2f3da90fb342cb49f7fec313919486ecc653653d09c9634a3e993e4611d5a9de483f511184c61884",
-                        "sha1": "ec8866881ca2784d48f10bc25a05a4ca2a8cb5b9"
+                        "sha512": "69827b2afea5ab6eae1c70932a79119492ad68dc50b37e1b9cd012460a64d0fcc725335ec43cdc9255dee6704697804af0f65f27670696e24024d93170433c9f",
+                        "sha1": "68a103222a7e682d2062954c51b06127cddcb59e"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 195820,
-                    "date_published": "2026-09-09T19:10:40.754118Z"
+                    "size": 201869,
+                    "date_published": "2026-09-11T13:51:46.514792Z"
                 }
             ]
         },
@@ -3721,7 +3721,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polytone-26.1.2-6.4.1-fabric.jar",
+                    "file_name": "polytone-26.1.2-6.5.0-fabric.jar",
                     "mc_versions": [
                         "26.1.2"
                     ],
@@ -3729,16 +3729,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/sp2lfJhh/polytone-26.1.2-6.4.1-fabric.jar",
-                    "id": "sp2lfJhh",
+                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/6VQE33HE/polytone-26.1.2-6.5.0-fabric.jar",
+                    "id": "6VQE33HE",
                     "parent_id": "3qAYkBMB",
                     "hashes": {
-                        "sha512": "2f233482af54131496ca1cee4ef0e28760a648d0d49ec69b46cf9de01a472739b95a4dec9d2df51afd7fc4a07fcffb6ec57b62c5c92f089ccb8f7b348b24c932",
-                        "sha1": "a4fd023b8f3528576b553451193f9214837e3c7f"
+                        "sha512": "2d4dc65f41e7a2786ad0382dad5d1109b9034d2d1724f9d6b81b52c285c7a170dea4fbed7cdb9764119f76c15fcb26c7b0b66f9ab31792c0df0e613911f9151b",
+                        "sha1": "978d6fec384c65da405699196a0450cdbed1bdd3"
                     },
                     "required_dependencies": [],
-                    "size": 2539859,
-                    "date_published": "2026-08-27T21:32:06.829260Z"
+                    "size": 2334991,
+                    "date_published": "2026-09-11T12:27:45.058985Z"
                 }
             ]
         },
