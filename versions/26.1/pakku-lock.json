@@ -5301,7 +5301,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "spark-1.10.173-fabric.jar",
+                    "file_name": "spark-1.10.185-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -5312,16 +5312,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/iYFOl6lQ/spark-1.10.173-fabric.jar",
-                    "id": "iYFOl6lQ",
+                    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/RH6bRLqh/spark-1.10.185-fabric.jar",
+                    "id": "RH6bRLqh",
                     "parent_id": "l6YH9Als",
                     "hashes": {
-                        "sha512": "1dcbf2b76ceacf07523afaeaf63d3625b0318077cc6ce588bb701aea4a494bc2a5179fd2ca5aeda9513c6a2248c2ec590387e8aec6ac9fd8e3d01760bbc3dbfb",
-                        "sha1": "fab7a3fec7dd01936fa21c88af40f8093b714dd2"
+                        "sha512": "d2082e47d95cb2da77cafb20c6164ead13cbed717498dba4ae0d17adbe3425315ada32038a89ca0ae871773086e139a3b133bff1e8f8a96d8ef5028f4bea0758",
+                        "sha1": "cc8dfe9817ea7aed09eff62db22e364b9d2963ff"
                     },
                     "required_dependencies": [],
-                    "size": 3887184,
-                    "date_published": "2026-06-18T21:12:12.918302Z"
+                    "size": 3975801,
+                    "date_published": "2026-09-12T11:50:43.986020Z"
                 }
             ]
         },
