@@ -1911,7 +1911,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Hytils Reborn-2.0.2+26.1.jar",
+                    "file_name": "hytils-reborn-2.0.3+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1921,21 +1921,21 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/z8G7fPN2/Hytils Reborn-2.0.2+26.1.jar",
-                    "id": "z8G7fPN2",
+                    "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/G7HZUB69/hytils-reborn-2.0.3+26.1.jar",
+                    "id": "G7HZUB69",
                     "parent_id": "nF6YaBfO",
                     "hashes": {
-                        "sha512": "2dcd92b7dbc8aacf928c608ee831c1af0212a6d54db94bcc32706ab41a87c3990b501e5dcec02c8cf7740aee5c2f29440a82758be16172c1124ad7157b681b11",
-                        "sha1": "5437fe1f7c9ac2c63b93e4e1a425d539372a09c5"
+                        "sha512": "ed77362f8720bc203ef5f54cf4eb8aef15ea65b25413b17e0dedd14480adc4adeab5d6238e11d3a3d1e393ae4235bf2282f63552748ce101239d028736866390",
+                        "sha1": "77fdb5541a3fe11e7cddecba8a3de03fb7f8e211"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
-                        "P7dR8mSH",
                         "1A2mKfBx",
+                        "P7dR8mSH",
+                        "AibBIVmj",
                         "Ha28R6CL"
                     ],
-                    "size": 472446,
-                    "date_published": "2026-07-28T10:55:25.729090Z"
+                    "size": 474258,
+                    "date_published": "2026-09-13T22:14:50.277680Z"
                 }
             ]
         },
