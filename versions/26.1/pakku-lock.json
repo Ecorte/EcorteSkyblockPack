@@ -1477,7 +1477,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Feesh-1.13.0+26.1-fabric.jar",
+                    "file_name": "Feesh-1.14.0+26.1-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1487,19 +1487,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/bC9yW6cL/Feesh-1.13.0+26.1-fabric.jar",
-                    "id": "bC9yW6cL",
+                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/rN19O3Nm/Feesh-1.14.0+26.1-fabric.jar",
+                    "id": "rN19O3Nm",
                     "parent_id": "QCpogurE",
                     "hashes": {
-                        "sha512": "2b3941d46498dc3cc23b9159ff98638626354eafacd112bb780c7a91cb49af1f1a00a030bf1f7492272763a943e34f37939cf1eadb62641e6c7e8bcc754ee09d",
-                        "sha1": "bf741365a4d2b382f811580a09d77443945f6978"
+                        "sha512": "9e0eaed183949fc59c451b40846a0b3f0b283d810a7f825f55269eb631af1bc90a208ffc4ec6a9ed3fcfd00fc58dd7cb30c04d24929ab0e4645a297874164ef3",
+                        "sha1": "67d535bbff8def6af6b23fdc73de21ed61a52e6a"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "P7dR8mSH"
                     ],
-                    "size": 2679740,
-                    "date_published": "2026-08-24T14:58:26.390274Z"
+                    "size": 2762361,
+                    "date_published": "2026-09-14T17:38:42.787503Z"
                 }
             ]
         },
@@ -3212,7 +3212,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Odin-0.3.2.jar",
+                    "file_name": "Odin-0.3.3.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3222,19 +3222,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/jJJLywXp/versions/pb6t335x/Odin-0.3.2.jar",
-                    "id": "pb6t335x",
+                    "url": "https://cdn.modrinth.com/data/jJJLywXp/versions/ZnIea2oU/Odin-0.3.3.jar",
+                    "id": "ZnIea2oU",
                     "parent_id": "jJJLywXp",
                     "hashes": {
-                        "sha512": "04b035901b5ec8dc197750351fce5ed6422433f37050311e19a77b7f6d101f095cb005fe083aa2919226dc7b025a92f29ae6f12e7466afc983d550e1d8217531",
-                        "sha1": "e3902d9b7ceb541d7a2239f2038fc687f7291b48"
+                        "sha512": "792ba2263f124c548c0ef695e78e3d49c91627a94db85a542fea45f5739857104ba87d331e1f2818e53a0e0e6d1d3b677cde7214815a89ef40a48fcdaada730e",
+                        "sha1": "59e2f27eeefcdce12f6ba2f2ddf40847cdede09a"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "P7dR8mSH"
                     ],
-                    "size": 4885800,
-                    "date_published": "2026-09-01T18:04:37.375731Z"
+                    "size": 4919596,
+                    "date_published": "2026-09-14T17:09:16.091720Z"
                 }
             ]
         },
@@ -4428,7 +4428,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Skysoft-0.1.28-mc26.1.jar",
+                    "file_name": "Skysoft-0.1.29-mc26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4438,20 +4438,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/TTWihmjT/versions/hIMgnoqb/Skysoft-0.1.28-mc26.1.jar",
-                    "id": "hIMgnoqb",
+                    "url": "https://cdn.modrinth.com/data/TTWihmjT/versions/AeS6L7ac/Skysoft-0.1.29-mc26.1.jar",
+                    "id": "AeS6L7ac",
                     "parent_id": "TTWihmjT",
                     "hashes": {
-                        "sha512": "0b07504a594797f791e3d57d9f832bd95b47719c986a8b1767b6e3c49b9eadeae410dc37ae907b6315a9ff77134037f6c2b77ec0d3cf179f302a9013781a5c3a",
-                        "sha1": "cddb6d76087d67be28fec5c1f25c03edc431bd58"
+                        "sha512": "eb5d42d6018636ea9ffcd8af60886f699e5101538d208a27d9ee4eb6345e2c2ab24c63e690ae17e61c7647dd863567afb68cf280ec0a8dc3e61e18a78977ec7c",
+                        "sha1": "fe65580f65561a31b7b4987c2d4f709cf0e66016"
                     },
                     "required_dependencies": [
-                        "1A2mKfBx",
                         "P7dR8mSH",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "1A2mKfBx"
                     ],
-                    "size": 11137212,
-                    "date_published": "2026-09-14T12:01:27.153419Z"
+                    "size": 11137636,
+                    "date_published": "2026-09-14T19:11:14.626897Z"
                 }
             ]
         },
