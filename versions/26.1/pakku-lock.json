@@ -4209,7 +4209,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SkyHanni-7.56.0-mc26.1.jar",
+                    "file_name": "SkyHanni-7.57.0-mc26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4219,20 +4219,20 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/MnRBvQlm/SkyHanni-7.56.0-mc26.1.jar",
-                    "id": "MnRBvQlm",
+                    "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/P9Xpl2Px/SkyHanni-7.57.0-mc26.1.jar",
+                    "id": "P9Xpl2Px",
                     "parent_id": "byNkmv5G",
                     "hashes": {
-                        "sha512": "96cd7f61e9ce60bf6fafefd49a664b077cb002a86882f9ab5d52af79edbfb61e98b63be0d975b736e06318b9277c60ec77e0641050e80766bb47c32fd4b2af02",
-                        "sha1": "2f39351d37b6d0d205e3425a42032391f54f9629"
+                        "sha512": "58c4f451cc583abd457ee6d21900db03da310907d99701525ccd2ff02a36903ff6926af32806790f17780b1f580b138aa9c49d93a4152868916cd9ac26770920",
+                        "sha1": "32985e8edbef2aef73174565fa1ab546c96550f2"
                     },
                     "required_dependencies": [
+                        "1A2mKfBx",
                         "P7dR8mSH",
-                        "Ha28R6CL",
-                        "1A2mKfBx"
+                        "Ha28R6CL"
                     ],
-                    "size": 30168897,
-                    "date_published": "2026-09-13T13:10:13.919789Z"
+                    "size": 30184835,
+                    "date_published": "2026-09-15T22:00:08.243157Z"
                 }
             ]
         },
@@ -4386,7 +4386,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "skyblocker-6.10.3+26.1.2.jar",
+                    "file_name": "skyblocker-6.10.4+26.1.2.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4396,19 +4396,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/y6DuFGwJ/versions/BqtCjDLS/skyblocker-6.10.3+26.1.2.jar",
-                    "id": "BqtCjDLS",
+                    "url": "https://cdn.modrinth.com/data/y6DuFGwJ/versions/FWeU0Ppi/skyblocker-6.10.4+26.1.2.jar",
+                    "id": "FWeU0Ppi",
                     "parent_id": "y6DuFGwJ",
                     "hashes": {
-                        "sha512": "5f60719c85121d9fa5e0efca0e726287944fe1ac74fa32d71d8bdd5f653a25c71aaad45aa777619684b43e67b02a0628670b0d2e76e47b23272917f842445ea0",
-                        "sha1": "4f8a4d98fc586edaa4651d1f10703169c416783c"
+                        "sha512": "6d1d16128e1daf5db5e332f1ae4283d28562650cd80aeb4e3e4443e4fdbde8a50703d7d7260320aa6f56bd06026ded58da7ba020af9ea91b250fdd828bbf875f",
+                        "sha1": "d97003d6c5d50bdd6a07192db0014279f454b617"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 19860066,
-                    "date_published": "2026-09-15T01:14:57.990848Z"
+                    "size": 19860148,
+                    "date_published": "2026-09-15T21:38:41.554077Z"
                 }
             ]
         },
