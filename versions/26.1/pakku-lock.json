@@ -1357,7 +1357,8 @@
                         "26.1",
                         "26.1.1",
                         "26.1.2",
-                        "26.2"
+                        "26.2",
+                        "26.3"
                     ],
                     "loaders": [
                         "fabric"
@@ -3261,7 +3262,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.1.17.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.2.0.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3271,20 +3272,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/4vGPfpdr/OneConfig-26.1-fabric-1.1.17.jar",
-                    "id": "4vGPfpdr",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/i6BBghQb/OneConfig-26.1-fabric-1.2.0.jar",
+                    "id": "i6BBghQb",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "d9c727f64a5b9a2ba995e1036753a707ed3c93f6dae240c698cb5dcb216b8cf94a295b88eb124a5e61eb87817993ccbe9389375bd48af6e18c4c14754ed2692a",
-                        "sha1": "ec6ffa6f13596ff96797931ccb081681a15b1487"
+                        "sha512": "118fd87da351508220297678631cf24d4b8ccf1309bd9cbec3c3c6b0439ca3dc9b9b18f45b1818f9725c28b9aaa03427e48c668136adf273feabd4eaedd68d36",
+                        "sha1": "d41c69f71bef44f849f8830957a6edf623bb6d3d"
                     },
                     "required_dependencies": [
-                        "eHe8QhtD",
                         "Ha28R6CL",
+                        "eHe8QhtD",
                         "P7dR8mSH"
                     ],
-                    "size": 11674952,
-                    "date_published": "2026-09-10T10:00:33.717034Z"
+                    "size": 11675519,
+                    "date_published": "2026-09-15T15:16:29.669533Z"
                 }
             ]
         },
