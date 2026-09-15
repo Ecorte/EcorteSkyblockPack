@@ -156,7 +156,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "behindyouv3-3.4.6+26.1.jar",
+                    "file_name": "behindyouv3-3.5.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -166,19 +166,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/sAFPANmp/versions/s0MHdolz/behindyouv3-3.4.6+26.1.jar",
-                    "id": "s0MHdolz",
+                    "url": "https://cdn.modrinth.com/data/sAFPANmp/versions/Kmg0fwVY/behindyouv3-3.5.0+26.1.jar",
+                    "id": "Kmg0fwVY",
                     "parent_id": "sAFPANmp",
                     "hashes": {
-                        "sha512": "cc602de58549c7bdbafd72afa9d05afaa5c4ed748e035919165442f7dbc85fb81f8aec94017886b21c09230e880b818ad93b7ca25e086e1b6b43a5b9b04384d2",
-                        "sha1": "e04657e661dd3fbb1713a54da06a0d21c0261e24"
+                        "sha512": "e8816e409590d27730d6ce103c1db66bd88a4a6a30e4eb5852e9ab35929a1bd74564aa442ba5c69c4124ba3e8e8eaa3cfa5d72552776a85f086970c528c5341e",
+                        "sha1": "cc459c873749157e977494cb7735b9213c28740b"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "AibBIVmj"
                     ],
-                    "size": 50972,
-                    "date_published": "2026-08-18T22:17:25.457520Z"
+                    "size": 51200,
+                    "date_published": "2026-09-15T15:24:05.901338Z"
                 }
             ]
         },
@@ -379,7 +379,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Catharsis-1.0.0-beta.21-26.1.jar",
+                    "file_name": "Catharsis-1.0.0-beta.22-26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -389,19 +389,19 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/fc4wBpRx/versions/NfEUeWdz/Catharsis-1.0.0-beta.21-26.1.jar",
-                    "id": "NfEUeWdz",
+                    "url": "https://cdn.modrinth.com/data/fc4wBpRx/versions/kPx89llE/Catharsis-1.0.0-beta.22-26.1.jar",
+                    "id": "kPx89llE",
                     "parent_id": "fc4wBpRx",
                     "hashes": {
-                        "sha512": "97930b3b00eaf4a6df874b248d6d2090ffedf8fc359682af6cfd5afe6cad2da75b73ad0675883712ae638e2963a14056d78580be21d1b714c5999c75728b40fc",
-                        "sha1": "993503f7f78fe9577f4aa4db9c35fd022f127a2f"
+                        "sha512": "21d5ea120a6e827fe44ce7535f14d52ac6b6cf238303d1460479cc1860d87ca9f9046ad7539b2ae688f64f990efaedce7768561ba6d5b7b77237b05bc7f908f6",
+                        "sha1": "c1d0822a28674fec5657bd09e5928741289b5d98"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 6118084,
-                    "date_published": "2026-08-01T09:23:14.093556Z"
+                    "size": 7164434,
+                    "date_published": "2026-09-15T16:26:48.410309Z"
                 }
             ]
         },
@@ -465,7 +465,8 @@
                         "26.1",
                         "26.1.1",
                         "26.1.2",
-                        "26.2"
+                        "26.2",
+                        "26.3"
                     ],
                     "loaders": [
                         "fabric"
@@ -504,7 +505,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "chattweaks-1.1.4+26.1.jar",
+                    "file_name": "chattweaks-1.2.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -514,19 +515,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/8LNT47ZH/versions/9Sc76bCD/chattweaks-1.1.4+26.1.jar",
-                    "id": "9Sc76bCD",
+                    "url": "https://cdn.modrinth.com/data/8LNT47ZH/versions/cejCXwdV/chattweaks-1.2.0+26.1.jar",
+                    "id": "cejCXwdV",
                     "parent_id": "8LNT47ZH",
                     "hashes": {
-                        "sha512": "8e7f8611a12af2f639263d8b5dae812faea26eff055b56f40d8ccb252a2734786c01bc7a5c6e1b697bd25db1c3bd59ceac9e76316ebba5ab1c21bce6fbafe16d",
-                        "sha1": "15126f015b6c062f510854500d13b810a1487ab8"
+                        "sha512": "1918bb1e974931d929b33a85beb0f3674f5c11a34b0b5e069d053181de709e01588914c1b4c45f369348737945d664722950c4b8bcd670467c07963146023fcc",
+                        "sha1": "25797001b9894964985f246421a9288b584c4660"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "AibBIVmj"
                     ],
-                    "size": 79947,
-                    "date_published": "2026-08-30T19:14:49.373661Z"
+                    "size": 79781,
+                    "date_published": "2026-09-15T15:31:33.436139Z"
                 }
             ]
         },
@@ -550,7 +551,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "chatting-3.1.5+26.1.jar",
+                    "file_name": "chatting-3.2.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -560,20 +561,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/eXmJQxqn/chatting-3.1.5+26.1.jar",
-                    "id": "eXmJQxqn",
+                    "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/3F5xfzHd/chatting-3.2.0+26.1.jar",
+                    "id": "3F5xfzHd",
                     "parent_id": "8pJYUDNi",
                     "hashes": {
-                        "sha512": "3765cc4b636945f4fabc08ffce32363a4c11eb8b7937537de77e99fb68352bc6908dd60526c3bb09f69c9a2015bc781d85fd6dbb1a00fa5cae1b7a32a7060fc8",
-                        "sha1": "a98daf09340c9ffecfd8abf9af00e3163ae6faa8"
+                        "sha512": "5efc597713db40cc8e3842b65b1c722aabf885d52f0674ada7e96fc7087fea8fed4c6fcdefeef112f9796b24e8cfeacf0eda9acb1e9e86d06ebcfaa386cac850",
+                        "sha1": "1ccb60421cc3300a07a39cf43f9c8db21de65c9e"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
-                        "AibBIVmj",
-                        "eHe8QhtD"
+                        "AibBIVmj"
                     ],
-                    "size": 236866,
-                    "date_published": "2026-09-10T09:21:14.469511Z"
+                    "size": 236821,
+                    "date_published": "2026-09-15T15:29:14.696937Z"
                 }
             ]
         },
@@ -636,7 +636,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "colorsaturation-1.2.0+26.1.jar",
+                    "file_name": "colorsaturation-1.3.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -646,19 +646,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fLNnSWgM/versions/9jss1ksz/colorsaturation-1.2.0+26.1.jar",
-                    "id": "9jss1ksz",
+                    "url": "https://cdn.modrinth.com/data/fLNnSWgM/versions/HJOf5bXR/colorsaturation-1.3.0+26.1.jar",
+                    "id": "HJOf5bXR",
                     "parent_id": "fLNnSWgM",
                     "hashes": {
-                        "sha512": "962d06031d7438457aae1d10b75a26edca006e1c3558031e1c35da3acaec7e4227f802e3bb7c839ea93b70e531cd2aa237b9d9dddbcefbd6e6f620b135499248",
-                        "sha1": "c9c95d85fe42522c6b9740f3dc45fe8f33324562"
+                        "sha512": "f582889f0592eff282b464dfb9599773f8ac351671cdecd99ba1dc5b1157327d96043fa2b7f82a9c8ebcde8a691805765d6b2555434e554a1d58aeec99ed455f",
+                        "sha1": "86aec5d902c9b8d4c7903d10174da99c28b7a63e"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "AibBIVmj"
                     ],
-                    "size": 26078,
-                    "date_published": "2026-08-06T01:27:27.496482Z"
+                    "size": 38792,
+                    "date_published": "2026-09-15T15:33:16.226118Z"
                 }
             ]
         },
@@ -699,7 +699,8 @@
                         "26.1",
                         "26.1.1",
                         "26.1.2",
-                        "26.2"
+                        "26.2",
+                        "26.3"
                     ],
                     "loaders": [
                         "fabric",
@@ -1008,7 +1009,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "damagetint-3.6.1+26.1.jar",
+                    "file_name": "damagetint-3.7.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1018,19 +1019,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/6zatK8W5/versions/YIbNBJ2w/damagetint-3.6.1+26.1.jar",
-                    "id": "YIbNBJ2w",
+                    "url": "https://cdn.modrinth.com/data/6zatK8W5/versions/yQ92Oqpr/damagetint-3.7.0+26.1.jar",
+                    "id": "yQ92Oqpr",
                     "parent_id": "6zatK8W5",
                     "hashes": {
-                        "sha512": "86aeebd615ae44423a876bcea7989e8db68603305d613b944c48c19647021fa1293d465bc173d1bb5a01990f5e4333da045eaf211a54d872ec1d3d98154166d8",
-                        "sha1": "463989f679d7f9093f97a80b776eaa4290251a51"
+                        "sha512": "3241ea5ccc07141d00fdcc7492d144a1866a02b697b086beae856c3830f1f84c028c44207fd0a2c310c3039f74c26154b6793eec758125ab404f36b0c12da738",
+                        "sha1": "d17b4e408de080312e08cdf37181519fc4e2f5cd"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "AibBIVmj"
+                        "AibBIVmj",
+                        "Ha28R6CL"
                     ],
-                    "size": 24280,
-                    "date_published": "2026-08-15T17:02:58.630539Z"
+                    "size": 24281,
+                    "date_published": "2026-09-15T15:35:24.026491Z"
                 }
             ]
         },
@@ -1227,7 +1228,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "evergreenhud-3.8.1+26.1.jar",
+                    "file_name": "evergreenhud-3.9.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1237,20 +1238,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/WHEo8ySs/evergreenhud-3.8.1+26.1.jar",
-                    "id": "WHEo8ySs",
+                    "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/sd7OTrRl/evergreenhud-3.9.0+26.1.jar",
+                    "id": "sd7OTrRl",
                     "parent_id": "1yIQcc2b",
                     "hashes": {
-                        "sha512": "d3c73bce1a394491b311111ba0d5d15efc273e49ca2356a77c4611ddca0c94d1d644a80ba8cb1eeab9b379ba6ad2f5e95851b6fd2c43063d4772d50eea6d64bb",
-                        "sha1": "85b5f70713e1b530fc8ee264b75cf4b05bf3a18c"
+                        "sha512": "3e9fe65a207007987988c943ef7e794e13dec95a384d12f12eb5b124b1d666f2f3c380318842e33e5905655c22aef14041e8cdc6d61ac74db71cb9eee8d5de21",
+                        "sha1": "3e223ab0905a2cc1170465c22cb03326fb7c87a2"
                     },
                     "required_dependencies": [
+                        "Ha28R6CL",
                         "P7dR8mSH",
-                        "AibBIVmj",
-                        "Ha28R6CL"
+                        "AibBIVmj"
                     ],
-                    "size": 699572,
-                    "date_published": "2026-08-25T08:58:10.078113Z"
+                    "size": 712089,
+                    "date_published": "2026-09-15T15:45:19.403335Z"
                 }
             ]
         },
@@ -1915,7 +1916,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "hytils-reborn-2.0.3+26.1.jar",
+                    "file_name": "hytils-reborn-2.1.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1925,21 +1926,21 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/G7HZUB69/hytils-reborn-2.0.3+26.1.jar",
-                    "id": "G7HZUB69",
+                    "url": "https://cdn.modrinth.com/data/nF6YaBfO/versions/touOVlkP/hytils-reborn-2.1.0+26.1.jar",
+                    "id": "touOVlkP",
                     "parent_id": "nF6YaBfO",
                     "hashes": {
-                        "sha512": "ed77362f8720bc203ef5f54cf4eb8aef15ea65b25413b17e0dedd14480adc4adeab5d6238e11d3a3d1e393ae4235bf2282f63552748ce101239d028736866390",
-                        "sha1": "77fdb5541a3fe11e7cddecba8a3de03fb7f8e211"
+                        "sha512": "2de4c229da2edc9058026bbe9e67480fdc820f6a83e67361211e31de2ca173e9ed2112fbb80babb42d7af4bb8ab70e6ecc1528feb0b6006d1abd5c08c0176466",
+                        "sha1": "4dadb4da1966da7edf54c4483eee338d7e139c0b"
                     },
                     "required_dependencies": [
-                        "1A2mKfBx",
+                        "Ha28R6CL",
                         "P7dR8mSH",
-                        "AibBIVmj",
-                        "Ha28R6CL"
+                        "1A2mKfBx",
+                        "AibBIVmj"
                     ],
-                    "size": 474258,
-                    "date_published": "2026-09-13T22:14:50.277680Z"
+                    "size": 474259,
+                    "date_published": "2026-09-15T15:46:35.642533Z"
                 }
             ]
         },
@@ -3216,7 +3217,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Odin-0.3.3.jar",
+                    "file_name": "Odin-0.3.4.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3226,19 +3227,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/jJJLywXp/versions/ZnIea2oU/Odin-0.3.3.jar",
-                    "id": "ZnIea2oU",
+                    "url": "https://cdn.modrinth.com/data/jJJLywXp/versions/7FcnBdo7/Odin-0.3.4.jar",
+                    "id": "7FcnBdo7",
                     "parent_id": "jJJLywXp",
                     "hashes": {
-                        "sha512": "792ba2263f124c548c0ef695e78e3d49c91627a94db85a542fea45f5739857104ba87d331e1f2818e53a0e0e6d1d3b677cde7214815a89ef40a48fcdaada730e",
-                        "sha1": "59e2f27eeefcdce12f6ba2f2ddf40847cdede09a"
+                        "sha512": "24052ccd13c2c831c0f974619c150e1c6c1d9c4af79344ff0547fd1e0d37850ac46a9716df1007f6e7f8cff4b64ff0e1093ab174808646e1a56060744f6606bd",
+                        "sha1": "c402ac9dcc44b97e570fbdd3731b95c189bca247"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "Ha28R6CL"
                     ],
-                    "size": 4919596,
-                    "date_published": "2026-09-14T17:09:16.091720Z"
+                    "size": 4925348,
+                    "date_published": "2026-09-15T17:10:01.927621Z"
                 }
             ]
         },
@@ -3365,7 +3366,7 @@
                         "fabric",
                         "quilt"
                     ],
-                    "release_type": "beta",
+                    "release_type": "release",
                     "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/DLyUUWp6/obe+26.1.2-1.1.47-beta.1.jar",
                     "id": "DLyUUWp6",
                     "parent_id": "AtOSAunf",
@@ -3401,7 +3402,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "overflowparticles-1.1.6+26.1.jar",
+                    "file_name": "overflowparticles-1.2.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3411,19 +3412,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/61g97TVF/versions/iiVbQN0M/overflowparticles-1.1.6+26.1.jar",
-                    "id": "iiVbQN0M",
+                    "url": "https://cdn.modrinth.com/data/61g97TVF/versions/AY33L2B9/overflowparticles-1.2.0+26.1.jar",
+                    "id": "AY33L2B9",
                     "parent_id": "61g97TVF",
                     "hashes": {
-                        "sha512": "6a51c93520af1bb3a684d582e084507de050e326ccb5813e26b81ba7e097a32c687e1a4c8688df427da5de9771d194cfdbe3d2d0f482468a4ef502e8a16b9d8a",
-                        "sha1": "178224e50fc279ca17a2ca3b99d44e029d505785"
+                        "sha512": "ab0d3fc0337b03a10f0d6c0ada12edc2dd01c5b81515a2418a77ead6e9c5514fcb45ad8ca97b6cc9ae0358f816ab1bba2eac3c22eebfe7d4e4d109d6c34f04c9",
+                        "sha1": "c83607c226518970eb335905b9921b5f2fb95f5c"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "AibBIVmj"
                     ],
                     "size": 97939,
-                    "date_published": "2026-09-10T19:49:13.021734Z"
+                    "date_published": "2026-09-15T15:50:47.532688Z"
                 }
             ]
         },
@@ -3544,7 +3545,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polynametag-1.1.1+26.1.jar",
+                    "file_name": "polynametag-1.2.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3554,19 +3555,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/Sw4amSMc/polynametag-1.1.1+26.1.jar",
-                    "id": "Sw4amSMc",
+                    "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/9BpiJZBG/polynametag-1.2.0+26.1.jar",
+                    "id": "9BpiJZBG",
                     "parent_id": "HK3p7LMj",
                     "hashes": {
-                        "sha512": "0c37521cd6ad97896201a2141251ad02be84e69cffcc61153726ba2140ea3e9b1fe815c1f741812568df0f5824c3324f062dd616066a341aab767bac60c17a9d",
-                        "sha1": "50c7bad13afb163e4d26692e38c499a782dedb85"
+                        "sha512": "2fa828809c7b158e4c3623728db39b5e47cc00082c8b2e761bc49d1cab040a8bfc143ea0712b510f0515f0a7d80ad951d84fba89b066fa5da60167b6c17eba60",
+                        "sha1": "e0aad55cccff74333b6ba520c23943ef0db3c2c2"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "AibBIVmj"
+                        "AibBIVmj",
+                        "Ha28R6CL"
                     ],
-                    "size": 28796,
-                    "date_published": "2026-07-24T15:35:50.302199Z"
+                    "size": 42493,
+                    "date_published": "2026-09-15T15:59:51.923509Z"
                 }
             ]
         },
@@ -3590,7 +3591,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polysprint-1.2.2+26.1.jar",
+                    "file_name": "polysprint-1.3.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3600,20 +3601,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/vXPZ6ffS/polysprint-1.2.2+26.1.jar",
-                    "id": "vXPZ6ffS",
+                    "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/ur6BO8Jw/polysprint-1.3.0+26.1.jar",
+                    "id": "ur6BO8Jw",
                     "parent_id": "i9xRThb3",
                     "hashes": {
-                        "sha512": "499b96df2fb66e94a276553460b0f3e6bb6a5ca1b511066bbc5821033f5b8dbe67f731c06da10ca0c78f8b2bcf65509612c82ef0d7c9d217022f2df4653f102a",
-                        "sha1": "02d224949b982757e49fe424cd2d5639d01c76fe"
+                        "sha512": "fcf705fd56700959c039537091919a50e7a7c13111590139acd307ab7aa95ccf575d35fd4ba042f5c9a3c3ae723c4115c949415e5797a45406233c1d6a63f09e",
+                        "sha1": "37a51cc74f979782d6699dfb4d8ffec5c632eb90"
                     },
                     "required_dependencies": [
                         "AibBIVmj",
                         "P7dR8mSH",
                         "Ha28R6CL"
                     ],
-                    "size": 66155,
-                    "date_published": "2026-08-14T22:35:31.884530Z"
+                    "size": 65958,
+                    "date_published": "2026-09-15T16:07:05.512200Z"
                 }
             ]
         },
@@ -3637,7 +3638,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polytime-1.2.2+26.1.jar",
+                    "file_name": "polytime-1.3.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3647,19 +3648,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/m3kNp1iP/versions/qRl6gDaq/polytime-1.2.2+26.1.jar",
-                    "id": "qRl6gDaq",
+                    "url": "https://cdn.modrinth.com/data/m3kNp1iP/versions/p24Nwvfq/polytime-1.3.0+26.1.jar",
+                    "id": "p24Nwvfq",
                     "parent_id": "m3kNp1iP",
                     "hashes": {
-                        "sha512": "849093b0aeb6f88cf716cedcb7301d5831330929995e5e43bfab1448c2a80aa47b57c42a32acc99e90bbd754cfa249d94d02afba7505664e9a5ceac4fe15d408",
-                        "sha1": "a53b638c630e1e5513267e328c36f6f8d67d11c8"
+                        "sha512": "3e35f62095b91fc081f31c78f07b6741323cd5bb92bf1f369d070c94d92f40eb7c7c46d85e70f05389161db68453c5c4fe1b19eeee2ae9fd17790815a187efee",
+                        "sha1": "7e7c894ca76db258b215019dbcb61f60c8e15826"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "AibBIVmj"
                     ],
-                    "size": 79230,
-                    "date_published": "2026-07-24T18:07:48.869891Z"
+                    "size": 91905,
+                    "date_published": "2026-09-15T16:09:31.156120Z"
                 }
             ]
         },
@@ -3683,7 +3684,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "PolyWeather-1.2.3+26.1.jar",
+                    "file_name": "polyweather-1.3.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3693,19 +3694,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/r8Cr8YRg/versions/pdxjizt0/PolyWeather-1.2.3+26.1.jar",
-                    "id": "pdxjizt0",
+                    "url": "https://cdn.modrinth.com/data/r8Cr8YRg/versions/x2THenPv/polyweather-1.3.0+26.1.jar",
+                    "id": "x2THenPv",
                     "parent_id": "r8Cr8YRg",
                     "hashes": {
-                        "sha512": "9368ed76867193634c130c75316798d3560dfb34f55d86c1fad6cf16fc87cdc6856039d73423e9433fa8332788dc336cd822d7bcaaffe5b46a8d7ac70a5a1b13",
-                        "sha1": "057e090e02bb493ff10242d9520d7196100f6f79"
+                        "sha512": "b090dbd0b55d7fda04e6a49391e2b1cee370d25c170277c837a3b195f0ebe55245299ed473463ba47359d566d611a519c8743b8a8329cd7ff2a74aabb2d07cd2",
+                        "sha1": "52e6e977cc4f278801fa5da00e5751b6b8853ba9"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "AibBIVmj"
                     ],
-                    "size": 36777,
-                    "date_published": "2026-07-26T00:58:49.836202Z"
+                    "size": 49655,
+                    "date_published": "2026-09-15T16:09:33.924453Z"
                 }
             ]
         },
@@ -4069,7 +4070,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "skyblock-item-list-0.0.21+26.1.2.jar",
+                    "file_name": "skyblock-item-list-0.0.22+26.1.2.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4079,19 +4080,19 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/OaKmV2nB/versions/gTINDM42/skyblock-item-list-0.0.21+26.1.2.jar",
-                    "id": "gTINDM42",
+                    "url": "https://cdn.modrinth.com/data/OaKmV2nB/versions/XexAxTfg/skyblock-item-list-0.0.22+26.1.2.jar",
+                    "id": "XexAxTfg",
                     "parent_id": "OaKmV2nB",
                     "hashes": {
-                        "sha512": "cdaf6c9093f8fff66b9953847c44379a673a9f35733ef6fa8008a59c0db53daeb9bfe9c50c07eedf8bb7ee781401decc3320230923b41aa8b271fa6713f1af7e",
-                        "sha1": "5146b31c6870f577f1c322de51e5c2113cbe52ec"
+                        "sha512": "2b1f66f6c0373d314899cba3ea7bebc1cfad912a2007532a8314f7e9806a8ee47f042cb41010c9df6569aebb6447cc5c5fd30064012ca12f0c89ad38925fe604",
+                        "sha1": "668f5d1f6fca8965838ed0ee27feddb707b3e33e"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "Ha28R6CL"
                     ],
-                    "size": 4457136,
-                    "date_published": "2026-08-30T18:12:31.743419Z"
+                    "size": 5316820,
+                    "date_published": "2026-09-15T16:11:08.119990Z"
                 }
             ]
         },
@@ -4869,7 +4870,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "vanillahud-3.4.9+26.1.jar",
+                    "file_name": "vanillahud-3.5.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4879,20 +4880,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/zBFA22q3/vanillahud-3.4.9+26.1.jar",
-                    "id": "zBFA22q3",
+                    "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/BAin2DiX/vanillahud-3.5.0+26.1.jar",
+                    "id": "BAin2DiX",
                     "parent_id": "pWXJaKrX",
                     "hashes": {
-                        "sha512": "a8df156b2b8977c8375c0a544e39ac87f4f5809da36f13855a8742cc90e8870c7e62c67d28e74a768d78b86bea7ecb60f3992054824d1192c5e4e496ed95ef47",
-                        "sha1": "a9178064f203bfeb973d4f1c594c39e6fccff916"
+                        "sha512": "8f56e9dbffee7a641291454964eeb80200a36d5bea95fce9c288f70e49842bb8a8ad34bfe2aa8095c8af26329c607801a86d33b8eb2952fa9f6ea6367e4d2fdd",
+                        "sha1": "8c6d66d59ed62d2e0201ab1f6773d05943f22b55"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "AibBIVmj",
                         "P7dR8mSH"
                     ],
-                    "size": 164686,
-                    "date_published": "2026-08-28T21:16:31.382775Z"
+                    "size": 176038,
+                    "date_published": "2026-09-15T16:15:21.077954Z"
                 }
             ]
         },
