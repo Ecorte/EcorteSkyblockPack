@@ -3132,7 +3132,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "NopoMod-2.4.0.jar",
+                    "file_name": "NopoMod-2.5.0-26.1.2.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3142,20 +3142,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/jygLhCKB/versions/GYyJ5JAl/NopoMod-2.4.0.jar",
-                    "id": "GYyJ5JAl",
+                    "url": "https://cdn.modrinth.com/data/jygLhCKB/versions/iBmZ0BOS/NopoMod-2.5.0-26.1.2.jar",
+                    "id": "iBmZ0BOS",
                     "parent_id": "jygLhCKB",
                     "hashes": {
-                        "sha512": "8ee411ee563937d7141436dca4fddae806e920016f3b0177641ad14d8bebb047b65115b376e96e169d90d83eadf15c134d7e736c5ad3f9af8a480e62e93baba5",
-                        "sha1": "fc03072af17ae7cfa0b7ccdc0433b8d11b067a93"
+                        "sha512": "840b0afab48c796beb9d251673744f0b45a9aaeca218be2d5c13f0c85a5587fa9a62c5c028c64d876bbb81fb1d5e4dcc65f091b3ba2e1d8d3c1e5ec759c9c152",
+                        "sha1": "9d5eba8bb39ba0740b98114b3a38c530c275f242"
                     },
                     "required_dependencies": [
                         "1A2mKfBx",
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "P7dR8mSH"
                     ],
-                    "size": 10063221,
-                    "date_published": "2026-08-20T14:02:58.224573Z"
+                    "size": 10377600,
+                    "date_published": "2026-09-16T03:03:40.434344Z"
                 }
             ]
         },
@@ -3811,28 +3811,26 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "reeses-sodium-options-fabric-2.2.3+mc26.1.2.jar",
+                    "file_name": "reeses-sodium-options-fabric-2.2.4+mc26.1.2.jar",
                     "mc_versions": [
-                        "26.1",
-                        "26.1.1",
                         "26.1.2"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/laVM31w1/reeses-sodium-options-fabric-2.2.3+mc26.1.2.jar",
-                    "id": "laVM31w1",
+                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/CqmgNDX3/reeses-sodium-options-fabric-2.2.4+mc26.1.2.jar",
+                    "id": "CqmgNDX3",
                     "parent_id": "Bh37bMuy",
                     "hashes": {
-                        "sha512": "abf9935a392dd1181c731e0cfbbec2e1d105067b057ded8b4fb54e827003708565a0bddddd215bda9583d08a2323c13964a148e132b522c8045beee62f7a1e63",
-                        "sha1": "d16f65fec7555be684b8bc923eed05e1b95e6edd"
+                        "sha512": "a639a913915bf9b441749053bbd1d8f40ce875dc8c007faebe024e4b606ec05158904d538c31128475ec9ac0064be0aeccaf319fe485bb36967e3d7969d50591",
+                        "sha1": "46a6a58b548b84a33255bcd196320ecbd4d3d2cf"
                     },
                     "required_dependencies": [
                         "AANobbMI"
                     ],
-                    "size": 259487,
-                    "date_published": "2026-07-11T07:28:06.342389Z"
+                    "size": 257500,
+                    "date_published": "2026-09-16T00:52:34.201676Z"
                 }
             ]
         },
@@ -4566,7 +4564,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "sodium-extra-fabric-0.9.3+mc26.1.2.jar",
+                    "file_name": "sodium-extra-fabric-0.9.4+mc26.1.2.jar",
                     "mc_versions": [
                         "26.1.2"
                     ],
@@ -4574,18 +4572,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/q7UnsNa0/sodium-extra-fabric-0.9.3+mc26.1.2.jar",
-                    "id": "q7UnsNa0",
+                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/AdU0HYOc/sodium-extra-fabric-0.9.4+mc26.1.2.jar",
+                    "id": "AdU0HYOc",
                     "parent_id": "PtjYWJkn",
                     "hashes": {
-                        "sha512": "7fa74b440e5c39efdc7898db0c7d91427d1d842dbb4c87744c6c65252e235aa12c3c75788b700dda6d8dc633dd733af8d4e105a14fda2ac10bc3102a37476c1d",
-                        "sha1": "630f6fc8646aa50b77cfa92e0c94f7276f40039a"
+                        "sha512": "6250c9de2964744eb4ac18771bd33ab2f6a0bb9708e7190bacc8db0267c7e6287ecc159b88aa4d8906a09cdbf81e8af32094bda5c41858fc48467dc6da8a4558",
+                        "sha1": "3648f23310dfd511f094bde6c75d94f29893d07e"
                     },
                     "required_dependencies": [
                         "AANobbMI"
                     ],
-                    "size": 477705,
-                    "date_published": "2026-07-10T05:46:16.779512Z"
+                    "size": 479510,
+                    "date_published": "2026-09-16T02:20:26.239694Z"
                 }
             ]
         },
@@ -5093,7 +5091,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entity_model_features-3.3.5-26.1-fabric.jar",
+                    "file_name": "entity_model_features-3.3.6-26.1-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -5104,18 +5102,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/SrQK3uuO/entity_model_features-3.3.5-26.1-fabric.jar",
-                    "id": "SrQK3uuO",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/x608KQlq/entity_model_features-3.3.6-26.1-fabric.jar",
+                    "id": "x608KQlq",
                     "parent_id": "4I1XuqiY",
                     "hashes": {
-                        "sha512": "c1c73d5a1f8eea3879cedc7421c76c72eb38d0e7a464a4de70651451154407f5ed94e26955a5f3f3a38c107c2bfd692f7101e9de41c08453e5052a4b64697bee",
-                        "sha1": "5660495597f854477c0333ffe4c678961f9a7279"
+                        "sha512": "bec9667be2f224e3357e9668478bf8498c74c1e31ef57c67d41e8d60a0a7a24e7679c894ed59d6ce4bab4a604fb6160fca79480a8d1b8169146ef90d925e136f",
+                        "sha1": "e2653e48efb61afca44c9b55ed2012ed0fefcfcc"
                     },
                     "required_dependencies": [
                         "BVzZfTc1"
                     ],
-                    "size": 638501,
-                    "date_published": "2026-09-03T11:31:39.028984Z"
+                    "size": 642242,
+                    "date_published": "2026-09-16T01:31:34.880506Z"
                 }
             ]
         },
