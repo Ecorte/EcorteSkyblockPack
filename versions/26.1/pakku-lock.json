@@ -26,7 +26,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "skinlayers3d-fabric-1.11.2-mc26.1.jar",
+                    "file_name": "skinlayers3d-fabric-1.11.3-mc26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -36,18 +36,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/yGhuC8Hx/skinlayers3d-fabric-1.11.2-mc26.1.jar",
-                    "id": "yGhuC8Hx",
+                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/66bZhn3Y/skinlayers3d-fabric-1.11.3-mc26.1.jar",
+                    "id": "66bZhn3Y",
                     "parent_id": "zV5r3pPn",
                     "hashes": {
-                        "sha512": "e3158aac16887ba643e175af097a1f050be01b245d34da3beecea6a22586794ccfa8e0fe14e4b5760a333f1f524bd29e9cf9cecdfa9f70498d13e561aedc48f5",
-                        "sha1": "d716a9ada79d3342085db73159bda5395ad6e01a"
+                        "sha512": "27a79fdb974b669552b5515475efdd996acd85acdac2f87d6982c6dc7fac176799c69c5d746ddf64cbfe588e830dad94c8aeb8709c37b7de7c1f04a06a06c30f",
+                        "sha1": "68c17cf59871feb7539a286b5b0b777aaebc52ec"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1964639,
-                    "date_published": "2026-06-18T18:52:42.841811Z"
+                    "size": 1888644,
+                    "date_published": "2026-09-17T20:05:42.514124Z"
                 }
             ]
         },
@@ -3263,7 +3263,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.2.0.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.2.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3273,20 +3273,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/i6BBghQb/OneConfig-26.1-fabric-1.2.0.jar",
-                    "id": "i6BBghQb",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/sjJTYrGO/OneConfig-26.1-fabric-1.2.1.jar",
+                    "id": "sjJTYrGO",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "118fd87da351508220297678631cf24d4b8ccf1309bd9cbec3c3c6b0439ca3dc9b9b18f45b1818f9725c28b9aaa03427e48c668136adf273feabd4eaedd68d36",
-                        "sha1": "d41c69f71bef44f849f8830957a6edf623bb6d3d"
+                        "sha512": "e7d30c7dd8af7d38835b11b39622eaf51179949ad37abf3e0d7ea78c20e91dadb9462b60fd18ed6b25af5d5f96b09595579ec3a86b8cde353d729611b243154c",
+                        "sha1": "f625bddf20859d7bbf5691023ebd0c4622fafd42"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
                         "eHe8QhtD",
+                        "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 11675519,
-                    "date_published": "2026-09-15T15:16:29.669533Z"
+                    "size": 11674820,
+                    "date_published": "2026-09-17T22:07:41.194479Z"
                 }
             ]
         },
