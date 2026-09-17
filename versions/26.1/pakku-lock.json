@@ -1393,12 +1393,11 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fast-ip-ping-v1.0.11-mc26.1.2.jar",
+                    "file_name": "fast-ip-ping-v1.0.12-mc26.1.2.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
-                        "26.1.2",
-                        "26.2"
+                        "26.1.2"
                     ],
                     "loaders": [
                         "fabric",
@@ -1406,16 +1405,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/H7KycYXE/fast-ip-ping-v1.0.11-mc26.1.2.jar",
-                    "id": "H7KycYXE",
+                    "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/DVeo5EO0/fast-ip-ping-v1.0.12-mc26.1.2.jar",
+                    "id": "DVeo5EO0",
                     "parent_id": "9mtu0sUO",
                     "hashes": {
-                        "sha512": "a3172cf7c42c8c71c4fd38ff267233787320ff9a24b39fdac61df659d326ab3d13a5227dd3ee4d966080e31ccb922a8a27580931eaa003565f809f9e3399287e",
-                        "sha1": "6b69eaa6323da9f7933206d55cdb09ea3299cde3"
+                        "sha512": "6c7275e069ecbd13ff8d9f6fea75dafa15de028990031496f4d9d4dae5c1de660daa31f201a08ed1e813d35b65427dd2a729b4f10a2d40774a84893f46afcf33",
+                        "sha1": "1574649c322de9461fcd97289ca5564bc87d6e11"
                     },
                     "required_dependencies": [],
-                    "size": 11187,
-                    "date_published": "2026-04-16T18:16:14.885945Z"
+                    "size": 11321,
+                    "date_published": "2026-09-17T17:26:05.663305Z"
                 }
             ]
         },
@@ -1750,7 +1749,8 @@
                         "26.2"
                     ],
                     "loaders": [
-                        "fabric"
+                        "fabric",
+                        "quilt"
                     ],
                     "release_type": "release",
                     "url": "https://cdn.modrinth.com/data/6ekmo61Y/versions/f7kRNWxz/hypixelautotip-1.4.1.jar",
