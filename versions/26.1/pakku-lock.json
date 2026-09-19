@@ -1182,7 +1182,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entityculling-fabric-1.10.5-mc26.1.jar",
+                    "file_name": "entityculling-fabric-1.11.0-mc26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1192,18 +1192,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/zAi8nQHj/entityculling-fabric-1.10.5-mc26.1.jar",
-                    "id": "zAi8nQHj",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/aYXmZB0N/entityculling-fabric-1.11.0-mc26.1.jar",
+                    "id": "aYXmZB0N",
                     "parent_id": "NNAgCjsB",
                     "hashes": {
-                        "sha512": "66fb5518f61a62643eb2901e3d16550fb2ccb496c397f29d1adacf745f4f836805c593cec8560aeab9f2b826cd3af4535d526c4f1ff5a6bde56d5578b3079a18",
-                        "sha1": "62ac7ed3bbc0b920428bcfc18d1962836b84c391"
+                        "sha512": "a8636d54ccfa5b805ef4a07ac3bd580beb28fc52f06f8c210aecef330618b9312ce0b6450bbcafa96f65093fc58290b5fd51746f01be0aee273c49d7ab5a2bb9",
+                        "sha1": "87b1f35600488c4a2e394e846d8a247e466a37d5"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1581987,
-                    "date_published": "2026-06-20T14:42:48.999244Z"
+                    "size": 1506356,
+                    "date_published": "2026-09-19T19:56:17.343357Z"
                 }
             ]
         },
