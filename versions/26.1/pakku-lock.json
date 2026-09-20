@@ -4481,7 +4481,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "smoothskies-2.12.1+26.2-fabric.jar",
+                    "file_name": "smoothskies-2.12.2+26.2-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4492,20 +4492,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/uvlgIwBD/versions/uKs9UjND/smoothskies-2.12.1+26.2-fabric.jar",
-                    "id": "uKs9UjND",
+                    "url": "https://cdn.modrinth.com/data/uvlgIwBD/versions/ZMvSQUef/smoothskies-2.12.2+26.2-fabric.jar",
+                    "id": "ZMvSQUef",
                     "parent_id": "uvlgIwBD",
                     "hashes": {
-                        "sha512": "004f61424a7f1b42ea5361c7d9292501d8c5e6f3e04ceb2ef3fb6dba191461f7d98a279bf21eb42506f77ace88767480f94d3c2be28109ac54ed22eb2d3d9db4",
-                        "sha1": "a20a64569382119dff378bb602fd35ce79ed0f5e"
+                        "sha512": "b2b1085be8d6f498ab881f50d53bda03835c2032590ba9f083a11a4934b85fc008ac97d5117f20fef9d636843cd8a9904093469c2d507df5733284b4ee51a40f",
+                        "sha1": "bec0d503f15a7c2b113ce6694d804fc318050f68"
                     },
                     "required_dependencies": [
+                        "P7dR8mSH",
                         "1eAoo2KR",
-                        "mOgUt4GM",
-                        "P7dR8mSH"
+                        "mOgUt4GM"
                     ],
-                    "size": 137863,
-                    "date_published": "2026-08-01T18:25:53.916059Z"
+                    "size": 20862,
+                    "date_published": "2026-09-20T05:04:22.692541Z"
                 }
             ]
         },
