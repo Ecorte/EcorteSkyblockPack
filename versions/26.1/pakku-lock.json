@@ -2918,7 +2918,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "NBTac-FABRIC-26.1.2-2.0.1.jar",
+                    "file_name": "NBTac-FABRIC-26.1.2-2.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -2928,18 +2928,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/UR0ocuEt/versions/YWr4LkOI/NBTac-FABRIC-26.1.2-2.0.1.jar",
-                    "id": "YWr4LkOI",
+                    "url": "https://cdn.modrinth.com/data/UR0ocuEt/versions/5uIfYSEB/NBTac-FABRIC-26.1.2-2.1.jar",
+                    "id": "5uIfYSEB",
                     "parent_id": "UR0ocuEt",
                     "hashes": {
-                        "sha512": "4af0d5321b3a39e4165d486f99fedc77f9e4d33b06e2e4ab0ac2f98e28e22119d369d5ee89a0a8c4a97a717406067bfb5c61f7a2dfe7165d96b4e59cbc7254bb",
-                        "sha1": "6cfe4e015ce690f82ae9aefda125eeaa3316261c"
+                        "sha512": "ab5b816d70929ad5a73f7095831070ac51e8cb363cc8cf9a82261de4483b1512d477083f23d8a80c7949f4d2a7ef2db097654cc795007dc06f4957738c598597",
+                        "sha1": "218bdc74a8ec37e1537d9f1cedb8bc6dacbb8434"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 273960,
-                    "date_published": "2026-09-02T19:04:58.508261Z"
+                    "size": 282581,
+                    "date_published": "2026-09-20T21:27:35.990564Z"
                 }
             ]
         },
@@ -5221,7 +5221,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "devonian-1.31.9.jar",
+                    "file_name": "devonian-1.32.9.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -5231,20 +5231,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/j4Tr5Ve2/versions/k53JBaf5/devonian-1.31.9.jar",
-                    "id": "k53JBaf5",
+                    "url": "https://cdn.modrinth.com/data/j4Tr5Ve2/versions/hb3fQ1we/devonian-1.32.9.jar",
+                    "id": "hb3fQ1we",
                     "parent_id": "j4Tr5Ve2",
                     "hashes": {
-                        "sha512": "76abac6b12c06ed400e55d2055218dcbaabe40f7c34060b8a65cda830ff064856b59bbf13902be8b1bce2b0f5b77b2d63998dc071945a46758a50d28d1af28fa",
-                        "sha1": "1ded6cd94453bb061ca5b90e1cda32f163d0dc7b"
+                        "sha512": "b2ebb7131df36ae0392a9faf9fe297814fb44062f3c0074e233fb26d0a8caabd63f10531e4ab2d7795457cab295259196537bb78e8cb94027427e6e934f0b349",
+                        "sha1": "e4e0aabedb4f48c9b97929ce23c6c2e8cc2ebc6e"
                     },
                     "required_dependencies": [
-                        "1A2mKfBx",
                         "Ha28R6CL",
+                        "1A2mKfBx",
                         "P7dR8mSH"
                     ],
-                    "size": 3790698,
-                    "date_published": "2026-09-15T05:09:47.784228Z"
+                    "size": 3809938,
+                    "date_published": "2026-09-20T21:26:23.440210Z"
                 }
             ]
         },
