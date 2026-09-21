@@ -3264,7 +3264,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.2.3.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.2.4.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3274,20 +3274,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/MHWet9CH/OneConfig-26.1-fabric-1.2.3.jar",
-                    "id": "MHWet9CH",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/RooAnHTP/OneConfig-26.1-fabric-1.2.4.jar",
+                    "id": "RooAnHTP",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "41fd8c2474a494ca5ef80eff57004431e7fcceaf4610223986a86894e6f030c2160cd94abe553fba4b49bd6191a4fd3b0693e13beb7f7baebae1164759c1a56f",
-                        "sha1": "bad0bc60440af9b38bd71d3adfbe5265172e50ea"
+                        "sha512": "d3645c0d98fc60cd9d8e2ca87170c8e5686d4fa52a8d4d3b984c94f257f46cb694d8dbfce48929af5a97a67143aad15c63c56f0351a09b63e488977786bb736e",
+                        "sha1": "a5915872638b0a0abb6a17ec0b15c24e665cc442"
                     },
                     "required_dependencies": [
+                        "P7dR8mSH",
                         "eHe8QhtD",
-                        "Ha28R6CL",
-                        "P7dR8mSH"
+                        "Ha28R6CL"
                     ],
-                    "size": 11738649,
-                    "date_published": "2026-09-21T00:35:02.967680Z"
+                    "size": 11739211,
+                    "date_published": "2026-09-21T16:56:13.995683Z"
                 }
             ]
         },
