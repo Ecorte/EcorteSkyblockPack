@@ -3450,28 +3450,30 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "sciophobia-2.0.0+26.3-fabric.jar",
+                    "file_name": "overlaytweaks-1.12.14+26.1.1-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
-                        "26.1.2",
-                        "26.2",
-                        "26.3"
+                        "26.1.2"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/wql2D9Gj/versions/UkzUuVnI/sciophobia-2.0.0+26.3-fabric.jar",
-                    "id": "UkzUuVnI",
+                    "url": "https://cdn.modrinth.com/data/wql2D9Gj/versions/WcQvgPKt/overlaytweaks-1.12.14+26.1.1-fabric.jar",
+                    "id": "WcQvgPKt",
                     "parent_id": "wql2D9Gj",
                     "hashes": {
-                        "sha512": "d7d5630508de4b9d538bb66856de375f6568072d9d06ffde61762d6568a9f05d5ddfb3e0dbabc2a2e6211a3616e9e6caff4d96ffb34eb04eec462b6cd97c96d1",
-                        "sha1": "8056280559a6325a18871e51cf43e11cfd6df770"
+                        "sha512": "81afb057ea138d4ea814c748ca79bdd9cf76e01bf838d515c38f3fab6c57edb4275151fac6fd73dce99641e969540b591ba865a003e3809c8b098c506ddda19e",
+                        "sha1": "1fe57906185f2231560b98b05183c5ad16d4ab48"
                     },
-                    "required_dependencies": [],
-                    "size": 302879,
-                    "date_published": "2026-09-22T05:06:59.704460Z"
+                    "required_dependencies": [
+                        "mOgUt4GM",
+                        "1eAoo2KR",
+                        "P7dR8mSH"
+                    ],
+                    "size": 151463,
+                    "date_published": "2026-04-08T01:57:49.013606Z"
                 }
             ]
         },
