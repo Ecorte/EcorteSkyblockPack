@@ -3264,7 +3264,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.2.4.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.2.5.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3274,20 +3274,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/RooAnHTP/OneConfig-26.1-fabric-1.2.4.jar",
-                    "id": "RooAnHTP",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/tkthxybW/OneConfig-26.1-fabric-1.2.5.jar",
+                    "id": "tkthxybW",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "d3645c0d98fc60cd9d8e2ca87170c8e5686d4fa52a8d4d3b984c94f257f46cb694d8dbfce48929af5a97a67143aad15c63c56f0351a09b63e488977786bb736e",
-                        "sha1": "a5915872638b0a0abb6a17ec0b15c24e665cc442"
+                        "sha512": "d0f1b37ccf41a54c450c8d0f36ed8619d208f8746dcb41253e98a1a019569ccae8f13440e099ba278450bb8f6b86cfbf5f42fca27557433aafcc9557df1918d3",
+                        "sha1": "a04c05ae43470ddff27403474faf3546bebb87e2"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
+                        "Ha28R6CL",
                         "eHe8QhtD",
-                        "Ha28R6CL"
+                        "P7dR8mSH"
                     ],
-                    "size": 11739211,
-                    "date_published": "2026-09-21T16:56:13.995683Z"
+                    "size": 11740734,
+                    "date_published": "2026-09-23T00:21:45.942036Z"
                 }
             ]
         },
@@ -5046,7 +5046,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "zoomify-2.16.1+26.1.jar",
+                    "file_name": "zoomify-2.16.2+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -5056,20 +5056,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/tpQ8eZAo/zoomify-2.16.1+26.1.jar",
-                    "id": "tpQ8eZAo",
+                    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/EqERUq9y/zoomify-2.16.2+26.1.jar",
+                    "id": "EqERUq9y",
                     "parent_id": "w7ThoJFB",
                     "hashes": {
-                        "sha512": "212554476b061ad3cdcd35e67ebc024f994afbed960bf982a747e5397e7c4620b26954ce1d8b45b54bda6ccc1f3584cbe233cffbc070b84e02e615c374d953c5",
-                        "sha1": "c180ae8cf90da1abd67c26b5c5e7bf5d795c3b1d"
+                        "sha512": "c26ee78c72d5f27cbf164fca62297a51eacdd675ee40195aa37789a013f32619bdec306685e484930b849347c9ba8f9d12cbdc49cf4c3001d31d071c9ebe7306",
+                        "sha1": "bb65a333e4f03a8bb54c871ff26b9e8c0444df2b"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
                         "1eAoo2KR",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "Ha28R6CL"
                     ],
-                    "size": 561967,
-                    "date_published": "2026-06-16T17:40:17.697675Z"
+                    "size": 562826,
+                    "date_published": "2026-09-22T23:57:12.878578Z"
                 }
             ]
         },
