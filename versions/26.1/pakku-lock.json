@@ -2787,7 +2787,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "modmenu-18.0.1.jar",
+                    "file_name": "modmenu-18.0.2.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -2798,19 +2798,19 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/9PxiZuDD/modmenu-18.0.1.jar",
-                    "id": "9PxiZuDD",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/ZJ6YTrMY/modmenu-18.0.2.jar",
+                    "id": "ZJ6YTrMY",
                     "parent_id": "mOgUt4GM",
                     "hashes": {
-                        "sha512": "436242445f305cc52b320a0f75d0fa37ad2976ccdb0ffbfafbd2ab04550d21c83da5d89e19532b6c121a43f92858277c7afcbe0f2c301be5974e125e6fe34fe1",
-                        "sha1": "fa3fda3ed7941200190e146ecd39485166b01773"
+                        "sha512": "37393e1d4a23a548463e92eb0687af69034ee7c308bd1d2d27d78df0292f124c4463f19d4b53128b59cda4e02d01d7ae09f06456d10abde19b6e450163e50e97",
+                        "sha1": "8fa5f0c6e844f44bfd836197b680ee6ea0006bcd"
                     },
                     "required_dependencies": [
-                        "eXts2L7r",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "eXts2L7r"
                     ],
-                    "size": 859754,
-                    "date_published": "2026-09-11T00:34:31.133936Z"
+                    "size": 859999,
+                    "date_published": "2026-09-24T19:22:26.571887Z"
                 }
             ]
         },
