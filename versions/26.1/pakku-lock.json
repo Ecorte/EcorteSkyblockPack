@@ -1227,7 +1227,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "evergreenhud-3.9.3+26.1.jar",
+                    "file_name": "evergreenhud-3.9.4+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1237,20 +1237,21 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/KfSJAHzC/evergreenhud-3.9.3+26.1.jar",
-                    "id": "KfSJAHzC",
+                    "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/Rp9dJmCT/evergreenhud-3.9.4+26.1.jar",
+                    "id": "Rp9dJmCT",
                     "parent_id": "1yIQcc2b",
                     "hashes": {
-                        "sha512": "19f2cc8a76d8b07ac54040e153077a9665ac88bdaf2aca7778f1c583b729fc950b2b53bd7b0bc7763f5b1a3c2354214ffa9a6e16e1cdf02ffe1a172a1332221b",
-                        "sha1": "00ed0e5a53a979e3d94efe134a705c44a46a7fd0"
+                        "sha512": "9b088050bf8a0ea9460aa140405a0f36aeec94d71c9038539bbd08215e8ae2cf129db87d8a5524743c412ad9c9715b0ca69f9b0882ed6142f28e5346da0f2ffe",
+                        "sha1": "cf806f769c55b5fb6d03c760ebd6066011f86479"
                     },
                     "required_dependencies": [
+                        "AibBIVmj",
                         "Ha28R6CL",
                         "P7dR8mSH",
-                        "AibBIVmj"
+                        "eHe8QhtD"
                     ],
-                    "size": 703851,
-                    "date_published": "2026-09-22T20:54:47.888111Z"
+                    "size": 696522,
+                    "date_published": "2026-09-24T07:24:10.067784Z"
                 }
             ]
         },
@@ -3591,7 +3592,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polysprint-1.3.0+26.1.jar",
+                    "file_name": "polysprint-1.3.1+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3601,20 +3602,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/ur6BO8Jw/polysprint-1.3.0+26.1.jar",
-                    "id": "ur6BO8Jw",
+                    "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/YKuKpzZ6/polysprint-1.3.1+26.1.jar",
+                    "id": "YKuKpzZ6",
                     "parent_id": "i9xRThb3",
                     "hashes": {
-                        "sha512": "fcf705fd56700959c039537091919a50e7a7c13111590139acd307ab7aa95ccf575d35fd4ba042f5c9a3c3ae723c4115c949415e5797a45406233c1d6a63f09e",
-                        "sha1": "37a51cc74f979782d6699dfb4d8ffec5c632eb90"
+                        "sha512": "4b4afa41db00cd908dddb239116f6854ee7d5de3867bea69e5bcd3635ee2d4bbda5084f99c510a3ceac20605da3db6e74f5c68cbbe7dc1bcfe2d50bebfd038cd",
+                        "sha1": "e768adedeb16e4d1b8b30562b6837813db3852ec"
                     },
                     "required_dependencies": [
+                        "Ha28R6CL",
                         "AibBIVmj",
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "P7dR8mSH"
                     ],
-                    "size": 65958,
-                    "date_published": "2026-09-15T16:07:05.512200Z"
+                    "size": 66072,
+                    "date_published": "2026-09-24T07:21:08.605989Z"
                 }
             ]
         },
@@ -3726,7 +3727,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polytone-26.1.2-6.7.1-fabric.jar",
+                    "file_name": "polytone-26.1.2-6.7.2-fabric.jar",
                     "mc_versions": [
                         "26.1.2"
                     ],
@@ -3734,16 +3735,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/UquFVxtx/polytone-26.1.2-6.7.1-fabric.jar",
-                    "id": "UquFVxtx",
+                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/CP6cyS7i/polytone-26.1.2-6.7.2-fabric.jar",
+                    "id": "CP6cyS7i",
                     "parent_id": "3qAYkBMB",
                     "hashes": {
-                        "sha512": "794fc0a5b6be79c7ebea72edb47ccb0b7c2f8dbeedd109793f994f546d089f78137831932483e73a0d390efd86a62540be41e8963ad0a6d368ad97c9779fda09",
-                        "sha1": "29cab5bcf7e1894a40fc473271cebceb210ad5b8"
+                        "sha512": "62a51e127d59525864219b7e8329331661abb4f1a1d131588861e4b02f9d4f156f2c202c2e88f67db991d219410ac069c7ecbf9053cee967bc5b9eb7a4ee9780",
+                        "sha1": "64d35f83fda3d347d55e36c935e67133e4912fac"
                     },
                     "required_dependencies": [],
-                    "size": 1646012,
-                    "date_published": "2026-09-20T10:04:25.891700Z"
+                    "size": 1652266,
+                    "date_published": "2026-09-24T11:40:23.758960Z"
                 }
             ]
         },
