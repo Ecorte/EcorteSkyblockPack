@@ -1741,30 +1741,29 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "hypixelautotip-1.4.1.jar",
+                    "file_name": "hypixelautotip-1.5.0+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
-                        "26.1.2",
-                        "26.2"
+                        "26.1.2"
                     ],
                     "loaders": [
                         "fabric",
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/6ekmo61Y/versions/f7kRNWxz/hypixelautotip-1.4.1.jar",
-                    "id": "f7kRNWxz",
+                    "url": "https://cdn.modrinth.com/data/6ekmo61Y/versions/RwCPPfwn/hypixelautotip-1.5.0+26.1.jar",
+                    "id": "RwCPPfwn",
                     "parent_id": "6ekmo61Y",
                     "hashes": {
-                        "sha512": "4df9a3ed903b590a8a4009d1314162b8500f31d07e3f4cf2bb1f38fbb1de274350248bdcb372c618ff933edfc34e125e1008dbaf13af0d325619500a948720bb",
-                        "sha1": "ece41b8cd9cefc58b4e40c4f09a0b66785963aa7"
+                        "sha512": "b5f74727e75b6ea2d5fb1843bf9932e21288a4d877e692deda6f5cf3cd78897b7c6feacb1c46e45f8f542251d7b0227020b797b8779ded1dc39eb298b27bb67d",
+                        "sha1": "836a45cf41bf1ddf6899e03f146386fca4dbb938"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 18501,
-                    "date_published": "2026-06-19T13:14:28.233765Z"
+                    "size": 25845,
+                    "date_published": "2026-09-24T02:16:28.465937Z"
                 }
             ]
         },
@@ -3264,7 +3263,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.2.5.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.2.6.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3274,20 +3273,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/tkthxybW/OneConfig-26.1-fabric-1.2.5.jar",
-                    "id": "tkthxybW",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/JQYI54P1/OneConfig-26.1-fabric-1.2.6.jar",
+                    "id": "JQYI54P1",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "d0f1b37ccf41a54c450c8d0f36ed8619d208f8746dcb41253e98a1a019569ccae8f13440e099ba278450bb8f6b86cfbf5f42fca27557433aafcc9557df1918d3",
-                        "sha1": "a04c05ae43470ddff27403474faf3546bebb87e2"
+                        "sha512": "a969ca9767bd680fd67e615c50e9763c51b95737186e22cfd36ea354e2cceca553fcae7ee0a1e0eb99fd0e38753fd684cf96747d8d5999f85b249407bcbc3759",
+                        "sha1": "dc960c58ea521365bfc91ccb9ab77dd4a9c99a6a"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
                         "eHe8QhtD",
+                        "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 11740734,
-                    "date_published": "2026-09-23T00:21:45.942036Z"
+                    "size": 11740529,
+                    "date_published": "2026-09-24T06:39:51.591537Z"
                 }
             ]
         },
@@ -3639,7 +3638,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polytime-1.3.0+26.1.jar",
+                    "file_name": "polytime-1.3.1+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3649,19 +3648,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/m3kNp1iP/versions/p24Nwvfq/polytime-1.3.0+26.1.jar",
-                    "id": "p24Nwvfq",
+                    "url": "https://cdn.modrinth.com/data/m3kNp1iP/versions/1KsXK47y/polytime-1.3.1+26.1.jar",
+                    "id": "1KsXK47y",
                     "parent_id": "m3kNp1iP",
                     "hashes": {
-                        "sha512": "3e35f62095b91fc081f31c78f07b6741323cd5bb92bf1f369d070c94d92f40eb7c7c46d85e70f05389161db68453c5c4fe1b19eeee2ae9fd17790815a187efee",
-                        "sha1": "7e7c894ca76db258b215019dbcb61f60c8e15826"
+                        "sha512": "ba72f26f3e3a0b6f9c24c05aea2788682722fdc7360fed8240ee1dc536d5f03ec5dfebbb2adb27f9cd253e459e166d390a1b2c809c1e42f7f511890fa4f5ba75",
+                        "sha1": "d60948c9a3813e8c42bfcaaa5bc3c4b9896a7329"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "AibBIVmj"
+                        "AibBIVmj",
+                        "Ha28R6CL"
                     ],
-                    "size": 91905,
-                    "date_published": "2026-09-15T16:09:31.156120Z"
+                    "size": 93621,
+                    "date_published": "2026-09-24T05:07:57.387333Z"
                 }
             ]
         },
