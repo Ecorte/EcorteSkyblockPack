@@ -3264,7 +3264,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.2.6.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.2.7.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3274,20 +3274,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/JQYI54P1/OneConfig-26.1-fabric-1.2.6.jar",
-                    "id": "JQYI54P1",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/l4atQ06O/OneConfig-26.1-fabric-1.2.7.jar",
+                    "id": "l4atQ06O",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "a969ca9767bd680fd67e615c50e9763c51b95737186e22cfd36ea354e2cceca553fcae7ee0a1e0eb99fd0e38753fd684cf96747d8d5999f85b249407bcbc3759",
-                        "sha1": "dc960c58ea521365bfc91ccb9ab77dd4a9c99a6a"
+                        "sha512": "7378fb0e64b6ab4e2d1f87a87a7634e19596cc04986e94f881fc83d1d533631382644d5e3405d292f92b88eecc7bda100fc8558cdfeddaa5554430260e8d4630",
+                        "sha1": "70985ea8cdcf495c747f1144cd56fcae7a00c21d"
                     },
                     "required_dependencies": [
                         "eHe8QhtD",
                         "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 11740529,
-                    "date_published": "2026-09-24T06:39:51.591537Z"
+                    "size": 11741062,
+                    "date_published": "2026-09-25T01:25:07.003580Z"
                 }
             ]
         },
@@ -4650,7 +4650,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Sophie's Enchants V2.1.0.zip",
+                    "file_name": "Sophie's Enchants B2.2.0.zip",
                     "mc_versions": [
                         "1.21.7",
                         "1.21.8",
@@ -4665,17 +4665,17 @@
                     "loaders": [
                         "minecraft"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/XBG9JHVh/versions/o7zygRqE/Sophie's Enchants V2.1.0.zip",
-                    "id": "o7zygRqE",
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/XBG9JHVh/versions/L1uusfQk/Sophie's Enchants B2.2.0.zip",
+                    "id": "L1uusfQk",
                     "parent_id": "XBG9JHVh",
                     "hashes": {
-                        "sha512": "1a5c4246f23c5f23dd52b7833e98f6631b48c53017c847c64fccc9bd33285613fac9fb32d34fc52b684ab3d6aaa5a82e9ad5ac4516ac00c2171dabc883012a18",
-                        "sha1": "2704c767ab5a97306f9dd943e09abe4a74ab0837"
+                        "sha512": "18515fc7746c326c00266144d30e9627511e7400cf189cd769ed8dfa7ded33f4c72673ccd4b60a1c105c39e93a8dd68b8711401a18ae438ee155aaadfeadd725",
+                        "sha1": "783aa0d4ef3193a414cdb0dd49f760110a8a7835"
                     },
                     "required_dependencies": [],
-                    "size": 584611,
-                    "date_published": "2026-08-24T17:58:36.857974Z"
+                    "size": 584290,
+                    "date_published": "2026-09-25T00:51:02.979552Z"
                 }
             ]
         },
