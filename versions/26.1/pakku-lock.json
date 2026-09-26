@@ -4650,7 +4650,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Sophie's Enchants B2.2.0.zip",
+                    "file_name": "Sophie's Enchants 2.2.0 Beta 2.zip",
                     "mc_versions": [
                         "1.21.7",
                         "1.21.8",
@@ -4666,16 +4666,16 @@
                         "minecraft"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/XBG9JHVh/versions/L1uusfQk/Sophie's Enchants B2.2.0.zip",
-                    "id": "L1uusfQk",
+                    "url": "https://cdn.modrinth.com/data/XBG9JHVh/versions/FIgjSmQc/Sophie's Enchants 2.2.0 Beta 2.zip",
+                    "id": "FIgjSmQc",
                     "parent_id": "XBG9JHVh",
                     "hashes": {
-                        "sha512": "18515fc7746c326c00266144d30e9627511e7400cf189cd769ed8dfa7ded33f4c72673ccd4b60a1c105c39e93a8dd68b8711401a18ae438ee155aaadfeadd725",
-                        "sha1": "783aa0d4ef3193a414cdb0dd49f760110a8a7835"
+                        "sha512": "70605692c1a1a916c095efd237178d0af9455171b96eeedc9b8b71d9258bc4467f40214c82d72f37c88d2a8cc92caaa339e9d12ee15b8bf3138920b12e553db8",
+                        "sha1": "3ad8b6092fb497267f67776254076a86a4fe204d"
                     },
                     "required_dependencies": [],
-                    "size": 584290,
-                    "date_published": "2026-09-25T00:51:02.979552Z"
+                    "size": 602880,
+                    "date_published": "2026-09-26T00:20:09.774233Z"
                 }
             ]
         },
