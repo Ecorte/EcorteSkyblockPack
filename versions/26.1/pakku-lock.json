@@ -4741,7 +4741,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "stella-1.0.6+26.1-b4.jar",
+                    "file_name": "stella-1.0.6+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4750,17 +4750,17 @@
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/ZSWJelST/versions/Ax39gj7z/stella-1.0.6+26.1-b4.jar",
-                    "id": "Ax39gj7z",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ZSWJelST/versions/EvZrQcpx/stella-1.0.6+26.1.jar",
+                    "id": "EvZrQcpx",
                     "parent_id": "ZSWJelST",
                     "hashes": {
-                        "sha512": "5065e3115bcaf6e7c80d05838b8dde8e2d26eac5b1cf0b3180322ebe1695de65f291dd7438c1801ea9aab2e3ae78c611229a7d7083d66177709059df41ec9967",
-                        "sha1": "ca278c7f0333ee79e7e0014d2eb9b9c115e567e2"
+                        "sha512": "ad64a87b8c0e51f2c57568aa0ad9d76127b3be4a905c6e6f39204ab837c1397dabf15c27aeaa2d5e7d40f95d1dde74a800b75ce46563045fbdf930f79cdc4dcc",
+                        "sha1": "efcea1fad0f950daf5e0182ad63318fed2fde886"
                     },
                     "required_dependencies": [],
-                    "size": 5679185,
-                    "date_published": "2026-08-04T23:25:22.043068Z"
+                    "size": 7230932,
+                    "date_published": "2026-09-26T23:21:44.739606Z"
                 }
             ]
         },
