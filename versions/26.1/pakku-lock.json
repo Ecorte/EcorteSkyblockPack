@@ -4751,16 +4751,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ZSWJelST/versions/EvZrQcpx/stella-1.0.6+26.1.jar",
-                    "id": "EvZrQcpx",
+                    "url": "https://cdn.modrinth.com/data/ZSWJelST/versions/WE8pAf58/stella-1.0.6+26.1.jar",
+                    "id": "WE8pAf58",
                     "parent_id": "ZSWJelST",
                     "hashes": {
-                        "sha512": "ad64a87b8c0e51f2c57568aa0ad9d76127b3be4a905c6e6f39204ab837c1397dabf15c27aeaa2d5e7d40f95d1dde74a800b75ce46563045fbdf930f79cdc4dcc",
-                        "sha1": "efcea1fad0f950daf5e0182ad63318fed2fde886"
+                        "sha512": "2dfd9a13c6dc78be272a6a5803ee369562dcc6ae9bd389040f381d8abbe97c8c73dc1280b3eae592d93b58d648d47755fe17c2e0e49884718c4b45399f38f190",
+                        "sha1": "b434397c27cd665510530d58d82ab92fa73b5f4b"
                     },
                     "required_dependencies": [],
-                    "size": 7230932,
-                    "date_published": "2026-09-26T23:21:44.739606Z"
+                    "size": 7231251,
+                    "date_published": "2026-09-27T00:14:39.449135Z"
                 }
             ]
         },
