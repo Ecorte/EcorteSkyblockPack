@@ -4699,7 +4699,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "soundtweaks-1.0.0+26.1.jar",
+                    "file_name": "soundtweaks-1.0.1+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4709,19 +4709,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/7hJZhArg/versions/eEmVWR0Y/soundtweaks-1.0.0+26.1.jar",
-                    "id": "eEmVWR0Y",
+                    "url": "https://cdn.modrinth.com/data/7hJZhArg/versions/Lx72uWVU/soundtweaks-1.0.1+26.1.jar",
+                    "id": "Lx72uWVU",
                     "parent_id": "7hJZhArg",
                     "hashes": {
-                        "sha512": "d438cc6caa751f365b5e56c30f2abce7992d9d4fdb2e4497c96ca030639487fb942263c3a491333c7bb1df1ba7af01085b01cd289c4b02746ea974f6188f0d44",
-                        "sha1": "537e734108c103c6d477078b79266e60b3c79279"
+                        "sha512": "6ff3efb423f6c27a852c8e3ead2cb8b5f182c3e1c0a21e10fcb64b4054040a1cdf57dbd76af620aa02668f16cc5995e061241161f84c58d42db94b36aac47960",
+                        "sha1": "8c45396872d68991f0fe68ca4c12279bd25a0e4f"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
-                        "P7dR8mSH"
+                        "Ha28R6CL",
+                        "P7dR8mSH",
+                        "AibBIVmj"
                     ],
-                    "size": 10854,
-                    "date_published": "2026-07-16T20:53:15.227301Z"
+                    "size": 23570,
+                    "date_published": "2026-09-28T05:19:36.740283Z"
                 }
             ]
         },
