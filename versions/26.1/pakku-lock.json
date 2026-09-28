@@ -1094,7 +1094,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "debugify-26.1.2.2.jar",
+                    "file_name": "debugify-26.1.2.3.jar",
                     "mc_versions": [
                         "26.1.2"
                     ],
@@ -1102,19 +1102,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/AYdf2KSj/debugify-26.1.2.2.jar",
-                    "id": "AYdf2KSj",
+                    "url": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/XhYY56c0/debugify-26.1.2.3.jar",
+                    "id": "XhYY56c0",
                     "parent_id": "QwxR6Gcd",
                     "hashes": {
-                        "sha512": "5b22b8c43216817020b051dc265c135bb22f44da03435c64b1cec9838a2ec3dfa2c49327711481943166fc57694d551c8fdb3d2c5aa23f4737eff9182b0bb5e7",
-                        "sha1": "b1d39e4bb31fc4287159280c0fc0c2d092a183ad"
+                        "sha512": "14a451a3a14133f6211ed562426571f3f9a804b8b38da0ece0f8cfa513894b7467ec8640c3381e266920206fecc07ea1328d2b6d69237c0102aa45739108f2ca",
+                        "sha1": "ff796bbd70e0538debe80a2e013487b7fefbbf43"
                     },
                     "required_dependencies": [
-                        "1eAoo2KR",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "1eAoo2KR"
                     ],
-                    "size": 364980,
-                    "date_published": "2026-04-10T20:35:54.745138Z"
+                    "size": 367957,
+                    "date_published": "2026-09-28T13:01:08.316783Z"
                 }
             ]
         },
@@ -3727,7 +3727,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polytone-26.1.2-6.7.2-fabric.jar",
+                    "file_name": "polytone-26.1.2-6.7.3-fabric.jar",
                     "mc_versions": [
                         "26.1.2"
                     ],
@@ -3735,16 +3735,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/CP6cyS7i/polytone-26.1.2-6.7.2-fabric.jar",
-                    "id": "CP6cyS7i",
+                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/doxg1QNH/polytone-26.1.2-6.7.3-fabric.jar",
+                    "id": "doxg1QNH",
                     "parent_id": "3qAYkBMB",
                     "hashes": {
-                        "sha512": "62a51e127d59525864219b7e8329331661abb4f1a1d131588861e4b02f9d4f156f2c202c2e88f67db991d219410ac069c7ecbf9053cee967bc5b9eb7a4ee9780",
-                        "sha1": "64d35f83fda3d347d55e36c935e67133e4912fac"
+                        "sha512": "9a1a762d48ee0256e9f13409a83533850a1484809fc34e7d723bde987512a8ca9f7e06288f3ef4096de415618fc31fba9107da11b4867dd396af3425da841928",
+                        "sha1": "8964f663ee40da0d3b3c052c2136a4d5a041fa7b"
                     },
                     "required_dependencies": [],
-                    "size": 1652266,
-                    "date_published": "2026-09-24T11:40:23.758960Z"
+                    "size": 1656973,
+                    "date_published": "2026-09-28T19:36:46.290815Z"
                 }
             ]
         },
@@ -3895,7 +3895,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Resourcify (26.1-fabric)-1.8.6.jar",
+                    "file_name": "Resourcify (26.1-fabric)-1.8.7.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3905,19 +3905,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/SKI5fL5K/Resourcify (26.1-fabric)-1.8.6.jar",
-                    "id": "SKI5fL5K",
+                    "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/wKnOd7SV/Resourcify (26.1-fabric)-1.8.7.jar",
+                    "id": "wKnOd7SV",
                     "parent_id": "RLzHAoZe",
                     "hashes": {
-                        "sha512": "bcac9b19833ca92e5d961445c84ea1487ff9adc1fbb36362355c1afa38b2c1466964789277155f853fc0a8bf3a0a81b2eb00962d9d6a1e20d84ff57e8d5c878a",
-                        "sha1": "c376c6e7816eb903c7b87ca0ce86a7db809c7107"
+                        "sha512": "405d2dc91d7d0b64e164c33da63e8ce34665abae63b5aa4af2699ba67a7be34e1b86bfd37f46787a103abf6e3c9b4a365a89f43aab3d14f39d7536bd4682e571",
+                        "sha1": "3d734df8e00ef8e4aca3b04ef77ca14966cb55e0"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "Ha28R6CL"
                     ],
-                    "size": 2896688,
-                    "date_published": "2026-09-11T19:50:17.963335Z"
+                    "size": 2896938,
+                    "date_published": "2026-09-28T16:15:33.956052Z"
                 }
             ]
         },
