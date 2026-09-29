@@ -680,9 +680,8 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "compose-bundle-1.0.4+compose.1.12.0.jar",
+                    "file_name": "compose-bundle-1.0.5+compose.1.12.1.jar",
                     "mc_versions": [
-                        "1.8.9",
                         "1.21",
                         "1.21.1",
                         "1.21.2",
@@ -702,23 +701,21 @@
                         "26.3"
                     ],
                     "loaders": [
-                        "fabric",
-                        "legacy-fabric",
-                        "ornithe"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/8rpN5puy/compose-bundle-1.0.4+compose.1.12.0.jar",
-                    "id": "8rpN5puy",
+                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/un1Ye4Ye/compose-bundle-1.0.5+compose.1.12.1.jar",
+                    "id": "un1Ye4Ye",
                     "parent_id": "eHe8QhtD",
                     "hashes": {
-                        "sha512": "13b26534cfc5ed4c67c2d891ba70b8e2a90f874374e8b3547aef031770c87b3caed68f2947846beb6a538336fa1799bb300a68c92b84f65f392debf4d36c1ee4",
-                        "sha1": "8f9722743955dca08fa557193ef0a4673217ef0c"
+                        "sha512": "8addb93b585e3ace9493b995abf455aae92d29eac4f2359aafbc2cd9317fbfb7960735d9eaa9a3d053e07272c0369ea3f9c91c9070d84058b4cc436a30ffb538",
+                        "sha1": "521987ca499497a8f7a4df33367cdf7fdd1fc1e4"
                     },
                     "required_dependencies": [
                         "Ha28R6CL"
                     ],
-                    "size": 77957708,
-                    "date_published": "2026-09-06T19:09:29.449470Z"
+                    "size": 77960443,
+                    "date_published": "2026-09-29T12:54:19.322143Z"
                 }
             ]
         },
@@ -3264,7 +3261,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.2.7.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.2.8.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3274,20 +3271,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/l4atQ06O/OneConfig-26.1-fabric-1.2.7.jar",
-                    "id": "l4atQ06O",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/u5RmGkUI/OneConfig-26.1-fabric-1.2.8.jar",
+                    "id": "u5RmGkUI",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "7378fb0e64b6ab4e2d1f87a87a7634e19596cc04986e94f881fc83d1d533631382644d5e3405d292f92b88eecc7bda100fc8558cdfeddaa5554430260e8d4630",
-                        "sha1": "70985ea8cdcf495c747f1144cd56fcae7a00c21d"
+                        "sha512": "bc06476290c97b83fbae8199c639ecd1384b253c91511230c0dbb12204af17e16cb97a03e30090098af44ffd2214330382fe84c9927396a7f44a1fc6403d01e5",
+                        "sha1": "7f5564b8a21286e2ab629f3b3a80ed017dec7b69"
                     },
                     "required_dependencies": [
                         "eHe8QhtD",
                         "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 11741062,
-                    "date_published": "2026-09-25T01:25:07.003580Z"
+                    "size": 11741808,
+                    "date_published": "2026-09-29T12:56:50.185420Z"
                 }
             ]
         },
@@ -3403,7 +3400,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "overflowparticles-1.2.0+26.1.jar",
+                    "file_name": "overflowparticles-1.2.1+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3413,19 +3410,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/61g97TVF/versions/AY33L2B9/overflowparticles-1.2.0+26.1.jar",
-                    "id": "AY33L2B9",
+                    "url": "https://cdn.modrinth.com/data/61g97TVF/versions/pyEa9LPJ/overflowparticles-1.2.1+26.1.jar",
+                    "id": "pyEa9LPJ",
                     "parent_id": "61g97TVF",
                     "hashes": {
-                        "sha512": "ab0d3fc0337b03a10f0d6c0ada12edc2dd01c5b81515a2418a77ead6e9c5514fcb45ad8ca97b6cc9ae0358f816ab1bba2eac3c22eebfe7d4e4d109d6c34f04c9",
-                        "sha1": "c83607c226518970eb335905b9921b5f2fb95f5c"
+                        "sha512": "93dfaa2cb1d5620c2ac39dd9754dfd9be8b3baf926c3e696a593b55187142cb40815ed073f38edce01c166e197c57848d0d7201f9914799f562e24febbfe3b41",
+                        "sha1": "1c5966dc3bb382cc63019ab85193113e70641e63"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "AibBIVmj"
                     ],
-                    "size": 97939,
-                    "date_published": "2026-09-15T15:50:47.532688Z"
+                    "size": 98297,
+                    "date_published": "2026-09-29T13:09:59.770030Z"
                 }
             ]
         },
