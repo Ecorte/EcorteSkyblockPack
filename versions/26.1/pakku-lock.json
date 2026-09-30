@@ -3044,7 +3044,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "NoChatRestrictions-Fabric-MC26.1-v1.1.2.jar",
+                    "file_name": "NoChatRestrictions-Fabric-MC26.1-v1.1.3.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3054,18 +3054,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/z440MEwJ/versions/D7UqBfFc/NoChatRestrictions-Fabric-MC26.1-v1.1.2.jar",
-                    "id": "D7UqBfFc",
+                    "url": "https://cdn.modrinth.com/data/z440MEwJ/versions/30qcM1PR/NoChatRestrictions-Fabric-MC26.1-v1.1.3.jar",
+                    "id": "30qcM1PR",
                     "parent_id": "z440MEwJ",
                     "hashes": {
-                        "sha512": "e4f99f2b0d9abe60ac3202ca4297757540b0c5222a7e20723db17693bb2e78737f41eccb93f70222ef7317466cbad0e6c5b12cf79342d457b7e76270bf59e9ff",
-                        "sha1": "a8e692ab689872635b078aba81035dccb7eb3f92"
+                        "sha512": "2161092973261e5f4b4952fab295b441a4ab85db7eafa72d16b82ac22d1424847dd62c635cc53bb93990caee9767e90ba20f018ef4358ecbcc95a5f6d7458992",
+                        "sha1": "dc871ec2ddcb9a1eb5ed23c93b0e669d304b3fe9"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 11630,
-                    "date_published": "2026-08-22T14:24:09.870913Z"
+                    "size": 10453,
+                    "date_published": "2026-09-30T10:14:44.995831Z"
                 }
             ]
         },
