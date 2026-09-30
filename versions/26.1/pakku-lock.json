@@ -3354,7 +3354,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "obe+26.1.2-1.1.47-beta.1.jar",
+                    "file_name": "obe+26.1.2-1.1.50.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3365,18 +3365,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/DLyUUWp6/obe+26.1.2-1.1.47-beta.1.jar",
-                    "id": "DLyUUWp6",
+                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/eg6ZKeRG/obe+26.1.2-1.1.50.jar",
+                    "id": "eg6ZKeRG",
                     "parent_id": "AtOSAunf",
                     "hashes": {
-                        "sha512": "69827b2afea5ab6eae1c70932a79119492ad68dc50b37e1b9cd012460a64d0fcc725335ec43cdc9255dee6704697804af0f65f27670696e24024d93170433c9f",
-                        "sha1": "68a103222a7e682d2062954c51b06127cddcb59e"
+                        "sha512": "6bc458caf5a983a9874ca38f43de10d0c853d1fc274b7273ec205080747b3f0c66647907eb5e2b2b8407cfcc460007ad1125da7f744319bca2938aeb1ed7ad37",
+                        "sha1": "91fe28f3fedc31ec28da2b4ff54d6cd41f470aa5"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 201869,
-                    "date_published": "2026-09-11T13:51:46.514792Z"
+                    "size": 203998,
+                    "date_published": "2026-09-30T14:59:46.447587Z"
                 }
             ]
         },
