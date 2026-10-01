@@ -682,6 +682,7 @@
                     "type": "modrinth",
                     "file_name": "compose-bundle-1.0.5+compose.1.12.1.jar",
                     "mc_versions": [
+                        "1.8.9",
                         "1.21",
                         "1.21.1",
                         "1.21.2",
@@ -701,7 +702,8 @@
                         "26.3"
                     ],
                     "loaders": [
-                        "fabric"
+                        "fabric",
+                        "ornithe"
                     ],
                     "release_type": "release",
                     "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/un1Ye4Ye/compose-bundle-1.0.5+compose.1.12.1.jar",
