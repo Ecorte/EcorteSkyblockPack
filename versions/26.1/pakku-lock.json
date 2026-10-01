@@ -5299,7 +5299,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "§dlooshy §7[§f26.1§7] [v0.13].zip",
+                    "file_name": "§dlooshy §7[§f26.1§7] [v0.14].zip",
                     "mc_versions": [
                         "1.21.10",
                         "1.21.11",
@@ -5312,16 +5312,16 @@
                         "minecraft"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pbipt9Sm/versions/xYu7z8VD/§dlooshy §7[§f26.1§7] [v0.13].zip",
-                    "id": "xYu7z8VD",
+                    "url": "https://cdn.modrinth.com/data/pbipt9Sm/versions/Lhbm3wMQ/§dlooshy §7[§f26.1§7] [v0.14].zip",
+                    "id": "Lhbm3wMQ",
                     "parent_id": "pbipt9Sm",
                     "hashes": {
-                        "sha512": "70a7bf9592c437002135fe3b495f9f2b9c990e85907d993fb8bac00fba5e2cb52a33b60d7d8f5a31e2ee015632e35b0f5c92efd8902e5724075ff371a32778d6",
-                        "sha1": "c01c356e5dc2fad7aba53ac47f15b0654a931138"
+                        "sha512": "6d45f80d94bffda44272ee987c1074dd95d69dc1a1f10851273fba846e65ef124ca691bbf6acbf00edec897c7b2bca552db0c0dedac8750fdf511329df353322",
+                        "sha1": "9a1f430035db2d12473270958e184142fb9af40a"
                     },
                     "required_dependencies": [],
-                    "size": 5910824,
-                    "date_published": "2026-08-22T06:38:08.289611Z"
+                    "size": 5815821,
+                    "date_published": "2026-10-01T02:57:02.603098Z"
                 }
             ]
         },
