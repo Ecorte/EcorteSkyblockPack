@@ -737,7 +737,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc26.1.2-0.4.0-alpha.0.62.jar",
+                    "file_name": "c2me-fabric-mc26.1.2-0.4.0-alpha.0.64.jar",
                     "mc_versions": [
                         "26.1.2"
                     ],
@@ -745,16 +745,16 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/o1m4A4Rk/c2me-fabric-mc26.1.2-0.4.0-alpha.0.62.jar",
-                    "id": "o1m4A4Rk",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/mt1A6r9k/c2me-fabric-mc26.1.2-0.4.0-alpha.0.64.jar",
+                    "id": "mt1A6r9k",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "ee5e20f8a1aa7c6708bab0db301d4636dff82c454895108143c6ad4ea6d532db5643e3ee52cfdef2ac38a9b721385f6eb464d33ada7760f43c90385e3d789dc0",
-                        "sha1": "b6d303849bd981cb611e035b3baa0d1db68408b3"
+                        "sha512": "63cbb2d8f4a4307c70df7a5a294cbcd6ccd0d16562adbe1be2100e7882956ac200533008e8fa881e3fdcdb397350b9bed368ea767ac3ad6c0ee9bb32aa69a264",
+                        "sha1": "a1ad284ace4183861a81d6e35a66c6c56589d9e5"
                     },
                     "required_dependencies": [],
-                    "size": 3843635,
-                    "date_published": "2026-09-16T13:14:50.229536Z"
+                    "size": 3843746,
+                    "date_published": "2026-10-03T14:51:50.775485Z"
                 }
             ]
         },
