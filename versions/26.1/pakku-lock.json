@@ -3264,7 +3264,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.2.17.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.2.18.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3274,20 +3274,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/xNPoSFWT/OneConfig-26.1-fabric-1.2.17.jar",
-                    "id": "xNPoSFWT",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/UMJtoe2y/OneConfig-26.1-fabric-1.2.18.jar",
+                    "id": "UMJtoe2y",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "a88406dbd48446aff07962638e49c03342388eeea79621f95e4ccf9b654ba20f9de42eb776467636810da37cad5380e9915d1c454e0662f6ee06e1dc604dcf51",
-                        "sha1": "be7625d2e0112461a1d018abdc681be567352d76"
+                        "sha512": "bcc14871da4a4d44c6dd1ab578f2694ebf7e2c3a1478e9ee23ec2236472de65c7a59f0505385af906292c84b9b615583e88cf6bed97210f79c05bd3dcd1e578b",
+                        "sha1": "cef903f3af1ce3688568669a646d69390c0797d7"
                     },
                     "required_dependencies": [
-                        "eHe8QhtD",
+                        "P7dR8mSH",
                         "Ha28R6CL",
-                        "P7dR8mSH"
+                        "eHe8QhtD"
                     ],
-                    "size": 11761378,
-                    "date_published": "2026-10-03T20:36:20.515261Z"
+                    "size": 11762807,
+                    "date_published": "2026-10-03T21:57:45.967798Z"
                 }
             ]
         },
@@ -3592,7 +3592,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polysprint-1.3.1+26.1.jar",
+                    "file_name": "polysprint-1.3.2+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3602,20 +3602,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/YKuKpzZ6/polysprint-1.3.1+26.1.jar",
-                    "id": "YKuKpzZ6",
+                    "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/8K7QZpFX/polysprint-1.3.2+26.1.jar",
+                    "id": "8K7QZpFX",
                     "parent_id": "i9xRThb3",
                     "hashes": {
-                        "sha512": "4b4afa41db00cd908dddb239116f6854ee7d5de3867bea69e5bcd3635ee2d4bbda5084f99c510a3ceac20605da3db6e74f5c68cbbe7dc1bcfe2d50bebfd038cd",
-                        "sha1": "e768adedeb16e4d1b8b30562b6837813db3852ec"
+                        "sha512": "90994c2e9821caeba6115c96faaf19e867b70583d8254a1a96c7b787488a97a6a260a6f96a53f7f4ac935c00bb600271fc098bbc0f2990458e3577991794a8a1",
+                        "sha1": "72e84dc0b12644354af7ffe48a75a00eaa002dbd"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
-                        "AibBIVmj",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "AibBIVmj"
                     ],
-                    "size": 66072,
-                    "date_published": "2026-09-24T07:21:08.605989Z"
+                    "size": 66066,
+                    "date_published": "2026-10-04T00:06:09.256392Z"
                 }
             ]
         },
