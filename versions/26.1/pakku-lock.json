@@ -1480,7 +1480,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Feesh-1.15.0+26.1-fabric.jar",
+                    "file_name": "Feesh-1.15.1+26.1-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1490,19 +1490,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/h184OL3q/Feesh-1.15.0+26.1-fabric.jar",
-                    "id": "h184OL3q",
+                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/14QvJCGn/Feesh-1.15.1+26.1-fabric.jar",
+                    "id": "14QvJCGn",
                     "parent_id": "QCpogurE",
                     "hashes": {
-                        "sha512": "ff466b3d0a973f0ff4e9125d25cbe266a37804b48b4c30b6bf2c048a54d456166d03571ffa01245c3e20dc91cf83e6e579d44f56d3435dd41b618b6f32331260",
-                        "sha1": "b340cbbc351fadfbc936a63f68dfc04c9d33ddf3"
+                        "sha512": "3c97c6913f6b67951afdca1b5f805dfd648dab3a2e648cec86b638349e5065de883bd3368c87880f4f228f239621c3ddc418fdc9fec315748d4d8c8014af226e",
+                        "sha1": "f43bf6a5c84fa93027a19e2eaa2c337129a56ec6"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "Ha28R6CL"
                     ],
-                    "size": 2819974,
-                    "date_published": "2026-10-06T15:25:07.002338Z"
+                    "size": 2825257,
+                    "date_published": "2026-10-06T22:12:03.080680Z"
                 }
             ]
         },
@@ -4874,7 +4874,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "vanillahud-3.5.7+26.1.jar",
+                    "file_name": "vanillahud-3.5.8+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4884,20 +4884,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/hMIjz2fQ/vanillahud-3.5.7+26.1.jar",
-                    "id": "hMIjz2fQ",
+                    "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/yLmWDDkf/vanillahud-3.5.8+26.1.jar",
+                    "id": "yLmWDDkf",
                     "parent_id": "pWXJaKrX",
                     "hashes": {
-                        "sha512": "2549cf08e71e2db56ae2213b89def988a7e742011608c8c40fd66617e05a2b5618ffd7279328e9f246027003f8ffe702cae05601899587fd840fa64e72c626bc",
-                        "sha1": "83a14769739f7bd2b7856840cbc679d97ec253c5"
+                        "sha512": "25d13fa410d265de71e55e45bb8e5451d47f5c1bb10e317fa096d48d15c4861567a4c2bcac649f7f1dc201c4bde599790af6fbac7d94577b8afed15de4d22b52",
+                        "sha1": "9d8c416010ee2d5c352fd17c056d291cbe51e406"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
-                        "Ha28R6CL",
-                        "AibBIVmj"
+                        "AibBIVmj",
+                        "Ha28R6CL"
                     ],
-                    "size": 247831,
-                    "date_published": "2026-10-05T16:11:06.452361Z"
+                    "size": 248016,
+                    "date_published": "2026-10-06T19:13:30.674646Z"
                 }
             ]
         },
