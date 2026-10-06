@@ -1480,7 +1480,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Feesh-1.14.0+26.1-fabric.jar",
+                    "file_name": "Feesh-1.15.0+26.1-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1490,19 +1490,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/rN19O3Nm/Feesh-1.14.0+26.1-fabric.jar",
-                    "id": "rN19O3Nm",
+                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/h184OL3q/Feesh-1.15.0+26.1-fabric.jar",
+                    "id": "h184OL3q",
                     "parent_id": "QCpogurE",
                     "hashes": {
-                        "sha512": "9e0eaed183949fc59c451b40846a0b3f0b283d810a7f825f55269eb631af1bc90a208ffc4ec6a9ed3fcfd00fc58dd7cb30c04d24929ab0e4645a297874164ef3",
-                        "sha1": "67d535bbff8def6af6b23fdc73de21ed61a52e6a"
+                        "sha512": "ff466b3d0a973f0ff4e9125d25cbe266a37804b48b4c30b6bf2c048a54d456166d03571ffa01245c3e20dc91cf83e6e579d44f56d3435dd41b618b6f32331260",
+                        "sha1": "b340cbbc351fadfbc936a63f68dfc04c9d33ddf3"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "Ha28R6CL"
                     ],
-                    "size": 2762361,
-                    "date_published": "2026-09-14T17:38:42.787503Z"
+                    "size": 2819974,
+                    "date_published": "2026-10-06T15:25:07.002338Z"
                 }
             ]
         },
@@ -1741,7 +1741,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "hypixelautotip-1.5.0+26.1.jar",
+                    "file_name": "hypixelautotip-1.5.1+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1752,18 +1752,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/6ekmo61Y/versions/RwCPPfwn/hypixelautotip-1.5.0+26.1.jar",
-                    "id": "RwCPPfwn",
+                    "url": "https://cdn.modrinth.com/data/6ekmo61Y/versions/rWsfCwAK/hypixelautotip-1.5.1+26.1.jar",
+                    "id": "rWsfCwAK",
                     "parent_id": "6ekmo61Y",
                     "hashes": {
-                        "sha512": "b5f74727e75b6ea2d5fb1843bf9932e21288a4d877e692deda6f5cf3cd78897b7c6feacb1c46e45f8f542251d7b0227020b797b8779ded1dc39eb298b27bb67d",
-                        "sha1": "836a45cf41bf1ddf6899e03f146386fca4dbb938"
+                        "sha512": "8ec56bb963eda5bb106649701cdb66dc31d4fc7e83a45e41d7493f2ca5e0b8d384563f289a34621f49384c38fa4fcc26ae26f6faf03567226df8baca1e4f7c72",
+                        "sha1": "14ddddfe31680f8a4e13ef7b40ce1865208e487e"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 25845,
-                    "date_published": "2026-09-24T02:16:28.465937Z"
+                    "size": 26410,
+                    "date_published": "2026-10-06T17:10:19.400126Z"
                 }
             ]
         },
