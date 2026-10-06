@@ -1871,24 +1871,25 @@
                         "26.1",
                         "26.1.1",
                         "26.1.2",
-                        "26.2"
+                        "26.2",
+                        "26.3"
                     ],
                     "loaders": [
                         "minecraft"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eiWiefXD/versions/UfU7LVhm/SkyBlock Legacy.zip",
-                    "id": "UfU7LVhm",
+                    "url": "https://cdn.modrinth.com/data/eiWiefXD/versions/us6LPOI9/SkyBlock Legacy.zip",
+                    "id": "us6LPOI9",
                     "parent_id": "eiWiefXD",
                     "hashes": {
-                        "sha512": "e209e06c0257a4f7c6fbad6f08b996ed7b0d0bbba591e9c74ccc22bd37a8352f43524318b317acdf6745384f82f69e70c0ce7548bddf872e0d8039b8fa38d496",
-                        "sha1": "11d7529a13c9c539d5d82b61f87d4c6d8b6163fb"
+                        "sha512": "13386c837920a1fb624144fbc29a3fe130b9175bb575000307e52cdbafd24c615b52c11f800c06530a46d8cca60b1c3dad6a01110775dc43a7eee3ea4600f63f",
+                        "sha1": "4139cb9afc3c8e893c2595cc17758d59404a3c80"
                     },
                     "required_dependencies": [
                         "fc4wBpRx"
                     ],
-                    "size": 4954467,
-                    "date_published": "2026-08-27T18:56:13.344621Z"
+                    "size": 5369853,
+                    "date_published": "2026-10-06T03:50:09.500966Z"
                 }
             ]
         },
@@ -5259,7 +5260,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "devonian-1.33.9.jar",
+                    "file_name": "devonian-1.34.9.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -5269,20 +5270,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/j4Tr5Ve2/versions/fqzglRSm/devonian-1.33.9.jar",
-                    "id": "fqzglRSm",
+                    "url": "https://cdn.modrinth.com/data/j4Tr5Ve2/versions/EQT06WHl/devonian-1.34.9.jar",
+                    "id": "EQT06WHl",
                     "parent_id": "j4Tr5Ve2",
                     "hashes": {
-                        "sha512": "2ff92daa4a27b1d3fe068d0c0b0b8f824aaaf9e70fdf7a9f2091989aab3de96107cfcee1b0dfe8e0fba97263ce13d4f63181abf0a0671fb0249f52fe4c618bb8",
-                        "sha1": "188cecd12f9fab3bed5b43f7073efe782eeaeaa0"
+                        "sha512": "022ec57555ca49bcdb8896be97298c86fc97595c9f1441841caac0cbf6cddf8b2c672f493bceebd4765807cb71375c81dc7c72572d84ab1a523abe2c08fce93e",
+                        "sha1": "6a16919928083f6680369b9f4b068d0c16326bac"
                     },
                     "required_dependencies": [
+                        "1A2mKfBx",
                         "Ha28R6CL",
-                        "P7dR8mSH",
-                        "1A2mKfBx"
+                        "P7dR8mSH"
                     ],
-                    "size": 3898277,
-                    "date_published": "2026-10-02T20:12:35.204445Z"
+                    "size": 3911406,
+                    "date_published": "2026-10-06T02:53:54.760780Z"
                 }
             ]
         },
