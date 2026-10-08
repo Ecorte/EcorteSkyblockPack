@@ -1182,7 +1182,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entityculling-fabric-1.11.2-mc26.1.jar",
+                    "file_name": "entityculling-fabric-1.11.3-mc26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1192,18 +1192,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/YDFyjf5b/entityculling-fabric-1.11.2-mc26.1.jar",
-                    "id": "YDFyjf5b",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/VhQ51u7a/entityculling-fabric-1.11.3-mc26.1.jar",
+                    "id": "VhQ51u7a",
                     "parent_id": "NNAgCjsB",
                     "hashes": {
-                        "sha512": "ae031b258e6b30999cd1387c50bde45ee2ca2016c80d7809b82ad48dcc6a6cba49403f9d90a1d99dd6abc290652cbf63ab52aea1b249dbba1a459547372dee66",
-                        "sha1": "16f2fe0c762370775257a450983ec6e8a1c70b75"
+                        "sha512": "fa0ffcfea876243b860f582c7304454f7e4063052fdac2931fbd13f5c9e79ba4d47a0f1249af10c0829107126295b25fd664215bc73cd6f7706ec8f9fe3c80c4",
+                        "sha1": "31cb6f12d73c4b2613fbe61cb3d4483a8c1c786d"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1506455,
-                    "date_published": "2026-09-21T19:47:04.272282Z"
+                    "size": 1506721,
+                    "date_published": "2026-10-08T16:52:17.830480Z"
                 }
             ]
         },
@@ -5085,30 +5085,32 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "zoomify-2.16.3+26.1.jar",
+                    "file_name": "zoomify-2.17.0+mc26.1.2-universal.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
                         "26.1.2"
                     ],
                     "loaders": [
-                        "fabric"
+                        "fabric",
+                        "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/oDot7UCR/zoomify-2.16.3+26.1.jar",
-                    "id": "oDot7UCR",
+                    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/gwKcDOSy/zoomify-2.17.0+mc26.1.2-universal.jar",
+                    "id": "gwKcDOSy",
                     "parent_id": "w7ThoJFB",
                     "hashes": {
-                        "sha512": "8be66780d01d231fffce14c143e2bd0f3e564c5c58f1d4c2146fa2c219eeea9d955888ce5a371b0a3f060a555b2a1439bc14378290d30385dbeb378b75141d0d",
-                        "sha1": "d3e6fd1c7f5767e6995060c3d7a144e086e4c949"
+                        "sha512": "a2458ea720743e37fec852cde46adb89fc1705f5f290ae846010f10936a3dfd99a8f2f8bfa4546f7b9ae2eba639df6f0459aab58afb626a757f475b79e86b50f",
+                        "sha1": "0ecd28563313f1dcf1028be423b9fac9c3472cc4"
                     },
                     "required_dependencies": [
+                        "1vrSzlao",
                         "P7dR8mSH",
                         "1eAoo2KR",
                         "Ha28R6CL"
                     ],
-                    "size": 562826,
-                    "date_published": "2026-09-23T19:38:57.369558Z"
+                    "size": 578943,
+                    "date_published": "2026-10-08T12:59:28.950249Z"
                 }
             ]
         },
