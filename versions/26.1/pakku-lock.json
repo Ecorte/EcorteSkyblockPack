@@ -961,7 +961,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "CustomScoreboard-1.12.14-2-26.1.jar",
+                    "file_name": "CustomScoreboard-1.13.1-26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -971,19 +971,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fpb5uaJt/versions/5VSiG5l7/CustomScoreboard-1.12.14-2-26.1.jar",
-                    "id": "5VSiG5l7",
+                    "url": "https://cdn.modrinth.com/data/fpb5uaJt/versions/3iS7jVOx/CustomScoreboard-1.13.1-26.1.jar",
+                    "id": "3iS7jVOx",
                     "parent_id": "fpb5uaJt",
                     "hashes": {
-                        "sha512": "108bc67c5efe886a4dd1a77d7a39b86850f00591c94288753d02433093fc46e534fbc85d99fd73985ab8fd8211f50f412dddb2f5e448aff6b7741f99efe8ba9f",
-                        "sha1": "e4f67fd5f2d6c82d7122efa9362fa9681165e53f"
+                        "sha512": "2f776de3864f72fd0e1e4a74d408186ffaf14903a9324bbd334aa00373bb711aeea053977e7c62954f5f01f9c62902f7cfb73129203e5ac25bd6651969286f40",
+                        "sha1": "81afeb21ca9b6b2a1378365a0269736006af40d7"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "P7dR8mSH"
                     ],
-                    "size": 8758837,
-                    "date_published": "2026-08-18T20:47:59.418275Z"
+                    "size": 8978726,
+                    "date_published": "2026-10-09T14:53:22.797872Z"
                 }
             ]
         },
@@ -1309,7 +1309,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+                    "file_name": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
                     "mc_versions": [
                         "1.14",
                         "1.14.1",
@@ -1364,16 +1364,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
-                    "id": "eRRZzGMc",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+                    "id": "SKW1BTL3",
                     "parent_id": "Ha28R6CL",
                     "hashes": {
-                        "sha512": "91404f87774466ce8604aafea791d8cc97b603bc310dce17c8188f94f7783cca6dc14fc726ce871ca317bfe9033c199d8d858d51284106a00754e952147703b8",
-                        "sha1": "62ae40a31b689b52fde399f2143d547a631e942c"
+                        "sha512": "7fb475c4a7e7bdf8d0aca4b5798a58a354c51443d5b1fbde3e8cf34dfbf7191ef4238b5f07d08ec9490ec180b371624523326c3ad45d4ed2b2be541de9407e5d",
+                        "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0"
                     },
                     "required_dependencies": [],
-                    "size": 8142858,
-                    "date_published": "2026-09-07T12:48:38.555893Z"
+                    "size": 8142878,
+                    "date_published": "2026-10-09T08:17:15.786208Z"
                 }
             ]
         },
