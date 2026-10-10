@@ -496,7 +496,7 @@
                 "modrinth": "chattweaks"
             },
             "name": {
-                "modrinth": "ChatTweaks"
+                "modrinth": "ChatTweaks (Compact Chat + More)"
             },
             "id": {
                 "modrinth": "8LNT47ZH"
@@ -522,8 +522,8 @@
                         "sha1": "3040da4441d927a752f62fdbb43f822791e3cb47"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "AibBIVmj"
                     ],
                     "size": 80398,
                     "date_published": "2026-10-02T11:32:45.919148Z"
@@ -542,7 +542,7 @@
                 "modrinth": "chatting"
             },
             "name": {
-                "modrinth": "Chatting"
+                "modrinth": "Chatting (Chat Animation + More)"
             },
             "id": {
                 "modrinth": "8pJYUDNi"
@@ -568,8 +568,8 @@
                         "sha1": "6c05e4b91669cdcc3abfa55036dc84bcc54e377a"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "AibBIVmj"
                     ],
                     "size": 250221,
                     "date_published": "2026-10-02T11:53:49.530673Z"
@@ -627,7 +627,7 @@
                 "modrinth": "colorsaturation"
             },
             "name": {
-                "modrinth": "ColorSaturation"
+                "modrinth": "ColorSaturation (Color Boost)"
             },
             "id": {
                 "modrinth": "fLNnSWgM"
@@ -680,9 +680,8 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "compose-bundle-1.0.5+compose.1.12.1.jar",
+                    "file_name": "compose-bundle-1.0.6+compose.1.13.0-alpha02.jar",
                     "mc_versions": [
-                        "1.8.9",
                         "1.21",
                         "1.21.1",
                         "1.21.2",
@@ -702,22 +701,21 @@
                         "26.3"
                     ],
                     "loaders": [
-                        "fabric",
-                        "ornithe"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/un1Ye4Ye/compose-bundle-1.0.5+compose.1.12.1.jar",
-                    "id": "un1Ye4Ye",
+                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/2P056ND6/compose-bundle-1.0.6+compose.1.13.0-alpha02.jar",
+                    "id": "2P056ND6",
                     "parent_id": "eHe8QhtD",
                     "hashes": {
-                        "sha512": "8addb93b585e3ace9493b995abf455aae92d29eac4f2359aafbc2cd9317fbfb7960735d9eaa9a3d053e07272c0369ea3f9c91c9070d84058b4cc436a30ffb538",
-                        "sha1": "521987ca499497a8f7a4df33367cdf7fdd1fc1e4"
+                        "sha512": "84b8943d728e281175e99bb65f096d63dd7d50cc0707b9518e8b8fbd7a466aa9297ccfbf5760e4e0f78d879d58a41a69984fd1ff85ad508a33e7db8196dc0367",
+                        "sha1": "13277d0018a0a3a811c704f9e82fb970bec127ce"
                     },
                     "required_dependencies": [
                         "Ha28R6CL"
                     ],
-                    "size": 77960443,
-                    "date_published": "2026-09-29T12:54:19.322143Z"
+                    "size": 65458536,
+                    "date_published": "2026-10-09T20:38:17.601981Z"
                 }
             ]
         },
@@ -999,7 +997,7 @@
                 "modrinth": "damagetint"
             },
             "name": {
-                "modrinth": "DamageTint"
+                "modrinth": "DamageTint (Hit Color)"
             },
             "id": {
                 "modrinth": "6zatK8W5"
@@ -1026,8 +1024,8 @@
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
-                        "AibBIVmj",
-                        "eHe8QhtD"
+                        "eHe8QhtD",
+                        "AibBIVmj"
                     ],
                     "size": 26524,
                     "date_published": "2026-10-02T09:58:08.782888Z"
@@ -1219,7 +1217,7 @@
                 "modrinth": "evergreenhud"
             },
             "name": {
-                "modrinth": "EvergreenHUD"
+                "modrinth": "EvergreenHUD (FPS / CPS / Keystrokes HUD)"
             },
             "id": {
                 "modrinth": "1yIQcc2b"
@@ -1245,9 +1243,9 @@
                         "sha1": "5b9f48ffa2327c6a17511bdebf391e04aa08f3c8"
                     },
                     "required_dependencies": [
+                        "Ha28R6CL",
                         "P7dR8mSH",
-                        "AibBIVmj",
-                        "Ha28R6CL"
+                        "AibBIVmj"
                     ],
                     "size": 687472,
                     "date_published": "2026-10-05T10:28:47.579107Z"
@@ -3395,7 +3393,7 @@
                 "modrinth": "overflowparticles"
             },
             "name": {
-                "modrinth": "OverflowParticles"
+                "modrinth": "OverflowParticles (Particles Mod)"
             },
             "id": {
                 "modrinth": "61g97TVF"
@@ -3538,7 +3536,7 @@
                 "modrinth": "polynametag"
             },
             "name": {
-                "modrinth": "PolyNametag"
+                "modrinth": "PolyNametag (Nametag)"
             },
             "id": {
                 "modrinth": "HK3p7LMj"
@@ -3564,8 +3562,8 @@
                         "sha1": "a4ae0fbc69e02b9a859b57031fa9dc85551e4fda"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "AibBIVmj"
+                        "AibBIVmj",
+                        "Ha28R6CL"
                     ],
                     "size": 41931,
                     "date_published": "2026-10-05T15:51:55.410814Z"
@@ -3584,7 +3582,7 @@
                 "modrinth": "polysprint"
             },
             "name": {
-                "modrinth": "PolySprint"
+                "modrinth": "PolySprint (Toggle Sprint / Sneak)"
             },
             "id": {
                 "modrinth": "i9xRThb3"
@@ -3631,7 +3629,7 @@
                 "modrinth": "polytime"
             },
             "name": {
-                "modrinth": "PolyTime"
+                "modrinth": "PolyTime (Time Changer)"
             },
             "id": {
                 "modrinth": "m3kNp1iP"
@@ -3677,7 +3675,7 @@
                 "modrinth": "polyweather"
             },
             "name": {
-                "modrinth": "PolyWeather"
+                "modrinth": "PolyWeather (Weather Changer)"
             },
             "id": {
                 "modrinth": "r8Cr8YRg"
@@ -4866,7 +4864,7 @@
                 "modrinth": "vanillahud"
             },
             "name": {
-                "modrinth": "VanillaHUD"
+                "modrinth": "VanillaHUD (Scoreboard / Hotbar / More)"
             },
             "id": {
                 "modrinth": "pWXJaKrX"
@@ -4893,8 +4891,8 @@
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
-                        "AibBIVmj",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "AibBIVmj"
                     ],
                     "size": 248653,
                     "date_published": "2026-10-07T17:24:27.611792Z"
