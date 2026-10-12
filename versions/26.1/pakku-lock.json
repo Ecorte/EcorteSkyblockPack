@@ -4210,7 +4210,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SkyHanni-9.1.0-mc26.1.jar",
+                    "file_name": "SkyHanni-9.2.0-mc26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4220,20 +4220,20 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/JuSRfyPe/SkyHanni-9.1.0-mc26.1.jar",
-                    "id": "JuSRfyPe",
+                    "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/IL2wksHI/SkyHanni-9.2.0-mc26.1.jar",
+                    "id": "IL2wksHI",
                     "parent_id": "byNkmv5G",
                     "hashes": {
-                        "sha512": "e375b851da9cf5f9422703aad46190a35d9c707c81e80a7e1491b2e7a407ad755bb7226508ece823868ed6e305e1cfb92d72b06869f4a0d052e4ed19bf3d14b8",
-                        "sha1": "df8f80a567cb4d6fe1a6de5ca43d59043bc7ca65"
+                        "sha512": "81ec2fa67a577259c54858e0117638c9208bec3dbb2fdf4361d8b6f4925caca65adbbb9178eeb2e1a372d938cd3b5b4416b10ef941984eefac12cc3852c57918",
+                        "sha1": "2f5e8b35c03bee8bd2f4c74e535b5a89879ab74c"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "Ha28R6CL",
                         "1A2mKfBx"
                     ],
-                    "size": 30217087,
-                    "date_published": "2026-09-18T23:23:28.185852Z"
+                    "size": 30217909,
+                    "date_published": "2026-10-12T17:53:41.865052Z"
                 }
             ]
         },
