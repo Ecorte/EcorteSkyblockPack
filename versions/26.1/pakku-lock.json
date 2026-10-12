@@ -3264,7 +3264,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.4.0.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.4.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3274,20 +3274,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/b4Kkbt6A/OneConfig-26.1-fabric-1.4.0.jar",
-                    "id": "b4Kkbt6A",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/9rfv4CPK/OneConfig-26.1-fabric-1.4.1.jar",
+                    "id": "9rfv4CPK",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "1d5e68966dd5cff196a4e24b9725e5920f984d8ce63b9255fa047b11ef6be2f9060427da90d6417423bd341734846c47eaa8eec49733ecb872fd651e3510048d",
-                        "sha1": "f11a3262f82b3b1c43ba687f02831ae30c51ee55"
+                        "sha512": "df2401364eca983d5e1fc3f7f283bb05f10a8993919d6780fdeb9e5d2ebdddf2776ef28ffda9b950274d84d8585af5cb0a10fbb07cbcdf295a439eca504b3662",
+                        "sha1": "ed25bb2a4e6560616140e497b2a888c1ad6696fc"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
-                        "eHe8QhtD",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "eHe8QhtD"
                     ],
-                    "size": 12010174,
-                    "date_published": "2026-10-11T10:00:40.381863Z"
+                    "size": 12019306,
+                    "date_published": "2026-10-12T05:15:17.808923Z"
                 }
             ]
         },
@@ -3547,7 +3547,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polynametag-1.2.2+26.1.jar",
+                    "file_name": "polynametag-1.2.3+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3557,19 +3557,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/RGD2JcOt/polynametag-1.2.2+26.1.jar",
-                    "id": "RGD2JcOt",
+                    "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/DB0ce1TE/polynametag-1.2.3+26.1.jar",
+                    "id": "DB0ce1TE",
                     "parent_id": "HK3p7LMj",
                     "hashes": {
-                        "sha512": "c0346e0c09a74fb51f54dd3ae31614144f45011972205bbd08ef24adfb9440cf19a26cfafb027fb5df91cd7d9ebda9117a366fdbd5ab8b82cc1e7ee95f8fccb2",
-                        "sha1": "a4ae0fbc69e02b9a859b57031fa9dc85551e4fda"
+                        "sha512": "7d1fa35833a3f92fdfe197d20526e879c4c0b04a24bb187cccc80ead26cc5a623ea431ec6fb40086fa6ce0cc7de336295007c1671c5c74e094110566c6ae697d",
+                        "sha1": "1efbd951ae2a4d4ee0bd2da80de1e0c5b452f0b0"
                     },
                     "required_dependencies": [
                         "AibBIVmj",
                         "Ha28R6CL"
                     ],
-                    "size": 41931,
-                    "date_published": "2026-10-05T15:51:55.410814Z"
+                    "size": 41922,
+                    "date_published": "2026-10-12T05:15:14.939307Z"
                 }
             ]
         },
