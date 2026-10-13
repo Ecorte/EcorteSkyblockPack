@@ -3547,7 +3547,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polynametag-1.2.3+26.1.jar",
+                    "file_name": "polynametag-1.2.4+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3557,19 +3557,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/DB0ce1TE/polynametag-1.2.3+26.1.jar",
-                    "id": "DB0ce1TE",
+                    "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/Fip9NcnB/polynametag-1.2.4+26.1.jar",
+                    "id": "Fip9NcnB",
                     "parent_id": "HK3p7LMj",
                     "hashes": {
-                        "sha512": "7d1fa35833a3f92fdfe197d20526e879c4c0b04a24bb187cccc80ead26cc5a623ea431ec6fb40086fa6ce0cc7de336295007c1671c5c74e094110566c6ae697d",
-                        "sha1": "1efbd951ae2a4d4ee0bd2da80de1e0c5b452f0b0"
+                        "sha512": "7b9458fd16abd1601c7671a95f114af0310b27098e79f9d51425e9006dfcc8b943ae6be96b2f669345db23add740e2298f3451ea1d049a5fd14da01c1fd8d4b3",
+                        "sha1": "7022583a1550c3921008dbfea3c43e2ff47fd7df"
                     },
                     "required_dependencies": [
                         "AibBIVmj",
                         "Ha28R6CL"
                     ],
-                    "size": 41922,
-                    "date_published": "2026-10-12T05:15:14.939307Z"
+                    "size": 42405,
+                    "date_published": "2026-10-13T07:26:12.352682Z"
                 }
             ]
         },
