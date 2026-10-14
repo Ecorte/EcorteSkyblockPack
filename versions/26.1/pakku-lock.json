@@ -3451,7 +3451,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "overlaytweaks-1.12.14+26.1.1-fabric.jar",
+                    "file_name": "overlaytweaks-2.0.2+26.1-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3461,20 +3461,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/wql2D9Gj/versions/WcQvgPKt/overlaytweaks-1.12.14+26.1.1-fabric.jar",
-                    "id": "WcQvgPKt",
+                    "url": "https://cdn.modrinth.com/data/wql2D9Gj/versions/tcaFcydQ/overlaytweaks-2.0.2+26.1-fabric.jar",
+                    "id": "tcaFcydQ",
                     "parent_id": "wql2D9Gj",
                     "hashes": {
-                        "sha512": "81afb057ea138d4ea814c748ca79bdd9cf76e01bf838d515c38f3fab6c57edb4275151fac6fd73dce99641e969540b591ba865a003e3809c8b098c506ddda19e",
-                        "sha1": "1fe57906185f2231560b98b05183c5ad16d4ab48"
+                        "sha512": "bd8811a168df2c7591371562cfe4a80646ea79dd4ae613689d1f0d569ceb2c380d78f8c52b1b0fa9ad2463e6e05e8fa4266300e59279207af4066f884f7908bb",
+                        "sha1": "776b9c68b28713a98f3294317335aac156a805c9"
                     },
                     "required_dependencies": [
-                        "mOgUt4GM",
-                        "1eAoo2KR",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "AibBIVmj"
                     ],
-                    "size": 151463,
-                    "date_published": "2026-04-08T01:57:49.013606Z"
+                    "size": 24678,
+                    "date_published": "2026-10-14T00:16:59.837592Z"
                 }
             ]
         },
