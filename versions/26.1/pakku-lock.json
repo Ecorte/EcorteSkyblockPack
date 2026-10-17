@@ -3725,7 +3725,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polytone-26.1.2-6.8.0-fabric.jar",
+                    "file_name": "polytone-26.1.2-6.8.1-fabric.jar",
                     "mc_versions": [
                         "26.1.2"
                     ],
@@ -3733,16 +3733,16 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/9AGftp8j/polytone-26.1.2-6.8.0-fabric.jar",
-                    "id": "9AGftp8j",
+                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/O5VwGMv5/polytone-26.1.2-6.8.1-fabric.jar",
+                    "id": "O5VwGMv5",
                     "parent_id": "3qAYkBMB",
                     "hashes": {
-                        "sha512": "8c77a234ff3c5d7a228097906ab50fd546de1a492577bb98a28bfde08f1d68b5cfa618606a2757debb4994f0deadc8178d7e9547c92740297994cef51d4a3e7a",
-                        "sha1": "5246a707da1bdb92a8dcf937bcf46bb40bfe7bd9"
+                        "sha512": "19c25458751cfa83aea4e12a77a27736283ca2f471bfc82718f65e13277a4a38ce077f7c761942186188b5418d1a8cfcdc943b56354cfb8e84ae5b23700f8be7",
+                        "sha1": "3f2959f398092e0289cdf93a3351389b785c805e"
                     },
                     "required_dependencies": [],
-                    "size": 1854422,
-                    "date_published": "2026-10-12T19:28:19.119993Z"
+                    "size": 1838653,
+                    "date_published": "2026-10-17T10:58:32.862281Z"
                 }
             ]
         },
@@ -4160,7 +4160,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SkyBlockRpc-1.1.3-26.1.jar",
+                    "file_name": "SkyBlockRpc-1.1.4-26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4170,19 +4170,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/qESHWJ0N/versions/VRtsDrTt/SkyBlockRpc-1.1.3-26.1.jar",
-                    "id": "VRtsDrTt",
+                    "url": "https://cdn.modrinth.com/data/qESHWJ0N/versions/qbRBBTBn/SkyBlockRpc-1.1.4-26.1.jar",
+                    "id": "qbRBBTBn",
                     "parent_id": "qESHWJ0N",
                     "hashes": {
-                        "sha512": "7e26bc3b7d9f701644b5473667a0f09162bf9ffbe62c6998405b57b87eb959840a03f364e47ef4e931289dd3f2be7b13faf3f63a9cfb7aeb3623ef390fb0acbc",
-                        "sha1": "7a0677c205ebaf4f6258a52ff103321d56e0d545"
+                        "sha512": "bf9b6fd6b027a3f62bf9ba5d63a5d76cab5f348ebe210bfb3b0aa4b0023785abbf8b4d1839a33c575af5c177d386d48a5a51ca8212b9653a0d04e99f172000b7",
+                        "sha1": "39ee83b0891a4e841d72c8779ef93cb6a880032a"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "Ha28R6CL"
                     ],
-                    "size": 7205399,
-                    "date_published": "2026-08-10T18:24:08.695782Z"
+                    "size": 6145442,
+                    "date_published": "2026-10-17T11:43:50.788404Z"
                 }
             ]
         },
@@ -4296,10 +4296,8 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Skyblock Dark UI 1.18 for 26.1.2+.zip",
+                    "file_name": "Skyblock Dark UI 1.19 for 26.1.2+.zip",
                     "mc_versions": [
-                        "26.1",
-                        "26.1.1",
                         "26.1.2",
                         "26.2",
                         "26.3"
@@ -4308,16 +4306,16 @@
                         "minecraft"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Ed25eRJG/versions/vDsMM5iE/Skyblock Dark UI 1.18 for 26.1.2+.zip",
-                    "id": "vDsMM5iE",
+                    "url": "https://cdn.modrinth.com/data/Ed25eRJG/versions/T0E3LmO5/Skyblock Dark UI 1.19 for 26.1.2+.zip",
+                    "id": "T0E3LmO5",
                     "parent_id": "Ed25eRJG",
                     "hashes": {
-                        "sha512": "6f6b4582b50e35dbffdd890c05efb2a971418eaad25f93dee1c1349178b7d294244bf53116a67a0b71e8dbde7f77017e01b0e5b5bbb9dec28e6173d3f97cd117",
-                        "sha1": "3bf95962820b52589337e98f7f7b0b824932ef2f"
+                        "sha512": "2f9a08a418d8e15176daddd478a2e782c6cc6c36bbe07a25955dba1c507d4b1027b9a90fe5d0da7ba647c5d46fe42f2bccc16638882128aedb58cf8d292b9bba",
+                        "sha1": "c40a9ed43890406bd6e80713371f7bcb04b67df0"
                     },
                     "required_dependencies": [],
-                    "size": 374364,
-                    "date_published": "2026-08-29T01:55:25.916778Z"
+                    "size": 404280,
+                    "date_published": "2026-10-17T11:11:40.096251Z"
                 }
             ]
         },
