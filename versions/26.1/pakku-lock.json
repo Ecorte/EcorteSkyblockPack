@@ -26,7 +26,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "skinlayers3d-fabric-1.11.3-mc26.1.jar",
+                    "file_name": "skinlayers3d-fabric-1.11.4-mc26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -36,18 +36,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/66bZhn3Y/skinlayers3d-fabric-1.11.3-mc26.1.jar",
-                    "id": "66bZhn3Y",
+                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/hIowUmVK/skinlayers3d-fabric-1.11.4-mc26.1.jar",
+                    "id": "hIowUmVK",
                     "parent_id": "zV5r3pPn",
                     "hashes": {
-                        "sha512": "27a79fdb974b669552b5515475efdd996acd85acdac2f87d6982c6dc7fac176799c69c5d746ddf64cbfe588e830dad94c8aeb8709c37b7de7c1f04a06a06c30f",
-                        "sha1": "68c17cf59871feb7539a286b5b0b777aaebc52ec"
+                        "sha512": "d223c64d27e595537454d92b059931770bebbd18ca644c727da6865e7dbcd5eb4b949dccde399a33e0c0dffe2fea2718b7f2bafaf70df501b3d6065d2b225018",
+                        "sha1": "a7b2da0fd32976bfe2fce4384acda6b77e00436d"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1888644,
-                    "date_published": "2026-09-17T20:05:42.514124Z"
+                    "size": 1890713,
+                    "date_published": "2026-10-18T17:15:05.114999Z"
                 }
             ]
         },
@@ -1479,7 +1479,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Feesh-1.15.1+26.1-fabric.jar",
+                    "file_name": "Feesh-1.16.0+26.1-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1489,19 +1489,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/14QvJCGn/Feesh-1.15.1+26.1-fabric.jar",
-                    "id": "14QvJCGn",
+                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/LOyOn0xy/Feesh-1.16.0+26.1-fabric.jar",
+                    "id": "LOyOn0xy",
                     "parent_id": "QCpogurE",
                     "hashes": {
-                        "sha512": "3c97c6913f6b67951afdca1b5f805dfd648dab3a2e648cec86b638349e5065de883bd3368c87880f4f228f239621c3ddc418fdc9fec315748d4d8c8014af226e",
-                        "sha1": "f43bf6a5c84fa93027a19e2eaa2c337129a56ec6"
+                        "sha512": "7003f9eb5f846760bf929359a129528877aba62f5bb64010397103cde2081c437495dccd083159648e86d617619dcb1db21c8751a772089bc258685aed40afdd",
+                        "sha1": "89a8f6be915563cc456e939b3f595db437d55cad"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "P7dR8mSH"
                     ],
-                    "size": 2825257,
-                    "date_published": "2026-10-06T22:12:03.080680Z"
+                    "size": 2857869,
+                    "date_published": "2026-10-18T15:21:16.296641Z"
                 }
             ]
         },
@@ -2003,7 +2003,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Ixeris-4.6.8+26.1.2-fabric.jar",
+                    "file_name": "Ixeris-4.6.9+26.1.2-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -2014,16 +2014,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/5pD9HVIL/Ixeris-4.6.8+26.1.2-fabric.jar",
-                    "id": "5pD9HVIL",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/VQetSnxE/Ixeris-4.6.9+26.1.2-fabric.jar",
+                    "id": "VQetSnxE",
                     "parent_id": "p8RJPJIC",
                     "hashes": {
-                        "sha512": "ccf0b17ce0482cd9e002e1aa592e1244a2102a2b57d567ad9778a9f7281783eddcb464fa22c27b330976b3ac85abdfbfd8fe98f73a35d834429c956cc2e98f1a",
-                        "sha1": "3b02ce13c07843c2616ebd2ad20b8df4619ed418"
+                        "sha512": "e6d56b6f6eb58c3d0194f8df339453e291ff8233459aa36ec19f304fa3ad7edd8b94653f3c8dad006f108d60f7b8ff5e3244f9e462489163ceaa249eb2a0f21d",
+                        "sha1": "83bae6638a7bb8763c20d387fb3f26f30cfb57c2"
                     },
                     "required_dependencies": [],
-                    "size": 761923,
-                    "date_published": "2026-09-21T13:03:34.276239Z"
+                    "size": 771131,
+                    "date_published": "2026-10-18T14:54:32.709812Z"
                 }
             ]
         },
