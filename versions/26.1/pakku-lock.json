@@ -2003,7 +2003,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Ixeris-4.6.9+26.1.2-fabric.jar",
+                    "file_name": "Ixeris-4.6.10+26.1.2-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -2014,16 +2014,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/VQetSnxE/Ixeris-4.6.9+26.1.2-fabric.jar",
-                    "id": "VQetSnxE",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/HLlGJnQJ/Ixeris-4.6.10+26.1.2-fabric.jar",
+                    "id": "HLlGJnQJ",
                     "parent_id": "p8RJPJIC",
                     "hashes": {
-                        "sha512": "e6d56b6f6eb58c3d0194f8df339453e291ff8233459aa36ec19f304fa3ad7edd8b94653f3c8dad006f108d60f7b8ff5e3244f9e462489163ceaa249eb2a0f21d",
-                        "sha1": "83bae6638a7bb8763c20d387fb3f26f30cfb57c2"
+                        "sha512": "2ce5a3801ee647e6498f4aa8ce95183789abe94922a6e8a38acaa4732262eed27441c70236bf06a2b4d0cbdfe594d9c2e5472282cc0206d24213c955f80b173c",
+                        "sha1": "a727be360f2db91296464eb67b838aa841bb55d5"
                     },
                     "required_dependencies": [],
-                    "size": 771131,
-                    "date_published": "2026-10-18T14:54:32.709812Z"
+                    "size": 771142,
+                    "date_published": "2026-10-19T09:57:45.846322Z"
                 }
             ]
         },
