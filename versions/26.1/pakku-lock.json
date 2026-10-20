@@ -4340,7 +4340,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SBO-0.7.1+26.1.2-fabric.jar",
+                    "file_name": "SBO-0.7.1-beta.1+26.1.2-fabric.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -4349,20 +4349,20 @@
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/9lBqVbQF/versions/sVDxEFl5/SBO-0.7.1+26.1.2-fabric.jar",
-                    "id": "sVDxEFl5",
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/9lBqVbQF/versions/A6tSaEnc/SBO-0.7.1-beta.1+26.1.2-fabric.jar",
+                    "id": "A6tSaEnc",
                     "parent_id": "9lBqVbQF",
                     "hashes": {
-                        "sha512": "8a53d3af53f821f753ca5e695c1aa549bf0f4cf1b747754f9c3c5ce110978e6d875ca3a67570ca14b58e0608b90a4d6d9d2ebef205ce66b671cc4eb13a8a23a7",
-                        "sha1": "07e1fb04f8eecaff17457250053565f76f2b07e6"
+                        "sha512": "c576b083814dfdac2ebbb6b5a7b9e1d2f1ef4bc1671e889fe19d634c7a8dc8d82c2b5ed98716a8fdd4c3ff7fcf7d0af76955592b1b90eecd3ad7ed5d3f0d67ac",
+                        "sha1": "5ee0a91f3d8d02f60ad31d816b6cd8c88a94647a"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "P7dR8mSH"
                     ],
-                    "size": 6267685,
-                    "date_published": "2026-10-19T17:43:13.274925Z"
+                    "size": 6271557,
+                    "date_published": "2026-10-20T17:02:37.755251Z"
                 }
             ]
         },
