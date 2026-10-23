@@ -3366,18 +3366,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/q4uiv0Xn/obe+26.1.2-1.2.0.jar",
-                    "id": "q4uiv0Xn",
+                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/BduIjRm0/obe+26.1.2-1.2.0.jar",
+                    "id": "BduIjRm0",
                     "parent_id": "AtOSAunf",
                     "hashes": {
-                        "sha512": "a579fec5c92a5efb7901574442660a4d02e1fe8f33c2a06410edbfbed9b6626a06af2f83ce311e6ee8dc437eb52e163772163a3bca979a8dba26f62f39d31706",
-                        "sha1": "1129f0bd451a674ec5c2794fcb8abb81155b0693"
+                        "sha512": "8e20660e59460b77313aad86ccdae12a7d44e9c48b4f7be3db87f643c6d62c887a611c1d7a4897e54a60b689df0fd0100be88264ab7d1d55f8679241159b6225",
+                        "sha1": "768f1d30e9099fcd9ab966840dad6b450a94b777"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 245006,
-                    "date_published": "2026-10-23T12:36:58.058174Z"
+                    "size": 245004,
+                    "date_published": "2026-10-23T13:16:32.821964Z"
                 }
             ]
         },
