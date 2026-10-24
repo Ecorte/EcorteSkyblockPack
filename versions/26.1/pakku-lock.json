@@ -550,7 +550,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "chatting-3.2.3+26.1.jar",
+                    "file_name": "chatting-3.2.5+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -560,20 +560,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/7GwnLMMa/chatting-3.2.3+26.1.jar",
-                    "id": "7GwnLMMa",
+                    "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/UHZSHuNP/chatting-3.2.5+26.1.jar",
+                    "id": "UHZSHuNP",
                     "parent_id": "8pJYUDNi",
                     "hashes": {
-                        "sha512": "89e34e956aa3f47c38bb7bf615d73b050ee6472ac5f723911b2df5d468988f7cccb28dba95ace30f218cc1815260ba754dbaad37952fad1c05f94bce8c17e7be",
-                        "sha1": "d0de1444f2258fe1e033d9951ad283c4a1c3bc7b"
+                        "sha512": "dbc8dbc86860681e0600524f4c66409d58c7c7193fc35f12a95448ae9f00db332c3d99a817af68ab3fa7553623120bca0579d03cad416760371268b2ded6f9eb",
+                        "sha1": "c4fb9c0689b6ed1650647f4aebd83e097c56e323"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
                         "Ha28R6CL",
-                        "eHe8QhtD"
+                        "AibBIVmj"
                     ],
-                    "size": 250793,
-                    "date_published": "2026-10-11T10:16:05.477176Z"
+                    "size": 252022,
+                    "date_published": "2026-10-24T19:33:13.693157Z"
                 }
             ]
         },
