@@ -1876,18 +1876,18 @@
                         "minecraft"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eiWiefXD/versions/SDnauqoH/SkyBlock Legacy.zip",
-                    "id": "SDnauqoH",
+                    "url": "https://cdn.modrinth.com/data/eiWiefXD/versions/eGvoM94W/SkyBlock Legacy.zip",
+                    "id": "eGvoM94W",
                     "parent_id": "eiWiefXD",
                     "hashes": {
-                        "sha512": "81ceda98f9f254b3e37595b5459947b9aae85a5bef431d8076baee5a9e5d2b7b7c3a8711fc3c8ed5bf5ddec191184aea2083fd6e8146d23413446dcf63cc3e5a",
-                        "sha1": "fa58cb54a335cb025b26ac19b21fca7a1dcc1381"
+                        "sha512": "adff60fbfa6a5d59facaccdf4e1a4aef050f7d973536360b03357490ffbac5232fcaac44ebc61b8edcbb7c092c24428390715fe40b6dd9f92a8e9324eefae470",
+                        "sha1": "e3e2071a25fb299ade280dfee3c537c52c138bc6"
                     },
                     "required_dependencies": [
                         "fc4wBpRx"
                     ],
-                    "size": 5383806,
-                    "date_published": "2026-10-07T05:54:29.198053Z"
+                    "size": 5383944,
+                    "date_published": "2026-10-24T06:15:49.236307Z"
                 }
             ]
         },
