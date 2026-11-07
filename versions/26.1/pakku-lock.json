@@ -3325,30 +3325,30 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "optigui-2.3.0-beta.10+26.1.jar",
+                    "file_name": "optigui-2.3.0-beta.11+26.1.jar",
                     "mc_versions": [
-                        "26.1",
+                        "26.1.2",
                         "26.1.1",
-                        "26.1.2"
+                        "26.1"
                     ],
                     "loaders": [
                         "fabric",
                         "quilt"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/sPNHfRj2/optigui-2.3.0-beta.10+26.1.jar",
-                    "id": "sPNHfRj2",
+                    "url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/807BG4RL/optigui-2.3.0-beta.11+26.1.jar",
+                    "id": "807BG4RL",
                     "parent_id": "JuksLGBQ",
                     "hashes": {
-                        "sha512": "1486fc6c9eb4dbee78a159cfed20672fa8dc558dccbc7c133aec3cb88bc39ce9a4674e71fdf3066c6cabefa1b37f9c85e7cfff6e4bd69e92ffb7cb0812123acd",
-                        "sha1": "e1f7a1897762baec94f580d9a558127da485f5fd"
+                        "sha512": "6bdef96e6e451082e6bd9ef7a08a83060d9961fb477a9ef2f8d40fefde19b4c887ec320a4406256ee05b04c790c689c3c1cdb5fe31aa4e4bb0ced8711cf8995a",
+                        "sha1": "8e90839023832e36ac15b1dbf230b8ad11b2a59c"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "P7dR8mSH"
                     ],
-                    "size": 608369,
-                    "date_published": "2026-04-01T16:58:04.592592Z"
+                    "size": 607523,
+                    "date_published": "2026-11-07T16:56:01.250087Z"
                 }
             ]
         },
