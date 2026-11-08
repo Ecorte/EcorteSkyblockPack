@@ -1225,7 +1225,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "evergreenhud-3.9.16+26.1.jar",
+                    "file_name": "evergreenhud-3.9.17+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1235,20 +1235,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/coniDQ92/evergreenhud-3.9.16+26.1.jar",
-                    "id": "coniDQ92",
+                    "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/EfwjsXvR/evergreenhud-3.9.17+26.1.jar",
+                    "id": "EfwjsXvR",
                     "parent_id": "1yIQcc2b",
                     "hashes": {
-                        "sha512": "111fcff7493ec5b04aac5f1b3219c69157cf4d13803765c58a10e3ac14a7debd7fbe7a33e577ec83aab100bf75bf1ea7df4767f9b522e01be77e18f3fc6dd94c",
-                        "sha1": "70322f4955c6fcdc127de07364796d2291a9ab2e"
+                        "sha512": "7778bd2049a02e13ca3fbe9754e87a7c01da22c921f6b70df3cf06faf05e4b4e6974a720ebd56e02f552868c2e41f92bb0328d09ea2be0aa3e9bbd18c1c26d7c",
+                        "sha1": "c19387b68308c1c8a598c756cc3af872d9d75172"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
                         "P7dR8mSH",
-                        "AibBIVmj"
+                        "AibBIVmj",
+                        "Ha28R6CL"
                     ],
-                    "size": 1009225,
-                    "date_published": "2026-11-06T06:49:01.897599Z"
+                    "size": 1109811,
+                    "date_published": "2026-11-08T18:12:20.265399Z"
                 }
             ]
         },
