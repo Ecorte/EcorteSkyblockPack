@@ -3741,7 +3741,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polytone-26.1.2-6.9.0-fabric.jar",
+                    "file_name": "polytone-26.1.2-6.9.1-fabric.jar",
                     "mc_versions": [
                         "26.1.2"
                     ],
@@ -3749,16 +3749,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/VyAe94JS/polytone-26.1.2-6.9.0-fabric.jar",
-                    "id": "VyAe94JS",
+                    "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/p49itb5G/polytone-26.1.2-6.9.1-fabric.jar",
+                    "id": "p49itb5G",
                     "parent_id": "3qAYkBMB",
                     "hashes": {
-                        "sha512": "ff61f6a290e2bbcd0df5fe70969e180565e0531132adcf862cc8438d20c398c00eb261a7748dff46d3164ccaf74957f8b7c6f37da6e6321d8d2b57d38454d6dc",
-                        "sha1": "651173343a910466fe8307a6948f6be09ab800b0"
+                        "sha512": "f9cc55d08b312a6c61404b4552bb4a6191f3eb34e556150cb4095e4e2fcd2d7629226ac57e11bc2b877e830b6811bf65024e256cd2e3cdd90835cb616710a0f3",
+                        "sha1": "d9835cab0ebf05a4a21f84553ab3d48473e6738b"
                     },
                     "required_dependencies": [],
-                    "size": 1879419,
-                    "date_published": "2026-10-31T19:06:02.417231Z"
+                    "size": 1843008,
+                    "date_published": "2026-11-10T19:49:33.872562Z"
                 }
             ]
         },
@@ -4449,30 +4449,30 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Skysoft-0.1.31-mc26.1.jar",
+                    "file_name": "Skysoft-0.1.32-mc26.1.jar",
                     "mc_versions": [
-                        "26.1",
+                        "26.1.2",
                         "26.1.1",
-                        "26.1.2"
+                        "26.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/TTWihmjT/versions/rkFUbteS/Skysoft-0.1.31-mc26.1.jar",
-                    "id": "rkFUbteS",
+                    "url": "https://cdn.modrinth.com/data/TTWihmjT/versions/LgtzMzSV/Skysoft-0.1.32-mc26.1.jar",
+                    "id": "LgtzMzSV",
                     "parent_id": "TTWihmjT",
                     "hashes": {
-                        "sha512": "edca957b5f69256343ce8fddbd4fff09300efe76d4fd32c5c157827ddb03b40fbf18bbff3e96824d2d117268c675231beaea4c6f95a463ad5dca895901e92c95",
-                        "sha1": "d20b5c590d7a4db7538bb6dc4b6d240f15a3ca0f"
+                        "sha512": "af718e109f64af70a17bf0dff54b2752466f48ae20fb8513211ba0131b9a2fd030b53f108b0fe6137c30fc617c31659bfb874d114c20f9237dbf4d4c782bf288",
+                        "sha1": "ea65bc148aad77d44e42c622985556ae7dae0ff0"
                     },
                     "required_dependencies": [
+                        "P7dR8mSH",
                         "1A2mKfBx",
-                        "Ha28R6CL",
-                        "P7dR8mSH"
+                        "Ha28R6CL"
                     ],
-                    "size": 11163081,
-                    "date_published": "2026-10-25T03:16:12.013366Z"
+                    "size": 11009288,
+                    "date_published": "2026-11-10T16:22:53.170265Z"
                 }
             ]
         },
