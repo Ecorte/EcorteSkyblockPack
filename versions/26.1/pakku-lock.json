@@ -1225,7 +1225,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "evergreenhud-3.9.17+26.1.jar",
+                    "file_name": "evergreenhud-3.9.18+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -1235,20 +1235,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/EfwjsXvR/evergreenhud-3.9.17+26.1.jar",
-                    "id": "EfwjsXvR",
+                    "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/gE9vdb9o/evergreenhud-3.9.18+26.1.jar",
+                    "id": "gE9vdb9o",
                     "parent_id": "1yIQcc2b",
                     "hashes": {
-                        "sha512": "7778bd2049a02e13ca3fbe9754e87a7c01da22c921f6b70df3cf06faf05e4b4e6974a720ebd56e02f552868c2e41f92bb0328d09ea2be0aa3e9bbd18c1c26d7c",
-                        "sha1": "c19387b68308c1c8a598c756cc3af872d9d75172"
+                        "sha512": "2b3028fc58ff229fc33b602a6c7012cb43e06b6bcc10ae0ab2d20cea4e4a4d25565ab2d9a547c3b6386b5d42ccdc1546bbe14f39bc1453cb5b29c06756b003e8",
+                        "sha1": "cf6aa26a33395209cf38c074b2d4834adaa4700b"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
+                        "Ha28R6CL",
                         "AibBIVmj",
-                        "Ha28R6CL"
+                        "P7dR8mSH"
                     ],
-                    "size": 1109811,
-                    "date_published": "2026-11-08T18:12:20.265399Z"
+                    "size": 1109596,
+                    "date_published": "2026-11-11T22:50:51.340238Z"
                 }
             ]
         },
@@ -3278,7 +3278,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.6.2.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.7.0.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3288,20 +3288,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/G9dUSaYT/OneConfig-26.1-fabric-1.6.2.jar",
-                    "id": "G9dUSaYT",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/5W6gg0Cl/OneConfig-26.1-fabric-1.7.0.jar",
+                    "id": "5W6gg0Cl",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "fb9c478fb9ba18a0084699bd60dabd8375d3e0016405da71d80e113883a1297db79d4b47755e05499e2f86e51cc36ecdb08632d7c7a153f836e2b429793bdcb5",
-                        "sha1": "cfd151be835903fb17ab5dc06dbe415bd8a529db"
+                        "sha512": "8ba53f29c78115b2b18eb03918fa2ba97e0b9053732bd34b590a459f44004e151e2767ae21e13c481c904bae262fda69e78d2a098eca1c28c1de609afb6d8b30",
+                        "sha1": "5ff762886c8a28c1aa643d7a611a06f15d8375bc"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
-                        "Ha28R6CL",
-                        "eHe8QhtD"
+                        "eHe8QhtD",
+                        "Ha28R6CL"
                     ],
-                    "size": 14009023,
-                    "date_published": "2026-11-06T05:03:37.268649Z"
+                    "size": 14886971,
+                    "date_published": "2026-11-11T17:53:25.294591Z"
                 }
             ]
         },
