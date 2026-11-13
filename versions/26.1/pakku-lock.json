@@ -3606,7 +3606,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polysprint-1.3.3+26.1.jar",
+                    "file_name": "polysprint-1.3.4+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3616,20 +3616,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/FMTN41DE/polysprint-1.3.3+26.1.jar",
-                    "id": "FMTN41DE",
+                    "url": "https://cdn.modrinth.com/data/i9xRThb3/versions/CF4MEXeY/polysprint-1.3.4+26.1.jar",
+                    "id": "CF4MEXeY",
                     "parent_id": "i9xRThb3",
                     "hashes": {
-                        "sha512": "dd5ac686e79d54db1781e946a5d7df89a2cb8278e384207f4c7c25cebe63a61fe22f224223b2b224b2fde01ef71884256ba3ca036bc07deb6ee5338d6c5b8625",
-                        "sha1": "2e58eab710dc1d57b5134b04ae59b8b9de3533f7"
+                        "sha512": "e4f32c81260ef7ff3cfe8fad789ec7949727d8966748f0d08936f7b9dc16f466b2521ceb37c81afc484fcb0b8976a66adb8540a3de18b4de6e494c0e62e5e338",
+                        "sha1": "8e08a7331dbd4d25fbfc26cf41196e2dead131d4"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
                         "Ha28R6CL",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "AibBIVmj"
                     ],
-                    "size": 100987,
-                    "date_published": "2026-10-23T03:58:57.224193Z"
+                    "size": 100910,
+                    "date_published": "2026-11-13T09:09:50.160335Z"
                 }
             ]
         },
