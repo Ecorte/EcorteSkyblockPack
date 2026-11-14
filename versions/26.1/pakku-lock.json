@@ -156,7 +156,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "behindyouv3-3.5.0+26.1.jar",
+                    "file_name": "behindyouv3-3.5.1+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -166,19 +166,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/sAFPANmp/versions/Kmg0fwVY/behindyouv3-3.5.0+26.1.jar",
-                    "id": "Kmg0fwVY",
+                    "url": "https://cdn.modrinth.com/data/sAFPANmp/versions/g8z2A95p/behindyouv3-3.5.1+26.1.jar",
+                    "id": "g8z2A95p",
                     "parent_id": "sAFPANmp",
                     "hashes": {
-                        "sha512": "e8816e409590d27730d6ce103c1db66bd88a4a6a30e4eb5852e9ab35929a1bd74564aa442ba5c69c4124ba3e8e8eaa3cfa5d72552776a85f086970c528c5341e",
-                        "sha1": "cc459c873749157e977494cb7735b9213c28740b"
+                        "sha512": "14cd76699864a8153b7166c5d17b1934de78f8f70e6c1062f26976b936818cd2df98f3a49662cf1b7c02c78762bfac40e2f6981b50df82b06d4a467e046ffd7d",
+                        "sha1": "65144ba4af8754c84cdebbdc068667f78a9b38a5"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "AibBIVmj"
+                        "AibBIVmj",
+                        "Ha28R6CL"
                     ],
-                    "size": 51200,
-                    "date_published": "2026-09-15T15:24:05.901338Z"
+                    "size": 95711,
+                    "date_published": "2026-11-14T16:42:32.486051Z"
                 }
             ]
         },
@@ -3370,7 +3370,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "obe+26.1.2-1.2.1.jar",
+                    "file_name": "obe+26.1.2-1.2.2.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3381,18 +3381,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/mCtl8IJ9/obe+26.1.2-1.2.1.jar",
-                    "id": "mCtl8IJ9",
+                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/wMt7HZu8/obe+26.1.2-1.2.2.jar",
+                    "id": "wMt7HZu8",
                     "parent_id": "AtOSAunf",
                     "hashes": {
-                        "sha512": "afb1dbaa4eef2d63a9fd1c9c6464147b3535ecdcc932fc658abeda88441f5713357adbe9100ab7937b5a3d3815126fd4771af816ca95f5ec88b9bad6f10d1298",
-                        "sha1": "12c1a5acc2ed0136f7161b326238570153c2d2a1"
+                        "sha512": "5abff05ff1a504eb7e00444812e36753885629a6d7fbec3221baaed0cef332d3891a1e2ce8d5c1b441073d54df9dd07bc0ae60e2e4fa8ef7d2ba77a822efb917",
+                        "sha1": "5a3de72ecb1a214ad349d03566a7c0f522105c61"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 246484,
-                    "date_published": "2026-11-03T14:14:32.055935Z"
+                    "size": 255420,
+                    "date_published": "2026-11-14T12:25:42.752582Z"
                 }
             ]
         },
