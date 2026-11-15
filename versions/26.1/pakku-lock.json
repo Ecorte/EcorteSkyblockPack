@@ -3146,30 +3146,30 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "NopoMod-2.6.0-26.1.2.jar",
+                    "file_name": "NopoMod-2.7.0-26.1.2.jar",
                     "mc_versions": [
-                        "26.1",
+                        "26.1.2",
                         "26.1.1",
-                        "26.1.2"
+                        "26.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/jygLhCKB/versions/5Qh9sdj6/NopoMod-2.6.0-26.1.2.jar",
-                    "id": "5Qh9sdj6",
+                    "url": "https://cdn.modrinth.com/data/jygLhCKB/versions/v93akpCm/NopoMod-2.7.0-26.1.2.jar",
+                    "id": "v93akpCm",
                     "parent_id": "jygLhCKB",
                     "hashes": {
-                        "sha512": "8fedd5bcae982729a59c0570202fd138ee02f2a634a62055e0449846b500f78078f6d44f8ac59f0686d32f739b5c0af1f2d0dbcc2b3db335521bea9611c5b658",
-                        "sha1": "0906c7d11acf208d63f536a8de1564c8890f84e6"
+                        "sha512": "46551f968c607da8eab31445aeb568c19b82c7bc69d3f6ada25dbd09601f713efd8cb1ab34e0512a03cdfb69b28886a8a28260327a349abe07eb89cd3037d066",
+                        "sha1": "f6287be6f8399475c1c5acbe9df3f29106ad6e46"
                     },
                     "required_dependencies": [
                         "1A2mKfBx",
                         "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 10397627,
-                    "date_published": "2026-09-19T11:45:32.718822Z"
+                    "size": 10444170,
+                    "date_published": "2026-11-15T10:45:06.747919Z"
                 }
             ]
         },
@@ -3370,7 +3370,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "obe+26.1.2-1.2.2.jar",
+                    "file_name": "obe+26.1.2-1.2.5.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3381,18 +3381,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/wMt7HZu8/obe+26.1.2-1.2.2.jar",
-                    "id": "wMt7HZu8",
+                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/nk7dL3RT/obe+26.1.2-1.2.5.jar",
+                    "id": "nk7dL3RT",
                     "parent_id": "AtOSAunf",
                     "hashes": {
-                        "sha512": "5abff05ff1a504eb7e00444812e36753885629a6d7fbec3221baaed0cef332d3891a1e2ce8d5c1b441073d54df9dd07bc0ae60e2e4fa8ef7d2ba77a822efb917",
-                        "sha1": "5a3de72ecb1a214ad349d03566a7c0f522105c61"
+                        "sha512": "f0a8c4e228fbe18d5b4d8c5b3be8ae450ad2dd423996b84795197974bb7d8c268f482ca9f0ba758b81310e7996282e17491e128096ef13204b7a3effcb9bb6ce",
+                        "sha1": "cf1a26a70869334eab2f88ed4ea83adb48015777"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 255420,
-                    "date_published": "2026-11-14T12:25:42.752582Z"
+                    "size": 264868,
+                    "date_published": "2026-11-15T14:11:37.321409Z"
                 }
             ]
         },
