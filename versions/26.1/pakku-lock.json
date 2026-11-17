@@ -156,7 +156,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "behindyouv3-3.5.1+26.1.jar",
+                    "file_name": "behindyouv3-3.5.2+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -166,19 +166,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/sAFPANmp/versions/g8z2A95p/behindyouv3-3.5.1+26.1.jar",
-                    "id": "g8z2A95p",
+                    "url": "https://cdn.modrinth.com/data/sAFPANmp/versions/6N24AZlF/behindyouv3-3.5.2+26.1.jar",
+                    "id": "6N24AZlF",
                     "parent_id": "sAFPANmp",
                     "hashes": {
-                        "sha512": "14cd76699864a8153b7166c5d17b1934de78f8f70e6c1062f26976b936818cd2df98f3a49662cf1b7c02c78762bfac40e2f6981b50df82b06d4a467e046ffd7d",
-                        "sha1": "65144ba4af8754c84cdebbdc068667f78a9b38a5"
+                        "sha512": "ca888a25bd92ea61e20bef9c4993823df7a05685065822022fab0490dadbd23c1f4af9c9fc43dc1e5564ddeb7ef76ca7c2ffd072356c99506a7151d9c872aa41",
+                        "sha1": "6f4e3b96e86df7eec210f3379e1a867b7a482b48"
                     },
                     "required_dependencies": [
                         "AibBIVmj",
                         "Ha28R6CL"
                     ],
-                    "size": 95711,
-                    "date_published": "2026-11-14T16:42:32.486051Z"
+                    "size": 95698,
+                    "date_published": "2026-11-17T18:36:24.460Z"
                 }
             ]
         },
@@ -550,7 +550,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "chatting-3.2.5+26.1.jar",
+                    "file_name": "chatting-3.2.6+26.1.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -560,19 +560,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/UHZSHuNP/chatting-3.2.5+26.1.jar",
-                    "id": "UHZSHuNP",
+                    "url": "https://cdn.modrinth.com/data/8pJYUDNi/versions/Zqqdr1Y5/chatting-3.2.6+26.1.jar",
+                    "id": "Zqqdr1Y5",
                     "parent_id": "8pJYUDNi",
                     "hashes": {
-                        "sha512": "dbc8dbc86860681e0600524f4c66409d58c7c7193fc35f12a95448ae9f00db332c3d99a817af68ab3fa7553623120bca0579d03cad416760371268b2ded6f9eb",
-                        "sha1": "c4fb9c0689b6ed1650647f4aebd83e097c56e323"
+                        "sha512": "876642029b4f9aef94ddea313993dd3b390fd4ff425d0586eda52e7387d56fbe5899407fb8541beb6dd945147c5f42e791a0725c54b2bbefd5f86cdf67565ecc",
+                        "sha1": "4f65c18711e6a7d08aca6f031392f77b85f0d0c0"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "AibBIVmj"
+                        "AibBIVmj",
+                        "Ha28R6CL"
                     ],
-                    "size": 252022,
-                    "date_published": "2026-10-24T19:33:13.693157Z"
+                    "size": 231245,
+                    "date_published": "2026-11-17T18:43:36.928542Z"
                 }
             ]
         },
@@ -3277,7 +3277,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.1-fabric-1.7.1.jar",
+                    "file_name": "OneConfig-26.1-fabric-1.8.0.jar",
                     "mc_versions": [
                         "26.1",
                         "26.1.1",
@@ -3287,20 +3287,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/h0VL1RiU/OneConfig-26.1-fabric-1.7.1.jar",
-                    "id": "h0VL1RiU",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/xyEjV28V/OneConfig-26.1-fabric-1.8.0.jar",
+                    "id": "xyEjV28V",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "db9c7622faf39a36e2ce8f57447fe60ffdb8003995917704561248112a704b0fe05b6a409b149f34cce974be840c9e44fbca9a105f44c8ee22e992a1df20ddda",
-                        "sha1": "f7d4b3cbf2ed3fc81cfe628ac0bab4bb4bd353ec"
+                        "sha512": "1503b005e7cedaf46197cf21d01ce62de299095fe390b3ee59acd5115d2db1b23e4982259ab111d148b43377e3720eeab6af24fb0e81a6040620aaa261ef11ad",
+                        "sha1": "380fb7c96bdf6f2db6a6abe4cd61e422401dab3c"
                     },
                     "required_dependencies": [
-                        "eHe8QhtD",
                         "Ha28R6CL",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "eHe8QhtD"
                     ],
-                    "size": 13038677,
-                    "date_published": "2026-11-12T22:56:31.166930Z"
+                    "size": 14652806,
+                    "date_published": "2026-11-17T17:38:54.120368Z"
                 }
             ]
         },
