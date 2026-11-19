@@ -708,7 +708,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc26.2-0.4.2-alpha.0.67.jar",
+                    "file_name": "c2me-fabric-mc26.2-0.4.2-alpha.0.71.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -716,16 +716,16 @@
                         "fabric"
                     ],
                     "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/uR0wg5ss/c2me-fabric-mc26.2-0.4.2-alpha.0.67.jar",
-                    "id": "uR0wg5ss",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/qwS7dYKj/c2me-fabric-mc26.2-0.4.2-alpha.0.71.jar",
+                    "id": "qwS7dYKj",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "8f155b2cf1e72b76fd18aeaf9e8b5dd27c64b0552df359ba580863144ec2f7e457144837d4a8d713175f26ca8a79af7729aa4ad9b3eabc96075524d54872c81c",
-                        "sha1": "9dbb031f1bbfc1c48cbd2e4a06af3c08b19bf810"
+                        "sha512": "a45125e3eed782aebde7e2d434bd8a5821ac053f5eec3c6f16f75bd7b2fe9f4a4e0e87ee7b403192cba4481a56cc9458e10c682f9013c47eac6bcd3c648fd90e",
+                        "sha1": "e107e87c92c3a099aa5f6d46f111ab2a0a90f0d2"
                     },
                     "required_dependencies": [],
-                    "size": 3826212,
-                    "date_published": "2026-11-12T01:07:55.441078Z"
+                    "size": 4104762,
+                    "date_published": "2026-11-19T12:40:43.393504Z"
                 }
             ]
         },
@@ -960,7 +960,7 @@
                 "modrinth": "damagetint"
             },
             "name": {
-                "modrinth": "DamageTint (Hit Color)"
+                "modrinth": "DamageTint (HitColor)"
             },
             "id": {
                 "modrinth": "6zatK8W5"
@@ -2884,7 +2884,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "NoChatReports-FABRIC-26.2-v2.20.2.jar",
+                    "file_name": "NoChatReports-FABRIC-MC26.2-v2.20.3.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -2892,18 +2892,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/aDbxaVTi/NoChatReports-FABRIC-26.2-v2.20.2.jar",
-                    "id": "aDbxaVTi",
+                    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/n9P6MzO6/NoChatReports-FABRIC-MC26.2-v2.20.3.jar",
+                    "id": "n9P6MzO6",
                     "parent_id": "qQyHxfxd",
                     "hashes": {
-                        "sha512": "aa14fa2d1cc94803f4c965fd817a945823037237bd7a1fea9dc9a0c6427084d25b8d9273da76bc132fe68794d2be8b91540bfff1309125aea37820c12bff0268",
-                        "sha1": "680b60f6ec5c09a646e7a76bb17cf551608051cd"
+                        "sha512": "65965b29c0af52c2ae6664f982a5e3ba144fbb624e2e3323d2b57c53dc5a0f6206be19cc7aba337db7df647642a3e59b87a2f73c1b1183e008ef5de8593e1319",
+                        "sha1": "e6a2dab445c03a0ad80b4ff6f0c88106f4fa2f7d"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 239602,
-                    "date_published": "2026-08-18T07:52:41.849926Z"
+                    "size": 225303,
+                    "date_published": "2026-11-19T11:51:42.610775Z"
                 }
             ]
         },
@@ -3224,7 +3224,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "obe+26.2-1.2.5.jar",
+                    "file_name": "obe+26.2-1.2.12.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -3233,18 +3233,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/rPa8K4lG/obe+26.2-1.2.5.jar",
-                    "id": "rPa8K4lG",
+                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/815DQu2y/obe+26.2-1.2.12.jar",
+                    "id": "815DQu2y",
                     "parent_id": "AtOSAunf",
                     "hashes": {
-                        "sha512": "f614d1e8a574ac24559bbe93500737f3006905b64c167cf2ab760d48605ffa19587a42eda19ec34c07e9f2ed91e334b5afa1d8d3052903785bc2c62340baac1b",
-                        "sha1": "f52deb8ae19dc43b8ca7e3fcfa5a485841c04d33"
+                        "sha512": "8ad45f7d48701bbe124f26ab5847eeca4c70be58c07bedd0aca477e8c4f23edc3db09230f009285efb63bcafa8d6bffd178c7c7a9b090c47d1a743fe71beb394",
+                        "sha1": "1e1e1cd66b36db7c82cd16ed01b254776766da61"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 246873,
-                    "date_published": "2026-11-15T14:01:17.471705Z"
+                    "size": 252513,
+                    "date_published": "2026-11-19T09:29:08.709140Z"
                 }
             ]
         },
@@ -4049,7 +4049,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SkyHanni-9.4.0-mc26.2.jar",
+                    "file_name": "SkyHanni-9.5.0-mc26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -4057,20 +4057,20 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/AS7NPABL/SkyHanni-9.4.0-mc26.2.jar",
-                    "id": "AS7NPABL",
+                    "url": "https://cdn.modrinth.com/data/byNkmv5G/versions/N4SneavR/SkyHanni-9.5.0-mc26.2.jar",
+                    "id": "N4SneavR",
                     "parent_id": "byNkmv5G",
                     "hashes": {
-                        "sha512": "49c3e3c7bc6e18682aa2d566d99570214786d9c6c37f1f1f25c37d558ab2c28c3b8e7e9123330278af2e9ba7d5d0c2287e7935fe5ab30c73f149c8da8b0d9a5b",
-                        "sha1": "0318e04f0e9c8075aed8bed7550bcf8381898e21"
+                        "sha512": "1a4a87adcc0050b992b74f0218681040f9771b243daf517871b72f6259e239007b000b8d86bf473217be1864653b9adf0168c04861443d621b01db78e5f1214d",
+                        "sha1": "dea773c7631e70ccb8fbb3ce61efc43f4257439f"
                     },
                     "required_dependencies": [
-                        "1A2mKfBx",
                         "Ha28R6CL",
+                        "1A2mKfBx",
                         "P7dR8mSH"
                     ],
-                    "size": 29450549,
-                    "date_published": "2026-11-16T12:00:54.031650Z"
+                    "size": 29469891,
+                    "date_published": "2026-11-19T14:23:23.582839Z"
                 }
             ]
         },
