@@ -1691,27 +1691,28 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "HypixelModAPI-1.0.2+build.1+mc26.1.jar",
+                    "file_name": "HypixelModAPI-1.0.3+build.1+mc26.1.jar",
                     "mc_versions": [
-                        "26.1",
-                        "26.1.1",
+                        "26.3",
+                        "26.2",
                         "26.1.2",
-                        "26.2"
+                        "26.1.1",
+                        "26.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1A2mKfBx/versions/SlqCF6Or/HypixelModAPI-1.0.2+build.1+mc26.1.jar",
-                    "id": "SlqCF6Or",
+                    "url": "https://cdn.modrinth.com/data/1A2mKfBx/versions/9AogwMDM/HypixelModAPI-1.0.3+build.1+mc26.1.jar",
+                    "id": "9AogwMDM",
                     "parent_id": "1A2mKfBx",
                     "hashes": {
-                        "sha512": "ceb4cf37edf3e263801d23d80f88f331798133d8facc56b2501b2f5f86e32d7cea7a94356b1cf29865cae20fb07a50f4765a35180af265d708e05cea976a3fe8",
-                        "sha1": "88726ef6465e41d6f5bce83b7575bdf0a279b800"
+                        "sha512": "fbbbb1b8460e19661b93dc1d3b51f3d79f69b4e3b12825e595ce8d1c866df4cd00f9903c9c0533d2d2784201c46012c4a59862ba185ffd9ce2ccedc4f14638b1",
+                        "sha1": "18090e9696ba704904b57f471c71423cef5997ef"
                     },
                     "required_dependencies": [],
-                    "size": 93769,
-                    "date_published": "2026-03-24T21:38:17.471719Z"
+                    "size": 94311,
+                    "date_published": "2026-11-21T00:34:52.250961Z"
                 }
             ]
         },
