@@ -3269,7 +3269,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "overflowparticles-1.2.6+26.2.jar",
+                    "file_name": "overflowparticles-1.2.7+26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -3277,20 +3277,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/61g97TVF/versions/wPfNcyul/overflowparticles-1.2.6+26.2.jar",
-                    "id": "wPfNcyul",
+                    "url": "https://cdn.modrinth.com/data/61g97TVF/versions/emFreWj1/overflowparticles-1.2.7+26.2.jar",
+                    "id": "emFreWj1",
                     "parent_id": "61g97TVF",
                     "hashes": {
-                        "sha512": "ba2ede13e9e5b7cdc4c388f590eee78e7286b5ed0ca99e0fd0e8b861777f312e06470e2b8ccce65fc6c23c9b7ecf6468ef57f871f8c72eeb768741940ee465d1",
-                        "sha1": "aa2418b474c97bf6425996a07fab685a4f5f29f7"
+                        "sha512": "49705e5354fdedf5c1df5886083ad6cd218e16ea36e899ef65eabaf28ccdcbde563308a4e7680fdbd1eb531f370a5ddbd5c5dd83f0e3b64408da9aa91f9ad879",
+                        "sha1": "3fe4f1e9f055eacce43ceddc1903638acb43bf79"
                     },
                     "required_dependencies": [
                         "AibBIVmj",
                         "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 137174,
-                    "date_published": "2026-11-17T21:44:42.662641Z"
+                    "size": 138735,
+                    "date_published": "2026-11-21T18:40:05.181748Z"
                 }
             ]
         },
@@ -3662,7 +3662,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "reeses-sodium-options-fabric-2.2.4+mc26.2.jar",
+                    "file_name": "reeses-sodium-options-fabric-2.2.6+mc26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -3670,18 +3670,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/nnz8j4Hu/reeses-sodium-options-fabric-2.2.4+mc26.2.jar",
-                    "id": "nnz8j4Hu",
+                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/py1X8ZGN/reeses-sodium-options-fabric-2.2.6+mc26.2.jar",
+                    "id": "py1X8ZGN",
                     "parent_id": "Bh37bMuy",
                     "hashes": {
-                        "sha512": "d0d313f1db8f792b3b097dcbce095669c2a638e8995f2ba3dfdc5e517afcbc24de5e4d6c24dd77b3f44558490e7a6b408fa7661a8be52113327a4a560f984edc",
-                        "sha1": "2afa030032453550d89ccdf1f235f85c0166568d"
+                        "sha512": "408b73cde7ca9d3eec282754e09f758769839dab0734327bc7f0e42e56d0431f52a68e69a59d30e1a7075a32ebcc606b03534d8541db9f2ffcae01c9de75b749",
+                        "sha1": "c1abe13c8e5c7e559afb71e701fc9c2f62d7261c"
                     },
                     "required_dependencies": [
                         "AANobbMI"
                     ],
-                    "size": 257483,
-                    "date_published": "2026-09-16T00:55:35.141435Z"
+                    "size": 265337,
+                    "date_published": "2026-11-21T20:47:29.006369Z"
                 }
             ]
         },
@@ -4178,27 +4178,27 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SBO-0.7.2-beta.3+26.2-fabric.jar",
+                    "file_name": "SBO-0.8.0+26.2-fabric.jar",
                     "mc_versions": [
                         "26.2"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/9lBqVbQF/versions/VYPMacEX/SBO-0.7.2-beta.3+26.2-fabric.jar",
-                    "id": "VYPMacEX",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9lBqVbQF/versions/HllM4tPE/SBO-0.8.0+26.2-fabric.jar",
+                    "id": "HllM4tPE",
                     "parent_id": "9lBqVbQF",
                     "hashes": {
-                        "sha512": "a7682295868f6332680829d77b7773b137b7ed72facc531be8de9c73427ed23f4055dc1a18fcf796abeea4a034f55bcef2ce76a51140e782c53629a9799989e8",
-                        "sha1": "3b7e855d9aeb2cbff4272ca1749a62ee65269140"
+                        "sha512": "732f1d6b8364ec9e5739f66764112e799a5224652662294063b0a114f06c619c78506639f65b667a0cf17a6aeecd2b69ccbabfbeb5b0cb358165dde3bd96c9f1",
+                        "sha1": "a4493bb41a4ff711515198715f3abdb329d64da7"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "P7dR8mSH"
                     ],
-                    "size": 7011564,
-                    "date_published": "2026-11-09T10:45:00.440485Z"
+                    "size": 7338320,
+                    "date_published": "2026-11-21T22:11:29.327838Z"
                 }
             ]
         },
