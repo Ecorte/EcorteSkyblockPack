@@ -839,7 +839,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "CrashPatch-2.2.5+26.2.jar",
+                    "file_name": "CrashPatch-2.3.0+26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -847,20 +847,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/AVs3drmZ/CrashPatch-2.2.5+26.2.jar",
-                    "id": "AVs3drmZ",
+                    "url": "https://cdn.modrinth.com/data/nZ3E8WQz/versions/SqKB1RLq/CrashPatch-2.3.0+26.2.jar",
+                    "id": "SqKB1RLq",
                     "parent_id": "nZ3E8WQz",
                     "hashes": {
-                        "sha512": "f8bab4277b9d4a18e549a3b80e7446548864b7382d699470119c5cf27f36802c8535112618f21162f268a7701669c0076e1f4924915ff02270abd6c7be6c9738",
-                        "sha1": "7c52e784537d531fc60236c1200c1500bf7dbf0d"
+                        "sha512": "588856b2d1d990a6af9ca918ffca6e9b4cd1d176169e6d0043c0e0896cbca893635df7aff83f118ca5ea219c5f2743733ee50d236e72bed6544dfaef4b2bd13e",
+                        "sha1": "c36e4fff71d3c397e02d90ffc76cfb05bb8fec94"
                     },
                     "required_dependencies": [
                         "AibBIVmj",
                         "Ha28R6CL",
                         "yM94ont6"
                     ],
-                    "size": 255322,
-                    "date_published": "2026-11-18T07:16:30.713539Z"
+                    "size": 255370,
+                    "date_published": "2026-11-21T13:45:30.453618Z"
                 }
             ]
         },
@@ -1176,7 +1176,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "evergreenhud-3.9.19+26.2.jar",
+                    "file_name": "evergreenhud-3.10.0+26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -1184,20 +1184,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/nZmHPhai/evergreenhud-3.9.19+26.2.jar",
-                    "id": "nZmHPhai",
+                    "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/ZgIEZ7fn/evergreenhud-3.10.0+26.2.jar",
+                    "id": "ZgIEZ7fn",
                     "parent_id": "1yIQcc2b",
                     "hashes": {
-                        "sha512": "07bd4d03d25a97ca7d97f11d1bc1aac013aa4f44d84a10011d90db7e4ced8822917d652a6e7980d87fe4cda9dfe3b2affa6e921eaff137fd117dae49e8de7eb0",
-                        "sha1": "576d9414ee1bd4452561abd62355cabf57453f31"
+                        "sha512": "2e0d4d97cc229f3e94e58979868994ae6b43ac8ee68a163ee7b564b5dd56a8797e2f0271229a5ed1699f9fc230835077f055a5b28b1008ef3580cc48fb971f67",
+                        "sha1": "cb7813709ed22541259bfd74e30a6761636d0541"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
-                        "Ha28R6CL",
-                        "AibBIVmj"
+                        "AibBIVmj",
+                        "Ha28R6CL"
                     ],
-                    "size": 1118169,
-                    "date_published": "2026-11-17T21:45:25.547330Z"
+                    "size": 1121473,
+                    "date_published": "2026-11-21T13:50:02.606586Z"
                 }
             ]
         },
@@ -3136,7 +3136,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.2-fabric-1.8.0.jar",
+                    "file_name": "OneConfig-26.2-fabric-1.9.0.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -3144,20 +3144,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/zY7r7Fhv/OneConfig-26.2-fabric-1.8.0.jar",
-                    "id": "zY7r7Fhv",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/gCeuqoDe/OneConfig-26.2-fabric-1.9.0.jar",
+                    "id": "gCeuqoDe",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "750c05b6e4a6ecf79cb8f7cd3eb95015dd27ce76a26653ee9cc076a17dd70b77b5769f14a33d1cd159718c022401d3dc5a74ffa325d574f5b9952743c9ff3937",
-                        "sha1": "1cc531bb17ac730a185c817a34ecd0d1fb169013"
+                        "sha512": "0c4362ec79ac79d1aedb7f1b89c6f59ed5f0507af922ae1d9ab428fdb9856202edeb8317ac009eeae45797a90e7f003d19a414ee3396635b6e12d6900e777a8a",
+                        "sha1": "f7411d50bc290bcce8cd73fee92b9492360e6660"
                     },
                     "required_dependencies": [
-                        "eHe8QhtD",
                         "P7dR8mSH",
+                        "eHe8QhtD",
                         "Ha28R6CL"
                     ],
-                    "size": 14571733,
-                    "date_published": "2026-11-17T17:38:56.940904Z"
+                    "size": 13643726,
+                    "date_published": "2026-11-21T13:35:41.279408Z"
                 }
             ]
         },
@@ -4688,7 +4688,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "vanillahud-3.5.10+26.2.jar",
+                    "file_name": "vanillahud-3.5.11+26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -4696,20 +4696,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/rcdwsU6K/vanillahud-3.5.10+26.2.jar",
-                    "id": "rcdwsU6K",
+                    "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/rwEYPmuZ/vanillahud-3.5.11+26.2.jar",
+                    "id": "rwEYPmuZ",
                     "parent_id": "pWXJaKrX",
                     "hashes": {
-                        "sha512": "091149019c3ab8e93af318e1ab25006a66424ee047deebf9466180ca0bea96c1c9a61a8b3fa021059aa04892e2fda76b0f5ccde42330630c9c0d6808dce4d36d",
-                        "sha1": "93251bc70a8129a51e8f3d2fe6bb7dad2a762911"
+                        "sha512": "c603e5bf670102e2af2be4d4d63d685816254de5a83c6aebc84138e3e1d39b0649cb5be0a079e5af091639795b3c0c9d46a8a2bc72f7836df96bac34a9fd26d3",
+                        "sha1": "905daaa537a6d81e7b034a8ce3248c3c66f195d7"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
+                        "P7dR8mSH",
                         "Ha28R6CL",
-                        "P7dR8mSH"
+                        "AibBIVmj"
                     ],
-                    "size": 252240,
-                    "date_published": "2026-10-24T13:41:33.760326Z"
+                    "size": 438595,
+                    "date_published": "2026-11-21T13:42:35.710227Z"
                 }
             ]
         },
