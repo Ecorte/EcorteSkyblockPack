@@ -3136,7 +3136,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "OneConfig-26.2-fabric-1.9.0.jar",
+                    "file_name": "OneConfig-26.2-fabric-1.9.1.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -3144,20 +3144,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/gCeuqoDe/OneConfig-26.2-fabric-1.9.0.jar",
-                    "id": "gCeuqoDe",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/AqTBrrwU/OneConfig-26.2-fabric-1.9.1.jar",
+                    "id": "AqTBrrwU",
                     "parent_id": "AibBIVmj",
                     "hashes": {
-                        "sha512": "0c4362ec79ac79d1aedb7f1b89c6f59ed5f0507af922ae1d9ab428fdb9856202edeb8317ac009eeae45797a90e7f003d19a414ee3396635b6e12d6900e777a8a",
-                        "sha1": "f7411d50bc290bcce8cd73fee92b9492360e6660"
+                        "sha512": "a9cf6c88c2c6352278f835d846cdcebb349579a3f434338beb232627208fe0ab124c821e82ea277f108bb8e25c8576082de5a56a1e36d888c0a157f4ad0e4c24",
+                        "sha1": "301b118b9153f3a876b421801f383dc5f316fd19"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
                         "eHe8QhtD",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "P7dR8mSH"
                     ],
-                    "size": 13643726,
-                    "date_published": "2026-11-21T13:35:41.279408Z"
+                    "size": 13751679,
+                    "date_published": "2026-11-21T23:13:47.132524Z"
                 }
             ]
         },
@@ -4688,7 +4688,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "vanillahud-3.5.11+26.2.jar",
+                    "file_name": "vanillahud-3.5.13+26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -4696,20 +4696,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/rwEYPmuZ/vanillahud-3.5.11+26.2.jar",
-                    "id": "rwEYPmuZ",
+                    "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/l3QYBCgb/vanillahud-3.5.13+26.2.jar",
+                    "id": "l3QYBCgb",
                     "parent_id": "pWXJaKrX",
                     "hashes": {
-                        "sha512": "c603e5bf670102e2af2be4d4d63d685816254de5a83c6aebc84138e3e1d39b0649cb5be0a079e5af091639795b3c0c9d46a8a2bc72f7836df96bac34a9fd26d3",
-                        "sha1": "905daaa537a6d81e7b034a8ce3248c3c66f195d7"
+                        "sha512": "26b5b28070a8b6f011f9b879b984e6e11435a813e55023ba828bf34370a9b8a6b7e2b96ad6b3f0c0f1a20b9ce149ef0ead9396c28099bdbf7f2b4320e9aa08d3",
+                        "sha1": "afa78b30dd9130ae26ac043bb4c49c09812c88f7"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
+                        "AibBIVmj",
                         "Ha28R6CL",
-                        "AibBIVmj"
+                        "P7dR8mSH"
                     ],
-                    "size": 438595,
-                    "date_published": "2026-11-21T13:42:35.710227Z"
+                    "size": 439308,
+                    "date_published": "2026-11-22T02:31:58.379105Z"
                 }
             ]
         },
