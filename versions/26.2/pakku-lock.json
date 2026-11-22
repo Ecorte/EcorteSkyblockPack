@@ -610,7 +610,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "colorsaturation-1.3.3+26.2.jar",
+                    "file_name": "colorsaturation-1.3.4+26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -618,19 +618,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fLNnSWgM/versions/augzzDQC/colorsaturation-1.3.3+26.2.jar",
-                    "id": "augzzDQC",
+                    "url": "https://cdn.modrinth.com/data/fLNnSWgM/versions/eryw5xU6/colorsaturation-1.3.4+26.2.jar",
+                    "id": "eryw5xU6",
                     "parent_id": "fLNnSWgM",
                     "hashes": {
-                        "sha512": "c201e8b54bdcade2d8806cbff18f8e3c96e50422d336f5ed977b2c859623e9ad50d0daf63cf10b63aab1cedbbebe127933287cdc95be1e67bd28e4f0b97ae094",
-                        "sha1": "5b87e39dc227f144bbce193bf44ec685bb4f447e"
+                        "sha512": "b9fde50daeca608106cbaa22901158213e2c7ca79bdd7f67db7bb3547d15b4effaf7e493f233912dc8a1de181a86730d3167238e4edf17cd338354f4f4286976",
+                        "sha1": "e8538bbab9d6f9794c3a51e4e46ea169271d5e7b"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "AibBIVmj"
                     ],
-                    "size": 87160,
-                    "date_published": "2026-11-17T22:50:36.427172Z"
+                    "size": 85167,
+                    "date_published": "2026-11-22T23:05:54.650217Z"
                 }
             ]
         },
@@ -4567,7 +4567,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "stella-1.0.6+26.2.jar",
+                    "file_name": "stella-1.0.7+26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -4575,16 +4575,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ZSWJelST/versions/b6oorMUh/stella-1.0.6+26.2.jar",
-                    "id": "b6oorMUh",
+                    "url": "https://cdn.modrinth.com/data/ZSWJelST/versions/GQVroqJM/stella-1.0.7+26.2.jar",
+                    "id": "GQVroqJM",
                     "parent_id": "ZSWJelST",
                     "hashes": {
-                        "sha512": "5e5b606b51095def4cf776c09670841511d80c12653e8fdaf821e6cdfda7d5db1cffc984a3cb51d28248e06af204db68a6721674ed76ec28777c7d30a107ee4f",
-                        "sha1": "f6b396b95e6a488f61dc5e766574f38159cfe6c4"
+                        "sha512": "ffb2fc68417c51105a19592489f70518ad45011d3d9f65175582af1cd1b0e85d454eef797c0834338e998d344a94f2458251600d5242346e55941e8aac802eb4",
+                        "sha1": "f2ff963beb7f0d547b72534eb61e0df3c36a9876"
                     },
                     "required_dependencies": [],
-                    "size": 7213746,
-                    "date_published": "2026-09-27T00:14:49.294824Z"
+                    "size": 7919344,
+                    "date_published": "2026-11-22T18:49:20.639195Z"
                 }
             ]
         },
