@@ -1422,7 +1422,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Feesh-1.18.2+26.2-fabric.jar",
+                    "file_name": "Feesh-1.18.3+26.2-fabric.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -1430,19 +1430,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/c9lfYrhF/Feesh-1.18.2+26.2-fabric.jar",
-                    "id": "c9lfYrhF",
+                    "url": "https://cdn.modrinth.com/data/QCpogurE/versions/16KD1TLC/Feesh-1.18.3+26.2-fabric.jar",
+                    "id": "16KD1TLC",
                     "parent_id": "QCpogurE",
                     "hashes": {
-                        "sha512": "4c6b571e624c1503fa88493e22b9449e07ed7e41f4afe27f99ffe71a42b45ee7e964d6cae02ad0ecd642dd7cc0949935988834f0358239c5e0b53ea7e46c7cd2",
-                        "sha1": "a717d3b6d8e6fbb0f623a3bbb723c73630ab46e8"
+                        "sha512": "5b97e14148dba9ab0f6a871c07385dbff79292c278f2d76dda2dd07d0e26e20a2e3341dc02b1669292cb853027d1c756213f9a785e31c1727ba94fc86ddc2561",
+                        "sha1": "93b5c60e65e4e3aae71d93a3e26e277390bd444f"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "P7dR8mSH"
                     ],
-                    "size": 2976522,
-                    "date_published": "2026-11-19T19:50:01.769842Z"
+                    "size": 2972467,
+                    "date_published": "2026-11-24T20:19:29.271264Z"
                 }
             ]
         },
@@ -3406,7 +3406,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "polynametag-1.2.6+26.2.jar",
+                    "file_name": "polynametag-1.2.7+26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -3414,19 +3414,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/uH22OOft/polynametag-1.2.6+26.2.jar",
-                    "id": "uH22OOft",
+                    "url": "https://cdn.modrinth.com/data/HK3p7LMj/versions/x0bXjYrj/polynametag-1.2.7+26.2.jar",
+                    "id": "x0bXjYrj",
                     "parent_id": "HK3p7LMj",
                     "hashes": {
-                        "sha512": "edc8941c9471d527a038b295ccf7feaae5976bf7a9bd0205eca26eb9ded58b3aef75137f99b6c6d77e7907fa2a6dd6bd7a49f70806e39e22c7698184c45497eb",
-                        "sha1": "40af32f5840de89c06a6a5afe29b832ca43ac2a7"
+                        "sha512": "3d985366bfa2f506a4f17d4bb414a8627f0fd3359a420344046a0a0e028b10d997459d370b62ada7ac1300e26093d5d0cd599c7ab9091bac4dd074d7296054f4",
+                        "sha1": "8bda3f329bb2d0c81dbb6e50a1c51dd45ca59264"
                     },
                     "required_dependencies": [
-                        "AibBIVmj",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "AibBIVmj"
                     ],
-                    "size": 90640,
-                    "date_published": "2026-11-17T20:40:35.282100Z"
+                    "size": 90456,
+                    "date_published": "2026-11-24T21:19:33.050342Z"
                 }
             ]
         },
@@ -4357,24 +4357,24 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "sodium-fabric-0.9.2+mc26.2.jar",
+                    "file_name": "sodium-fabric-0.9.4-beta.1+mc26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/xJZxADzI/sodium-fabric-0.9.2+mc26.2.jar",
-                    "id": "xJZxADzI",
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Ql1mFeyg/sodium-fabric-0.9.4-beta.1+mc26.2.jar",
+                    "id": "Ql1mFeyg",
                     "parent_id": "AANobbMI",
                     "hashes": {
-                        "sha512": "9b7a7aade8824543ce2a804fddfd04e37f57d1f91c00574e7dc87e554eb1835d888313ee6f715a7599bd729840cf01fd74e02aeae87b4e5a3c10c34a016e407c",
-                        "sha1": "62a70961a5b3e06938e06ab5f2dc4c5a51cf3323"
+                        "sha512": "2f5c69b7b31283ffe6c85c93964e763ffd72886e77ef76b0689e346f3a3cdeb7c4166d51bd811f80e247716d2276fd4099c2b3b9569ab6d1c522109590ac025c",
+                        "sha1": "9cffb29a9b1799ebee2fdbca4b893bb458729fef"
                     },
                     "required_dependencies": [],
-                    "size": 1885572,
-                    "date_published": "2026-09-11T18:08:28.513893Z"
+                    "size": 1919212,
+                    "date_published": "2026-11-24T21:25:38.899828Z"
                 }
             ]
         },
@@ -4482,27 +4482,27 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Sophie's Enchants V2.3.1.zip",
+                    "file_name": "Sophie's Enchants V2.3.2.zip",
                     "mc_versions": [
-                        "26.3",
-                        "26.2"
+                        "26.2",
+                        "26.3"
                     ],
                     "loaders": [
                         "minecraft"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/XBG9JHVh/versions/z9dc0k23/Sophie's Enchants V2.3.1.zip",
-                    "id": "z9dc0k23",
+                    "url": "https://cdn.modrinth.com/data/XBG9JHVh/versions/EX7PlHk8/Sophie's Enchants V2.3.2.zip",
+                    "id": "EX7PlHk8",
                     "parent_id": "XBG9JHVh",
                     "hashes": {
-                        "sha512": "fdded4696c24da21d38556d6dcd577913b59a0264ad100636622f2cf405669eef87ba4d6be66dab70ae101cd86e4a59de7066986a46f433b5286ab74d584d6ae",
-                        "sha1": "bb2e51eddc3ab1c0dc65001f33bdfc7c3ac60a7d"
+                        "sha512": "97df982f4ca82d87da919383892b46c020c50730fa2475657507196a7c189c3f5ddf8cfced9a0eacd5b6477a55d578131da6ecf19356ce5370a9c7825d0262f2",
+                        "sha1": "e113c0a26c3b3bd2a00681baef78559a4f9bdbe2"
                     },
                     "required_dependencies": [
                         "fc4wBpRx"
                     ],
-                    "size": 642005,
-                    "date_published": "2026-11-10T08:24:59.216309Z"
+                    "size": 645807,
+                    "date_published": "2026-11-24T17:20:19.430938Z"
                 }
             ]
         },
@@ -4688,7 +4688,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "vanillahud-3.5.17+26.2.jar",
+                    "file_name": "vanillahud-3.5.18+26.2.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -4696,20 +4696,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/gqWq1KcT/vanillahud-3.5.17+26.2.jar",
-                    "id": "gqWq1KcT",
+                    "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/KC9O1Fv5/vanillahud-3.5.18+26.2.jar",
+                    "id": "KC9O1Fv5",
                     "parent_id": "pWXJaKrX",
                     "hashes": {
-                        "sha512": "5a8285eb686312cdf0de61036b972e06fc5bc092d0e80c80efa400e3349c6e02b9232a6edc1837d2a70d4eeb30d23c595b7077fb0f44206b451e050a9a5aeed2",
-                        "sha1": "444b1bae109a48919f34509d29db760b1dea8759"
+                        "sha512": "3e0e769d65e1d426b292c8a18123803ea12609afa9b1621a406d3cba4caf1a5da5b9fc6dbea0450b57a92593036a7a1c0f05422555038c67581b17f2bc09084e",
+                        "sha1": "4f97c87cfc4b5e7f439ccae00c122b6906df32b8"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "P7dR8mSH",
                         "AibBIVmj"
                     ],
-                    "size": 482246,
-                    "date_published": "2026-11-23T07:36:47.413759Z"
+                    "size": 484803,
+                    "date_published": "2026-11-24T21:17:13.179077Z"
                 }
             ]
         },
