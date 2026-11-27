@@ -109,24 +109,27 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "BadOptimizations-2.4.1-26.2-fabric.jar",
+                    "file_name": "BadOptimizations-3.0.0-26.1-3.jar",
                     "mc_versions": [
-                        "26.2"
+                        "26.1",
+                        "26.2",
+                        "26.3"
                     ],
                     "loaders": [
-                        "fabric"
+                        "fabric",
+                        "neoforge"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/JmPs4Wie/BadOptimizations-2.4.1-26.2-fabric.jar",
-                    "id": "JmPs4Wie",
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/zdHCx8em/BadOptimizations-3.0.0-26.1-3.jar",
+                    "id": "zdHCx8em",
                     "parent_id": "g96Z4WVZ",
                     "hashes": {
-                        "sha512": "f91c409d4ce68d027ac0a11b6d2828c5f6d057e749ff0ce596f3a84a65fc1e3905b08f4d97a21a7302e2bfaf4ff865907272bd9c7ffa8487701b22e40dfe2f97",
-                        "sha1": "b36b001f869d04245523807d9ccb26a085f243b4"
+                        "sha512": "049d6b2fb2a3fde07ef8461770923d276b325a9bfb1112b304fea1292f60c6f4aff846f1e44711b05cff00ae2a9b4a3c4aacdd9825ad8761dea473d096a1b854",
+                        "sha1": "7246658439db2c69b137894ea23c58aa395d4ead"
                     },
                     "required_dependencies": [],
-                    "size": 60709,
-                    "date_published": "2026-06-16T19:06:36.516381Z"
+                    "size": 72896,
+                    "date_published": "2026-11-26T22:46:56.709257Z"
                 }
             ]
         },
@@ -3225,7 +3228,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "obe+26.2-1.2.14.jar",
+                    "file_name": "obe+26.2-1.2.16.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -3234,18 +3237,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/JwMYOj8k/obe+26.2-1.2.14.jar",
-                    "id": "JwMYOj8k",
+                    "url": "https://cdn.modrinth.com/data/AtOSAunf/versions/dNFMaXTO/obe+26.2-1.2.16.jar",
+                    "id": "dNFMaXTO",
                     "parent_id": "AtOSAunf",
                     "hashes": {
-                        "sha512": "220ae8f61bc5147cc425dc7e119a8254c003e9d8a8005b93be8f2db662580af59fac12207b2350419f5347a6c774572f203cb55051048d5e6830e7d02d20df92",
-                        "sha1": "c154db47257976b0126b2cba8e8e0ddbcf3b8ec8"
+                        "sha512": "935c2c4879e3ac73db9a185e8fdabdc231fe33c5ad74808d65788684c8556e8f7144800114f5ff55acee27cace8e108d518e9b725aa68d782b32ad5c10b97def",
+                        "sha1": "008df063c6d9e5d99dfb9a107375981fa5aff4bc"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 257343,
-                    "date_published": "2026-11-22T17:58:27.136163Z"
+                    "size": 255317,
+                    "date_published": "2026-11-26T21:56:46.356583Z"
                 }
             ]
         },
@@ -4895,7 +4898,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "zoomify-2.17.0+mc26.2-universal.jar",
+                    "file_name": "zoomify-2.17.1+mc26.2-universal.jar",
                     "mc_versions": [
                         "26.2"
                     ],
@@ -4904,21 +4907,21 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/D64cvU6G/zoomify-2.17.0+mc26.2-universal.jar",
-                    "id": "D64cvU6G",
+                    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/INgItMa5/zoomify-2.17.1+mc26.2-universal.jar",
+                    "id": "INgItMa5",
                     "parent_id": "w7ThoJFB",
                     "hashes": {
-                        "sha512": "0367a44c0cfe0b81e210057cd4464275a34d1dac4653b58facb084c36d5770551fb9f474af69ce05c6f8109be837304ccf6c9dfa83d752de5037bb99fdc54eb3",
-                        "sha1": "e357d25ee231b6da05393f96baa2b8d76439565a"
+                        "sha512": "27a547e5c5af3bfe2090c3e7a08217182d23c6a156c7efe54d4ca662e3dd227e857bce99206a2cb9df2a5db62a35f9ca42f84e0e54e03c3b70c400f6418c7625",
+                        "sha1": "fb904de1ba33ed1382bf72b1c00c08aec96c89cc"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "1eAoo2KR",
                         "1vrSzlao",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "Ha28R6CL",
+                        "1eAoo2KR"
                     ],
-                    "size": 579144,
-                    "date_published": "2026-10-08T12:59:28.951534Z"
+                    "size": 580468,
+                    "date_published": "2026-11-26T20:08:04.675375Z"
                 }
             ]
         },
